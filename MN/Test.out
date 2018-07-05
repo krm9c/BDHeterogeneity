@@ -1,0 +1,162 @@
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+('Four Layers', 'Details', 'mnist_EDL.csv', 'mnist', 1, 128, 50)
+('i', 0, 'kappa', 0.9005229173514525)
+EDL
+Accuracy test [0.83859998] train [0.90189093] gen_error [-0.06329095]
+Accuracy test [0.88029999] train [0.93647271] gen_error [-0.05617273]
+Accuracy test [0.89069998] train [0.95441818] gen_error [-0.0637182]
+Accuracy test [0.90869999] train [0.96149093] gen_error [-0.05279094]
+Accuracy test [0.91350001] train [0.96585453] gen_error [-0.05235451]
+Accuracy test [0.91170001] train [0.97050911] gen_error [-0.0588091]
+Accuracy test [0.90700001] train [0.97005457] gen_error [-0.06305456]
+Accuracy test [0.91780001] train [0.97534543] gen_error [-0.05754542]
+Accuracy test [0.92000002] train [0.97556365] gen_error [-0.05556363]
+Accuracy test [0.91939998] train [0.97789091] gen_error [-0.05849093]
+Accuracy test [0.92430001] train [0.98072726] gen_error [-0.05642724]
+Accuracy test [0.91430002] train [0.9780727] gen_error [-0.06377268]
+Accuracy test [0.92479998] train [0.98152727] gen_error [-0.05672729]
+Accuracy test [0.92140001] train [0.98070908] gen_error [-0.05930907]
+Accuracy test [0.9242] train [0.98052728] gen_error [-0.05632728]
+Accuracy test [0.92729998] train [0.98365456] gen_error [-0.05635458]
+Accuracy test [0.92250001] train [0.98314548] gen_error [-0.06064546]
+Accuracy test [0.9224] train [0.98310912] gen_error [-0.06070912]
+Accuracy test [0.9271] train [0.98234546] gen_error [-0.05524546]
+Accuracy test [0.92269999] train [0.97941816] gen_error [-0.05671817]
+Accuracy test [0.92760003] train [0.98349088] gen_error [-0.05589086]
+Accuracy test [0.9289] train [0.98367274] gen_error [-0.05477273]
+Accuracy test [0.92659998] train [0.98327273] gen_error [-0.05667275]
+Accuracy test [0.92699999] train [0.98381817] gen_error [-0.05681819]
+Accuracy test [0.92790002] train [0.9854182] gen_error [-0.05751818]
+Accuracy test [0.921] train [0.98134547] gen_error [-0.06034547]
+Accuracy test [0.93019998] train [0.98490912] gen_error [-0.05470914]
+Accuracy test [0.93010002] train [0.98585457] gen_error [-0.05575454]
+Accuracy test [0.93059999] train [0.9873091] gen_error [-0.05670911]
+Accuracy test [0.92119998] train [0.97976363] gen_error [-0.05856365]
+Accuracy test [0.93589997] train [0.98681819] gen_error [-0.05091822]
+Accuracy test [0.93169999] train [0.98265457] gen_error [-0.05095458]
+Accuracy test [0.93279999] train [0.98583639] gen_error [-0.05303639]
+Accuracy test [0.91710001] train [0.97920001] gen_error [-0.06209999]
+Accuracy test [0.93120003] train [0.98481816] gen_error [-0.05361813]
+Accuracy test [0.93330002] train [0.98621815] gen_error [-0.05291814]
+Accuracy test [0.9271] train [0.98385453] gen_error [-0.05675453]
+Accuracy test [0.92659998] train [0.98603636] gen_error [-0.05943638]
+Accuracy test [0.92580003] train [0.98439997] gen_error [-0.05859995]
+Accuracy test [0.92879999] train [0.98443639] gen_error [-0.05563641]
+Accuracy test [0.93409997] train [0.9878909] gen_error [-0.05379093]
+Accuracy test [0.93150002] train [0.98669094] gen_error [-0.05519092]
+Accuracy test [0.9339] train [0.98483634] gen_error [-0.05093634]
+Accuracy test [0.93199998] train [0.98659998] gen_error [-0.0546]
+Accuracy test [0.93519998] train [0.98816365] gen_error [-0.05296367]
+Accuracy test [0.92869997] train [0.98683637] gen_error [-0.0581364]
+Accuracy test [0.93589997] train [0.98692727] gen_error [-0.0510273]
+Accuracy test [0.93370003] train [0.98678184] gen_error [-0.05308181]
+Accuracy test [0.92619997] train [0.98712724] gen_error [-0.06092727]
+Accuracy test [0.93059999] train [0.98712724] gen_error [-0.05652726]
+('Accuracy', array([0.93059999]), array([0.98712724]), 'gen_error', array([-0.05652726]))
+GDR Hetero
+('Accuracy', array([0.72119999]), array([0.95336366]), 'gen_error', array([-0.23216367]))
+('Accuracy', array([0.75550002]), array([0.96707273]), 'gen_error', array([-0.21157271]))
+('Accuracy', array([0.72039998]), array([0.96963638]), 'gen_error', array([-0.2492364]))
+('Accuracy', array([0.69709998]), array([0.9734]), 'gen_error', array([-0.27630001]))
+('Accuracy', array([0.70539999]), array([0.97718179]), 'gen_error', array([-0.2717818]))
+('Accuracy', array([0.68809998]), array([0.97241819]), 'gen_error', array([-0.28431821]))
+('Accuracy', array([0.6753]), array([0.97032726]), 'gen_error', array([-0.29502726]))
+('Accuracy', array([0.69529998]), array([0.98027271]), 'gen_error', array([-0.28497273]))
+('Accuracy', array([0.67500001]), array([0.97901821]), 'gen_error', array([-0.3040182]))
+('Accuracy', array([0.69090003]), array([0.98238182]), 'gen_error', array([-0.29148179]))
+('Accuracy', array([0.66439998]), array([0.97965455]), 'gen_error', array([-0.31525457]))
+('Accuracy', array([0.66720003]), array([0.98225456]), 'gen_error', array([-0.31505454]))
+('Accuracy', array([0.65930003]), array([0.98421818]), 'gen_error', array([-0.32491815]))
+('Accuracy', array([0.67040002]), array([0.98509091]), 'gen_error', array([-0.31469089]))
+('Accuracy', array([0.66579998]), array([0.9878909]), 'gen_error', array([-0.32209092]))
+('Accuracy', array([0.65020001]), array([0.9828909]), 'gen_error', array([-0.33269089]))
+('Accuracy', array([0.66500002]), array([0.98680001]), 'gen_error', array([-0.32179999]))
+('Accuracy', array([0.64990002]), array([0.98532724]), 'gen_error', array([-0.33542722]))
+('Accuracy', array([0.63849998]), array([0.98558182]), 'gen_error', array([-0.34708184]))
+('Accuracy', array([0.6275]), array([0.98441815]), 'gen_error', array([-0.35691816]))
+('Accuracy', array([0.65280002]), array([0.98647273]), 'gen_error', array([-0.3336727]))
+('Accuracy', array([0.62269998]), array([0.98280001]), 'gen_error', array([-0.36010003]))
+('Accuracy', array([0.62840003]), array([0.98841816]), 'gen_error', array([-0.36001813]))
+('Accuracy', array([0.62290001]), array([0.9874]), 'gen_error', array([-0.36449999]))
+('Accuracy', array([0.63609999]), array([0.98543638]), 'gen_error', array([-0.34933639]))
+('Accuracy', array([0.63150001]), array([0.99019998]), 'gen_error', array([-0.35869998]))
+('Accuracy', array([0.64270002]), array([0.98712724]), 'gen_error', array([-0.34442723]))
+('Accuracy', array([0.63239998]), array([0.98918182]), 'gen_error', array([-0.35678184]))
+('Accuracy', array([0.63779998]), array([0.99001819]), 'gen_error', array([-0.35221821]))
+('Accuracy', array([0.62690002]), array([0.98898184]), 'gen_error', array([-0.36208183]))
+('Accuracy', array([0.6142]), array([0.98654544]), 'gen_error', array([-0.37234545]))
+('Accuracy', array([0.63020003]), array([0.98996365]), 'gen_error', array([-0.35976362]))
+('Accuracy', array([0.63319999]), array([0.99205452]), 'gen_error', array([-0.35885453]))
+('Accuracy', array([0.6164]), array([0.98236364]), 'gen_error', array([-0.36596364]))
+('Accuracy', array([0.62589997]), array([0.9915818]), 'gen_error', array([-0.36568183]))
+('Accuracy', array([0.61989999]), array([0.99016362]), 'gen_error', array([-0.37026364]))
+('Accuracy', array([0.62699997]), array([0.9902727]), 'gen_error', array([-0.36327273]))
+('Accuracy', array([0.62540001]), array([0.99094546]), 'gen_error', array([-0.36554545]))
+('Accuracy', array([0.60250002]), array([0.98881817]), 'gen_error', array([-0.38631815]))
+('Accuracy', array([0.6232]), array([0.98825455]), 'gen_error', array([-0.36505455]))
+('Accuracy', array([0.61339998]), array([0.99309093]), 'gen_error', array([-0.37969095]))
+('Accuracy', array([0.62529999]), array([0.99227273]), 'gen_error', array([-0.36697274]))
+('Accuracy', array([0.60960001]), array([0.9921273]), 'gen_error', array([-0.38252729]))
+('Accuracy', array([0.61519998]), array([0.98952729]), 'gen_error', array([-0.3743273]))
+('Accuracy', array([0.59549999]), array([0.98790908]), 'gen_error', array([-0.39240909]))
+('Accuracy', array([0.6146]), array([0.99190909]), 'gen_error', array([-0.37730908]))
+('Accuracy', array([0.62029999]), array([0.99030912]), 'gen_error', array([-0.37000912]))
+('Accuracy', array([0.59140003]), array([0.98376364]), 'gen_error', array([-0.39236361]))
+('Accuracy', array([0.60549998]), array([0.99116361]), 'gen_error', array([-0.38566363]))
+('Accuracy', array([0.61260003]), array([0.99327272]), 'gen_error', array([-0.38067269]))
+('Accuracy', array([0.61260003]), array([0.99327272]), 'gen_error', array([-0.38067269]))
+GDR without Hetero
+('iteration Accuracy', array([0.8872]), 'Train', array([0.95178181]), 'gen_error', array([-0.06458181]))
+('iteration Accuracy', array([0.903]), 'Train', array([0.96378183]), 'gen_error', array([-0.06078184]))
+('iteration Accuracy', array([0.90350002]), 'Train', array([0.96583635]), 'gen_error', array([-0.06233633]))
+('iteration Accuracy', array([0.91060001]), 'Train', array([0.97189093]), 'gen_error', array([-0.06129092]))
+('iteration Accuracy', array([0.91180003]), 'Train', array([0.97192729]), 'gen_error', array([-0.06012726]))
+('iteration Accuracy', array([0.91430002]), 'Train', array([0.97449088]), 'gen_error', array([-0.06019086]))
+('iteration Accuracy', array([0.91229999]), 'Train', array([0.97210908]), 'gen_error', array([-0.05980909]))
+('iteration Accuracy', array([0.91780001]), 'Train', array([0.9757818]), 'gen_error', array([-0.05798179]))
+('iteration Accuracy', array([0.91640002]), 'Train', array([0.9764182]), 'gen_error', array([-0.06001818]))
+('iteration Accuracy', array([0.92119998]), 'Train', array([0.97810906]), 'gen_error', array([-0.05690908]))
+('iteration Accuracy', array([0.92430001]), 'Train', array([0.9775818]), 'gen_error', array([-0.05328178]))
+('iteration Accuracy', array([0.9181]), 'Train', array([0.97976363]), 'gen_error', array([-0.06166363]))
+('iteration Accuracy', array([0.926]), 'Train', array([0.97780001]), 'gen_error', array([-0.05180001]))
+('iteration Accuracy', array([0.92259997]), 'Train', array([0.97881818]), 'gen_error', array([-0.05621821]))
+('iteration Accuracy', array([0.9249]), 'Train', array([0.98043638]), 'gen_error', array([-0.05553639]))
+('iteration Accuracy', array([0.93049997]), 'Train', array([0.98103637]), 'gen_error', array([-0.05053639]))
+('iteration Accuracy', array([0.92839998]), 'Train', array([0.98025453]), 'gen_error', array([-0.05185455]))
+('iteration Accuracy', array([0.92729998]), 'Train', array([0.98103637]), 'gen_error', array([-0.05373639]))
+('iteration Accuracy', array([0.92629999]), 'Train', array([0.9823091]), 'gen_error', array([-0.05600911]))
+('iteration Accuracy', array([0.93059999]), 'Train', array([0.98345453]), 'gen_error', array([-0.05285454]))
+('iteration Accuracy', array([0.92760003]), 'Train', array([0.98238182]), 'gen_error', array([-0.05478179]))
+('iteration Accuracy', array([0.92900002]), 'Train', array([0.98354548]), 'gen_error', array([-0.05454546]))
+('iteration Accuracy', array([0.9296]), 'Train', array([0.98329091]), 'gen_error', array([-0.05369091]))
+('iteration Accuracy', array([0.9242]), 'Train', array([0.98352724]), 'gen_error', array([-0.05932724]))
+('iteration Accuracy', array([0.9278]), 'Train', array([0.98463637]), 'gen_error', array([-0.05683637]))
+('iteration Accuracy', array([0.92750001]), 'Train', array([0.98387271]), 'gen_error', array([-0.0563727]))
+('iteration Accuracy', array([0.93229997]), 'Train', array([0.9860909]), 'gen_error', array([-0.05379093]))
+('iteration Accuracy', array([0.9321]), 'Train', array([0.9846909]), 'gen_error', array([-0.05259091]))
+('iteration Accuracy', array([0.93290001]), 'Train', array([0.98556364]), 'gen_error', array([-0.05266362]))
+('iteration Accuracy', array([0.92909998]), 'Train', array([0.98516363]), 'gen_error', array([-0.05606365]))
+('iteration Accuracy', array([0.93360001]), 'Train', array([0.98687273]), 'gen_error', array([-0.05327272]))
+('iteration Accuracy', array([0.93940002]), 'Train', array([0.98514545]), 'gen_error', array([-0.04574543]))
+('iteration Accuracy', array([0.9357]), 'Train', array([0.98623633]), 'gen_error', array([-0.05053633]))
+('iteration Accuracy', array([0.93620002]), 'Train', array([0.98707271]), 'gen_error', array([-0.05087268]))
+('iteration Accuracy', array([0.93709999]), 'Train', array([0.98696363]), 'gen_error', array([-0.04986364]))
+('iteration Accuracy', array([0.93760002]), 'Train', array([0.98680001]), 'gen_error', array([-0.0492]))
+('iteration Accuracy', array([0.93480003]), 'Train', array([0.98758179]), 'gen_error', array([-0.05278176]))
+('iteration Accuracy', array([0.92919999]), 'Train', array([0.98321819]), 'gen_error', array([-0.0540182]))
+('iteration Accuracy', array([0.93339998]), 'Train', array([0.98650908]), 'gen_error', array([-0.05310911]))
+('iteration Accuracy', array([0.93580002]), 'Train', array([0.98663634]), 'gen_error', array([-0.05083632]))
+('iteration Accuracy', array([0.93430001]), 'Train', array([0.98641819]), 'gen_error', array([-0.05211818]))
+('iteration Accuracy', array([0.93080002]), 'Train', array([0.9874]), 'gen_error', array([-0.05659997]))
+('iteration Accuracy', array([0.9364]), 'Train', array([0.98729092]), 'gen_error', array([-0.05089092]))
+('iteration Accuracy', array([0.93610001]), 'Train', array([0.98607272]), 'gen_error', array([-0.04997271]))
+('iteration Accuracy', array([0.93470001]), 'Train', array([0.98876363]), 'gen_error', array([-0.05406362]))
+('iteration Accuracy', array([0.9332]), 'Train', array([0.98718184]), 'gen_error', array([-0.05398184]))
+('iteration Accuracy', array([0.93099999]), 'Train', array([0.98723638]), 'gen_error', array([-0.05623639]))
+('iteration Accuracy', array([0.93830001]), 'Train', array([0.98870909]), 'gen_error', array([-0.05040908]))
+('iteration Accuracy', array([0.93620002]), 'Train', array([0.98776364]), 'gen_error', array([-0.05156362]))
+('iteration Accuracy', array([0.93830001]), 'Train', array([0.98761821]), 'gen_error', array([-0.04931819]))
+('iteration Accuracy -- Test', array([0.93830001]), 'Train', array([0.98761821]), 'gen_error', array([-0.04931819]))

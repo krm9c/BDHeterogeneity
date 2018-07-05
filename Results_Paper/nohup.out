@@ -1,0 +1,163 @@
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 4, in <module>
+    import Class_gen_Error as  NN_class
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 11, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 4, in <module>
+    import Class_gen_Error as  NN_class
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 11, in <module>
+    import tensorflow as tf
+ImportError: No module named tensorflow
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 4, in <module>
+    import Class_gen_Error as  NN_class
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 10, in <module>
+    from   sklearn import preprocessing
+ImportError: No module named sklearn
+/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+I am working on EDL
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+Train, Test (55000, 784) (10000, 784) (55000, 10) (55000, 10)
+('classes', 10)
+('filename', 'vanishing_EDL_tanh_50.csv')
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 208, in <module>
+    x = input()
+IOError: [Errno 9] Bad file descriptor
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 4, in <module>
+    import Class_gen_Error as  NN_class
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 10, in <module>
+    from   sklearn import preprocessing
+ImportError: No module named sklearn
+/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+I am working on EDL
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+Train, Test (55000, 784) (10000, 784) (55000, 10) (55000, 10)
+('classes', 10)
+('filename', 'vanishing_EDL_tanh_50.csv')
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 208, in <module>
+    x = input()
+IOError: [Errno 9] Bad file descriptor
+/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+  0%|          | 0/1 [00:00<?, ?it/s]2018-02-17 20:09:25.618522: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2
+2018-02-17 20:09:25.623069: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUDA_ERROR_NO_DEVICE
+2018-02-17 20:09:25.623141: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:158] retrieving CUDA diagnostic information for host: ece-esnl36
+2018-02-17 20:09:25.623159: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:165] hostname: ece-esnl36
+2018-02-17 20:09:25.623209: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:189] libcuda reported version is: 387.34.0
+2018-02-17 20:09:25.623238: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:369] driver version file contents: """NVRM version: NVIDIA UNIX x86_64 Kernel Module  387.34  Tue Nov 21 03:09:00 PST 2017
+GCC version:  gcc version 4.9.3 (Ubuntu 4.9.3-13ubuntu2) 
+"""
+2018-02-17 20:09:25.623270: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:193] kernel reported version is: 387.34.0
+2018-02-17 20:09:25.623282: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:300] kernel version seems to match DSO: 387.34.0
+WARNING:tensorflow:From /usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py:293: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See tf.nn.softmax_cross_entropy_with_logits_v2.
+
+I am working on EDL
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+Train, Test (55000, 784) (10000, 784) (55000, 10) (55000, 10)
+('classes', 10)
+('filename', 'vanishing_EDL_tanh_50.csv')
+kappa is [0.9478206]
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 210, in <module>
+    Temp.append(Analyse_custom_Optimizer_EDL(X_train,y_train,X_test,y_test, Kappa_s[i]))
+  File "Vanshing_Grad_script.py", line 127, in Analyse_custom_Optimizer_EDL
+    model = model.init_NN_custom(classes, 0.00001, list, tf.nn.tanh,'EDL')
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 299, in init_NN_custom
+    Error_Loss, self.classifier['class'], array )
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 161, in df_getmatrices
+    layer_grad = tf.gradients(loss, layer_out)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/ops/gradients_impl.py", line 609, in gradients
+    grad_scope, op, func_call, lambda: grad_fn(op, *out_grads))
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/ops/gradients_impl.py", line 375, in _MaybeCompile
+    return grad_fn()  # Exit early
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/ops/gradients_impl.py", line 609, in <lambda>
+    grad_scope, op, func_call, lambda: grad_fn(op, *out_grads))
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/ops/math_grad.py", line 753, in _AddGrad
+    return (array_ops.reshape(math_ops.reduce_sum(grad, rx), sx),
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/ops/gen_array_ops.py", line 3997, in reshape
+    "Reshape", tensor=tensor, shape=shape, name=name)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/op_def_library.py", line 787, in _apply_op_helper
+    op_def=op_def)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 3162, in create_op
+    compute_device=compute_device)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 3208, in _create_op_helper
+    set_shapes_for_outputs(op)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2427, in set_shapes_for_outputs
+    return _set_shapes_for_outputs(op)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2400, in _set_shapes_for_outputs
+    shapes = shape_func(op)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/ops.py", line 2330, in call_with_requiring
+    return call_cpp_shape_fn(op, require_shape_fn=True)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/common_shapes.py", line 627, in call_cpp_shape_fn
+    require_shape_fn)
+  File "/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/tensorflow/python/framework/common_shapes.py", line 654, in _call_cpp_shape_fn_impl
+    node_def_str = op.node_def.SerializeToString()
+KeyboardInterrupt
+/usr/local/home/krm9c/anaconda2/envs/deep/lib/python2.7/site-packages/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+  0%|          | 0/1 [00:00<?, ?it/s]2018-02-17 20:09:48.303576: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2
+2018-02-17 20:09:48.308156: E tensorflow/stream_executor/cuda/cuda_driver.cc:406] failed call to cuInit: CUDA_ERROR_NO_DEVICE
+2018-02-17 20:09:48.308258: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:158] retrieving CUDA diagnostic information for host: ece-esnl36
+2018-02-17 20:09:48.308288: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:165] hostname: ece-esnl36
+2018-02-17 20:09:48.308347: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:189] libcuda reported version is: 387.34.0
+2018-02-17 20:09:48.308380: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:369] driver version file contents: """NVRM version: NVIDIA UNIX x86_64 Kernel Module  387.34  Tue Nov 21 03:09:00 PST 2017
+GCC version:  gcc version 4.9.3 (Ubuntu 4.9.3-13ubuntu2) 
+"""
+2018-02-17 20:09:48.308402: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:193] kernel reported version is: 387.34.0
+2018-02-17 20:09:48.308414: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:300] kernel version seems to match DSO: 387.34.0
+WARNING:tensorflow:From /usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py:293: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See tf.nn.softmax_cross_entropy_with_logits_v2.
+
+
+  0%|          | 0/100 [00:00<?, ?it/s][A
+  1%|1         | 1/100 [00:32<52:51, 32.04s/it][A
+  2%|2         | 2/100 [00:59<48:39, 29.79s/it][A
+  3%|3         | 3/100 [01:26<46:39, 28.86s/it][A
+  4%|4         | 4/100 [01:53<45:28, 28.42s/it][A
+  5%|5         | 5/100 [02:20<44:33, 28.14s/it][A
+  6%|6         | 6/100 [02:43<42:36, 27.20s/it][A
+  7%|7         | 7/100 [03:04<40:56, 26.41s/it][ATraceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 4, in <module>
+    import Class_gen_Error as  NN_class
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 10, in <module>
+    from   sklearn import preprocessing
+ImportError: No module named sklearn
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 4, in <module>
+    import Class_gen_Error as  NN_class
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 10, in <module>
+    from   sklearn import preprocessing
+ImportError: No module named sklearn
+Traceback (most recent call last):
+  File "Vanshing_Grad_script.py", line 4, in <module>
+    import Class_gen_Error as  NN_class
+  File "/usr/local/home/krm9c/Documents/Research/ErrorDriven-Learning/Class_gen_Error.py", line 10, in <module>
+    from   sklearn import preprocessing
+ImportError: No module named sklearn

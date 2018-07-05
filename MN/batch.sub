@@ -1,0 +1,15 @@
+#!/bin/bash
+#SBATCH --job-name=mnist_grad
+#SBATCH --ntasks=8
+#SBATCH --time=6-12:00:00 
+#SBATCH --mail-type=begin,end,fail,requeue 
+#SBATCH --export=all 
+#SBATCH --out=log_mnist_EDL.out 
+ 
+#% j will substitute to the job's id
+# now run your executables just like you would in a shell script, Slurm will set the working directory as the directory the job was submitted from. 
+# e.g. if you submitted from /home/blspcy/softwaretesting your job would run in that directory.
+
+#(executables) (options) (parameters)
+source activate $HOME/deep
+python ./Test_Gen_Error_MNIST_GDR.py

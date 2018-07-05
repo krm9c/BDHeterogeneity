@@ -1,0 +1,4380 @@
+('classes', 4)
+('filename', 'rolling_normal_grad.csv')
+('Details', 'rolling_normal_grad.csv', 'mnist', 100, 64, 20)
+My changes have saved itself
+('i--', 0, '--Kappa', 0.061300188741685524)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95303029]))
+('The accuracy is', array([0.96075755]))
+('The accuracy is', array([0.95757574]))
+('The accuracy is', array([0.96219695]))
+('The accuracy is', array([0.96924245]))
+('The accuracy is', array([0.97954547]))
+('The accuracy is', array([0.97424245]))
+('The accuracy is', array([0.98295456]))
+('The accuracy is', array([0.98439395]))
+('The accuracy is', array([0.98250002]))
+('The accuracy is', array([0.9873485]))
+('The accuracy is', array([0.98469698]))
+('The accuracy is', array([0.98750001]))
+('The accuracy is', array([0.98765153]))
+('The accuracy is', array([0.9889394]))
+('The accuracy is', array([0.98992425]))
+('The accuracy is', array([0.98833334]))
+('The accuracy is', array([0.99007577]))
+Accuracy [0.99007577]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.97356063]))
+('The accuracy is', array([0.97924244]))
+('The accuracy is', array([0.97901517]))
+('The accuracy is', array([0.9878788]))
+('The accuracy is', array([0.98939395]))
+('The accuracy is', array([0.98659092]))
+('The accuracy is', array([0.98969698]))
+('The accuracy is', array([0.99295455]))
+Accuracy [0.99295455]
+('i--', 1, '--Kappa', 0.48790515030453596)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.83106059]))
+('The accuracy is', array([0.84234846]))
+('The accuracy is', array([0.81893939]))
+('The accuracy is', array([0.85553032]))
+('The accuracy is', array([0.86371213]))
+('The accuracy is', array([0.8457576]))
+('The accuracy is', array([0.87318182]))
+('The accuracy is', array([0.88310605]))
+('The accuracy is', array([0.86272728]))
+('The accuracy is', array([0.86560607]))
+('The accuracy is', array([0.8714394]))
+('The accuracy is', array([0.87977272]))
+('The accuracy is', array([0.88583332]))
+('The accuracy is', array([0.88424242]))
+('The accuracy is', array([0.8775]))
+('The accuracy is', array([0.87219697]))
+('The accuracy is', array([0.87939394]))
+('The accuracy is', array([0.88621211]))
+('The accuracy is', array([0.89166665]))
+('The accuracy is', array([0.87742424]))
+Accuracy [0.87742424]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.78333336]))
+('The accuracy is', array([0.78818184]))
+('The accuracy is', array([0.78257579]))
+('The accuracy is', array([0.80659091]))
+('The accuracy is', array([0.80810606]))
+('The accuracy is', array([0.79325759]))
+('The accuracy is', array([0.7882576]))
+('The accuracy is', array([0.77212119]))
+('The accuracy is', array([0.77613634]))
+('The accuracy is', array([0.80780303]))
+('The accuracy is', array([0.79939395]))
+('The accuracy is', array([0.79348487]))
+('The accuracy is', array([0.7984091]))
+('The accuracy is', array([0.77659088]))
+('The accuracy is', array([0.80954546]))
+('The accuracy is', array([0.80000001]))
+('The accuracy is', array([0.77969694]))
+('The accuracy is', array([0.7797727]))
+('The accuracy is', array([0.79136366]))
+('The accuracy is', array([0.78378791]))
+Accuracy [0.78378791]
+('i--', 2, '--Kappa', 0.21724665996662962)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.91363639]))
+('The accuracy is', array([0.9168182]))
+('The accuracy is', array([0.92712122]))
+('The accuracy is', array([0.92969698]))
+('The accuracy is', array([0.92272729]))
+('The accuracy is', array([0.94727272]))
+('The accuracy is', array([0.94045454]))
+('The accuracy is', array([0.95522726]))
+('The accuracy is', array([0.95098484]))
+('The accuracy is', array([0.94878787]))
+('The accuracy is', array([0.95613635]))
+('The accuracy is', array([0.95704544]))
+('The accuracy is', array([0.95712119]))
+('The accuracy is', array([0.95416665]))
+('The accuracy is', array([0.9551515]))
+('The accuracy is', array([0.95833331]))
+('The accuracy is', array([0.95530301]))
+('The accuracy is', array([0.95090908]))
+('The accuracy is', array([0.95590907]))
+('The accuracy is', array([0.94999999]))
+Accuracy [0.94999999]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.92143941]))
+('The accuracy is', array([0.92409092]))
+('The accuracy is', array([0.92568183]))
+('The accuracy is', array([0.93507576]))
+('The accuracy is', array([0.93356061]))
+('The accuracy is', array([0.93886364]))
+('The accuracy is', array([0.92848486]))
+('The accuracy is', array([0.92969698]))
+('The accuracy is', array([0.91772729]))
+('The accuracy is', array([0.92765152]))
+('The accuracy is', array([0.92969698]))
+('The accuracy is', array([0.94272727]))
+('The accuracy is', array([0.93356061]))
+('The accuracy is', array([0.93234849]))
+('The accuracy is', array([0.9314394]))
+('The accuracy is', array([0.93409091]))
+('The accuracy is', array([0.93113637]))
+('The accuracy is', array([0.94030303]))
+('The accuracy is', array([0.92795455]))
+('The accuracy is', array([0.93780303]))
+Accuracy [0.93780303]
+('i--', 3, '--Kappa', 0.31916147059744926)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.88045454]))
+('The accuracy is', array([0.87878788]))
+('The accuracy is', array([0.87371212]))
+('The accuracy is', array([0.90598482]))
+('The accuracy is', array([0.907197]))
+('The accuracy is', array([0.90984851]))
+('The accuracy is', array([0.9264394]))
+('The accuracy is', array([0.92530304]))
+('The accuracy is', array([0.93590909]))
+('The accuracy is', array([0.92371213]))
+('The accuracy is', array([0.92583334]))
+('The accuracy is', array([0.93325758]))
+('The accuracy is', array([0.91946971]))
+('The accuracy is', array([0.93151516]))
+('The accuracy is', array([0.9193182]))
+('The accuracy is', array([0.92500001]))
+('The accuracy is', array([0.92734849]))
+('The accuracy is', array([0.92318183]))
+('The accuracy is', array([0.92371213]))
+('The accuracy is', array([0.9259091]))
+Accuracy [0.9259091]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.86098486]))
+('The accuracy is', array([0.86803031]))
+('The accuracy is', array([0.86560607]))
+('The accuracy is', array([0.85500002]))
+('The accuracy is', array([0.8593182]))
+('The accuracy is', array([0.87674242]))
+('The accuracy is', array([0.88242424]))
+('The accuracy is', array([0.86977273]))
+('The accuracy is', array([0.89075756]))
+('The accuracy is', array([0.88272727]))
+('The accuracy is', array([0.86272728]))
+('The accuracy is', array([0.86901516]))
+('The accuracy is', array([0.84666669]))
+('The accuracy is', array([0.86053032]))
+('The accuracy is', array([0.83803028]))
+('The accuracy is', array([0.875]))
+('The accuracy is', array([0.87409091]))
+('The accuracy is', array([0.87166667]))
+('The accuracy is', array([0.87507576]))
+('The accuracy is', array([0.87280303]))
+Accuracy [0.87280303]
+('i--', 4, '--Kappa', 0.8260647006381905)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.71537876]))
+('The accuracy is', array([0.73424244]))
+('The accuracy is', array([0.73227274]))
+('The accuracy is', array([0.76810604]))
+('The accuracy is', array([0.76856059]))
+('The accuracy is', array([0.76931816]))
+('The accuracy is', array([0.76348484]))
+('The accuracy is', array([0.78719699]))
+('The accuracy is', array([0.79318184]))
+('The accuracy is', array([0.78810608]))
+('The accuracy is', array([0.79151517]))
+('The accuracy is', array([0.7772727]))
+('The accuracy is', array([0.79750001]))
+('The accuracy is', array([0.80606061]))
+('The accuracy is', array([0.81]))
+('The accuracy is', array([0.80674243]))
+('The accuracy is', array([0.80962121]))
+('The accuracy is', array([0.80075759]))
+('The accuracy is', array([0.81030303]))
+('The accuracy is', array([0.81333333]))
+Accuracy [0.81333333]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.62659091]))
+('The accuracy is', array([0.65409088]))
+('The accuracy is', array([0.65204543]))
+('The accuracy is', array([0.63924241]))
+('The accuracy is', array([0.65901518]))
+('The accuracy is', array([0.64727271]))
+('The accuracy is', array([0.65545452]))
+('The accuracy is', array([0.65409088]))
+('The accuracy is', array([0.65257573]))
+('The accuracy is', array([0.64431816]))
+('The accuracy is', array([0.65166664]))
+('The accuracy is', array([0.62643939]))
+('The accuracy is', array([0.67166668]))
+('The accuracy is', array([0.67371213]))
+('The accuracy is', array([0.67053032]))
+('The accuracy is', array([0.66204548]))
+('The accuracy is', array([0.65083331]))
+('The accuracy is', array([0.66651517]))
+('The accuracy is', array([0.6566667]))
+('The accuracy is', array([0.64363635]))
+Accuracy [0.64363635]
+('i--', 5, '--Kappa', 0.48857408868030805)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.8009091]))
+('The accuracy is', array([0.83333331]))
+('The accuracy is', array([0.85636365]))
+('The accuracy is', array([0.86257577]))
+('The accuracy is', array([0.87386364]))
+('The accuracy is', array([0.88196969]))
+('The accuracy is', array([0.88871211]))
+('The accuracy is', array([0.88090909]))
+('The accuracy is', array([0.87560606]))
+('The accuracy is', array([0.89393938]))
+('The accuracy is', array([0.88265151]))
+('The accuracy is', array([0.88696969]))
+('The accuracy is', array([0.89295453]))
+('The accuracy is', array([0.8937121]))
+('The accuracy is', array([0.88060606]))
+('The accuracy is', array([0.89454544]))
+('The accuracy is', array([0.89083332]))
+('The accuracy is', array([0.88545454]))
+('The accuracy is', array([0.87643939]))
+('The accuracy is', array([0.89189392]))
+Accuracy [0.89189392]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.77522725]))
+('The accuracy is', array([0.78674245]))
+('The accuracy is', array([0.80712122]))
+('The accuracy is', array([0.79780304]))
+('The accuracy is', array([0.77227271]))
+('The accuracy is', array([0.79606062]))
+('The accuracy is', array([0.79492426]))
+('The accuracy is', array([0.7937879]))
+('The accuracy is', array([0.78060603]))
+('The accuracy is', array([0.79424244]))
+('The accuracy is', array([0.79083335]))
+('The accuracy is', array([0.80318183]))
+('The accuracy is', array([0.7973485]))
+('The accuracy is', array([0.80234849]))
+('The accuracy is', array([0.77060604]))
+('The accuracy is', array([0.78333336]))
+('The accuracy is', array([0.78621215]))
+('The accuracy is', array([0.81674242]))
+('The accuracy is', array([0.79295456]))
+('The accuracy is', array([0.78924245]))
+Accuracy [0.78924245]
+('i--', 6, '--Kappa', 0.08282279553859817)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.9430303]))
+('The accuracy is', array([0.94212121]))
+('The accuracy is', array([0.96537876]))
+('The accuracy is', array([0.9612121]))
+('The accuracy is', array([0.96128786]))
+('The accuracy is', array([0.97901517]))
+('The accuracy is', array([0.97553033]))
+('The accuracy is', array([0.98022729]))
+('The accuracy is', array([0.97954547]))
+('The accuracy is', array([0.98174244]))
+('The accuracy is', array([0.98325759]))
+('The accuracy is', array([0.97780305]))
+('The accuracy is', array([0.9873485]))
+('The accuracy is', array([0.98196971]))
+('The accuracy is', array([0.9878788]))
+('The accuracy is', array([0.9884091]))
+('The accuracy is', array([0.9848485]))
+('The accuracy is', array([0.98636365]))
+('The accuracy is', array([0.98500001]))
+('The accuracy is', array([0.98651516]))
+Accuracy [0.98651516]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.94015151]))
+('The accuracy is', array([0.97257578]))
+('The accuracy is', array([0.97121215]))
+('The accuracy is', array([0.98151517]))
+('The accuracy is', array([0.98439395]))
+('The accuracy is', array([0.98643941]))
+('The accuracy is', array([0.97560608]))
+('The accuracy is', array([0.98113638]))
+('The accuracy is', array([0.98492426]))
+('The accuracy is', array([0.9889394]))
+('The accuracy is', array([0.98803031]))
+('The accuracy is', array([0.98598486]))
+('The accuracy is', array([0.98772728]))
+('The accuracy is', array([0.98674244]))
+('The accuracy is', array([0.98666668]))
+('The accuracy is', array([0.98446971]))
+('The accuracy is', array([0.98909092]))
+('The accuracy is', array([0.98863637]))
+('The accuracy is', array([0.9878788]))
+('The accuracy is', array([0.98681819]))
+Accuracy [0.98681819]
+('i--', 7, '--Kappa', 0.6805321347269866)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.7767424]))
+('The accuracy is', array([0.78234851]))
+('The accuracy is', array([0.78015149]))
+('The accuracy is', array([0.77825755]))
+('The accuracy is', array([0.79606062]))
+('The accuracy is', array([0.82886362]))
+('The accuracy is', array([0.8221212]))
+('The accuracy is', array([0.83507574]))
+('The accuracy is', array([0.84007573]))
+('The accuracy is', array([0.8392424]))
+('The accuracy is', array([0.83530301]))
+('The accuracy is', array([0.83575755]))
+('The accuracy is', array([0.84189391]))
+('The accuracy is', array([0.847197]))
+('The accuracy is', array([0.84666669]))
+('The accuracy is', array([0.8397727]))
+('The accuracy is', array([0.84871215]))
+('The accuracy is', array([0.84409094]))
+('The accuracy is', array([0.84515154]))
+('The accuracy is', array([0.84727275]))
+Accuracy [0.84727275]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.67757577]))
+('The accuracy is', array([0.67454547]))
+('The accuracy is', array([0.70090908]))
+('The accuracy is', array([0.70287877]))
+('The accuracy is', array([0.70893937]))
+('The accuracy is', array([0.69045454]))
+('The accuracy is', array([0.71803027]))
+('The accuracy is', array([0.70681816]))
+('The accuracy is', array([0.73022729]))
+('The accuracy is', array([0.72234851]))
+('The accuracy is', array([0.69871211]))
+('The accuracy is', array([0.7001515]))
+('The accuracy is', array([0.7106818]))
+('The accuracy is', array([0.71537876]))
+('The accuracy is', array([0.67757577]))
+('The accuracy is', array([0.7062121]))
+('The accuracy is', array([0.71181816]))
+('The accuracy is', array([0.71575755]))
+('The accuracy is', array([0.71295452]))
+('The accuracy is', array([0.71310604]))
+Accuracy [0.71310604]
+('i--', 8, '--Kappa', 0.9063091436590373)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.71522725]))
+('The accuracy is', array([0.70992422]))
+('The accuracy is', array([0.73295456]))
+('The accuracy is', array([0.74484849]))
+('The accuracy is', array([0.72234851]))
+('The accuracy is', array([0.74348485]))
+('The accuracy is', array([0.76848483]))
+('The accuracy is', array([0.76378787]))
+('The accuracy is', array([0.77454543]))
+('The accuracy is', array([0.78303033]))
+('The accuracy is', array([0.76242423]))
+('The accuracy is', array([0.78606063]))
+('The accuracy is', array([0.77393937]))
+('The accuracy is', array([0.75871211]))
+('The accuracy is', array([0.77643937]))
+('The accuracy is', array([0.79606062]))
+('The accuracy is', array([0.77128786]))
+('The accuracy is', array([0.78318185]))
+('The accuracy is', array([0.79310608]))
+('The accuracy is', array([0.79356062]))
+Accuracy [0.79356062]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.55674243]))
+('The accuracy is', array([0.58242422]))
+('The accuracy is', array([0.60924244]))
+('The accuracy is', array([0.61431819]))
+('The accuracy is', array([0.59757578]))
+('The accuracy is', array([0.59257573]))
+('The accuracy is', array([0.61325759]))
+('The accuracy is', array([0.62568182]))
+('The accuracy is', array([0.61098486]))
+('The accuracy is', array([0.62151515]))
+('The accuracy is', array([0.6275]))
+('The accuracy is', array([0.62984848]))
+('The accuracy is', array([0.6169697]))
+('The accuracy is', array([0.63871211]))
+('The accuracy is', array([0.64757574]))
+('The accuracy is', array([0.62734848]))
+('The accuracy is', array([0.63151515]))
+('The accuracy is', array([0.62946969]))
+('The accuracy is', array([0.62454545]))
+('The accuracy is', array([0.6093182]))
+Accuracy [0.6093182]
+('i--', 9, '--Kappa', 0.13248806911885325)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.9012121]))
+('The accuracy is', array([0.96045452]))
+('The accuracy is', array([0.95674241]))
+('The accuracy is', array([0.95810604]))
+('The accuracy is', array([0.95681816]))
+('The accuracy is', array([0.96924245]))
+('The accuracy is', array([0.96742421]))
+('The accuracy is', array([0.96810603]))
+('The accuracy is', array([0.97174245]))
+('The accuracy is', array([0.96356058]))
+('The accuracy is', array([0.97507578]))
+('The accuracy is', array([0.97409093]))
+('The accuracy is', array([0.9683333]))
+('The accuracy is', array([0.9768182]))
+('The accuracy is', array([0.96499997]))
+('The accuracy is', array([0.97280306]))
+('The accuracy is', array([0.9752273]))
+('The accuracy is', array([0.97742426]))
+('The accuracy is', array([0.97863638]))
+('The accuracy is', array([0.97780305]))
+Accuracy [0.97780305]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95840907]))
+('The accuracy is', array([0.95280302]))
+('The accuracy is', array([0.97007579]))
+('The accuracy is', array([0.9606818]))
+('The accuracy is', array([0.97265154]))
+('The accuracy is', array([0.97401518]))
+('The accuracy is', array([0.95833331]))
+('The accuracy is', array([0.97250003]))
+('The accuracy is', array([0.96742421]))
+('The accuracy is', array([0.96886367]))
+('The accuracy is', array([0.97166669]))
+('The accuracy is', array([0.97560608]))
+('The accuracy is', array([0.97212124]))
+('The accuracy is', array([0.97090912]))
+('The accuracy is', array([0.96992427]))
+('The accuracy is', array([0.97159094]))
+('The accuracy is', array([0.97196972]))
+('The accuracy is', array([0.9732576]))
+('The accuracy is', array([0.97318184]))
+('The accuracy is', array([0.97242427]))
+Accuracy [0.97242427]
+('i--', 10, '--Kappa', 0.7119692593999657)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.76477271]))
+('The accuracy is', array([0.76659089]))
+('The accuracy is', array([0.75931817]))
+('The accuracy is', array([0.7797727]))
+('The accuracy is', array([0.70378786]))
+('The accuracy is', array([0.79946971]))
+('The accuracy is', array([0.8205303]))
+('The accuracy is', array([0.80727273]))
+('The accuracy is', array([0.80121213]))
+('The accuracy is', array([0.81477273]))
+('The accuracy is', array([0.83613634]))
+('The accuracy is', array([0.81946969]))
+('The accuracy is', array([0.82795453]))
+('The accuracy is', array([0.82810605]))
+('The accuracy is', array([0.83242422]))
+('The accuracy is', array([0.82749999]))
+('The accuracy is', array([0.83795452]))
+('The accuracy is', array([0.83772725]))
+('The accuracy is', array([0.8362121]))
+('The accuracy is', array([0.83803028]))
+Accuracy [0.83803028]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.65439391]))
+('The accuracy is', array([0.65818185]))
+('The accuracy is', array([0.68681818]))
+('The accuracy is', array([0.67613637]))
+('The accuracy is', array([0.6632576]))
+('The accuracy is', array([0.66500002]))
+('The accuracy is', array([0.64462119]))
+('The accuracy is', array([0.65098482]))
+('The accuracy is', array([0.6723485]))
+('The accuracy is', array([0.67469698]))
+('The accuracy is', array([0.68128788]))
+('The accuracy is', array([0.68484849]))
+('The accuracy is', array([0.69196969]))
+('The accuracy is', array([0.7076515]))
+('The accuracy is', array([0.69537878]))
+('The accuracy is', array([0.67159092]))
+('The accuracy is', array([0.68295455]))
+('The accuracy is', array([0.66295457]))
+('The accuracy is', array([0.6698485]))
+('The accuracy is', array([0.68257576]))
+Accuracy [0.68257576]
+('i--', 11, '--Kappa', 0.3255058907280267)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.88045454]))
+('The accuracy is', array([0.88757575]))
+('The accuracy is', array([0.89643937]))
+('The accuracy is', array([0.88181818]))
+('The accuracy is', array([0.90878791]))
+('The accuracy is', array([0.90651518]))
+('The accuracy is', array([0.92651516]))
+('The accuracy is', array([0.92068183]))
+('The accuracy is', array([0.90257573]))
+('The accuracy is', array([0.92212123]))
+('The accuracy is', array([0.92772728]))
+('The accuracy is', array([0.9198485]))
+('The accuracy is', array([0.92727274]))
+('The accuracy is', array([0.92878789]))
+('The accuracy is', array([0.9228788]))
+('The accuracy is', array([0.92545456]))
+('The accuracy is', array([0.92856061]))
+('The accuracy is', array([0.92393941]))
+('The accuracy is', array([0.9253788]))
+('The accuracy is', array([0.92393941]))
+Accuracy [0.92393941]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.8578788]))
+('The accuracy is', array([0.88499999]))
+('The accuracy is', array([0.87136364]))
+('The accuracy is', array([0.85954547]))
+('The accuracy is', array([0.87280303]))
+('The accuracy is', array([0.85318184]))
+('The accuracy is', array([0.87128788]))
+('The accuracy is', array([0.82878786]))
+('The accuracy is', array([0.89863634]))
+('The accuracy is', array([0.87204546]))
+('The accuracy is', array([0.86303031]))
+('The accuracy is', array([0.87840909]))
+('The accuracy is', array([0.87462121]))
+('The accuracy is', array([0.87863636]))
+('The accuracy is', array([0.86780304]))
+('The accuracy is', array([0.88265151]))
+('The accuracy is', array([0.8780303]))
+('The accuracy is', array([0.87568182]))
+('The accuracy is', array([0.87742424]))
+('The accuracy is', array([0.87545455]))
+Accuracy [0.87545455]
+('i--', 12, '--Kappa', 0.4156057944228202)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.85492426]))
+('The accuracy is', array([0.85886365]))
+('The accuracy is', array([0.86931819]))
+('The accuracy is', array([0.86871213]))
+('The accuracy is', array([0.88871211]))
+('The accuracy is', array([0.88878787]))
+('The accuracy is', array([0.89606059]))
+('The accuracy is', array([0.90272725]))
+('The accuracy is', array([0.90515149]))
+('The accuracy is', array([0.89734846]))
+('The accuracy is', array([0.90287876]))
+('The accuracy is', array([0.90598482]))
+('The accuracy is', array([0.90166664]))
+('The accuracy is', array([0.89689392]))
+('The accuracy is', array([0.90909094]))
+('The accuracy is', array([0.89439392]))
+('The accuracy is', array([0.8871212]))
+('The accuracy is', array([0.89636362]))
+('The accuracy is', array([0.89606059]))
+('The accuracy is', array([0.89553028]))
+Accuracy [0.89553028]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.82628787]))
+('The accuracy is', array([0.83113635]))
+('The accuracy is', array([0.82689393]))
+('The accuracy is', array([0.82590908]))
+('The accuracy is', array([0.81045455]))
+('The accuracy is', array([0.83227271]))
+('The accuracy is', array([0.84159088]))
+('The accuracy is', array([0.83257574]))
+('The accuracy is', array([0.84863639]))
+('The accuracy is', array([0.8326515]))
+('The accuracy is', array([0.83242422]))
+('The accuracy is', array([0.84075755]))
+('The accuracy is', array([0.82977271]))
+('The accuracy is', array([0.82378787]))
+('The accuracy is', array([0.84984851]))
+('The accuracy is', array([0.82924241]))
+('The accuracy is', array([0.83719695]))
+('The accuracy is', array([0.82272726]))
+('The accuracy is', array([0.79962122]))
+('The accuracy is', array([0.82946968]))
+Accuracy [0.82946968]
+('i--', 13, '--Kappa', 0.7581284563768454)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.75954545]))
+('The accuracy is', array([0.72462124]))
+('The accuracy is', array([0.76681817]))
+('The accuracy is', array([0.7671212]))
+('The accuracy is', array([0.78636366]))
+('The accuracy is', array([0.80166668]))
+('The accuracy is', array([0.79371214]))
+('The accuracy is', array([0.80234849]))
+('The accuracy is', array([0.80507576]))
+('The accuracy is', array([0.80113637]))
+('The accuracy is', array([0.81719697]))
+('The accuracy is', array([0.81696969]))
+('The accuracy is', array([0.81901515]))
+('The accuracy is', array([0.82113636]))
+('The accuracy is', array([0.8276515]))
+('The accuracy is', array([0.82393938]))
+('The accuracy is', array([0.82651514]))
+('The accuracy is', array([0.82871211]))
+('The accuracy is', array([0.82772726]))
+('The accuracy is', array([0.82856059]))
+Accuracy [0.82856059]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.64833331]))
+('The accuracy is', array([0.64416665]))
+('The accuracy is', array([0.64742422]))
+('The accuracy is', array([0.67401516]))
+('The accuracy is', array([0.65075755]))
+('The accuracy is', array([0.67636365]))
+('The accuracy is', array([0.66977274]))
+('The accuracy is', array([0.65325755]))
+('The accuracy is', array([0.65803033]))
+('The accuracy is', array([0.65886366]))
+('The accuracy is', array([0.67492425]))
+('The accuracy is', array([0.68287879]))
+('The accuracy is', array([0.6809091]))
+('The accuracy is', array([0.67825758]))
+('The accuracy is', array([0.67507577]))
+('The accuracy is', array([0.67962122]))
+('The accuracy is', array([0.67348486]))
+('The accuracy is', array([0.66863638]))
+('The accuracy is', array([0.64901513]))
+('The accuracy is', array([0.63621211]))
+Accuracy [0.63621211]
+('i--', 14, '--Kappa', 0.8150457943668291)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.72954547]))
+('The accuracy is', array([0.74189395]))
+('The accuracy is', array([0.74757576]))
+('The accuracy is', array([0.75340909]))
+('The accuracy is', array([0.75643939]))
+('The accuracy is', array([0.76227272]))
+('The accuracy is', array([0.79060608]))
+('The accuracy is', array([0.77757573]))
+('The accuracy is', array([0.79878789]))
+('The accuracy is', array([0.80219698]))
+('The accuracy is', array([0.80356061]))
+('The accuracy is', array([0.79750001]))
+('The accuracy is', array([0.81030303]))
+('The accuracy is', array([0.80810606]))
+('The accuracy is', array([0.80810606]))
+('The accuracy is', array([0.81522727]))
+('The accuracy is', array([0.81484848]))
+('The accuracy is', array([0.79780304]))
+('The accuracy is', array([0.80856061]))
+('The accuracy is', array([0.81598485]))
+Accuracy [0.81598485]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.60492426]))
+('The accuracy is', array([0.62106061]))
+('The accuracy is', array([0.64560604]))
+('The accuracy is', array([0.62833333]))
+('The accuracy is', array([0.66416669]))
+('The accuracy is', array([0.63772726]))
+('The accuracy is', array([0.62469697]))
+('The accuracy is', array([0.6698485]))
+('The accuracy is', array([0.64772725]))
+('The accuracy is', array([0.64954543]))
+('The accuracy is', array([0.65060604]))
+('The accuracy is', array([0.67750001]))
+('The accuracy is', array([0.68219697]))
+('The accuracy is', array([0.66848487]))
+('The accuracy is', array([0.68151516]))
+('The accuracy is', array([0.69727272]))
+('The accuracy is', array([0.68606061]))
+('The accuracy is', array([0.67878789]))
+('The accuracy is', array([0.67909092]))
+('The accuracy is', array([0.68333334]))
+Accuracy [0.68333334]
+('i--', 15, '--Kappa', 0.6042195178900216)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79659092]))
+('The accuracy is', array([0.80878788]))
+('The accuracy is', array([0.78045452]))
+('The accuracy is', array([0.83795452]))
+('The accuracy is', array([0.83651513]))
+('The accuracy is', array([0.81560606]))
+('The accuracy is', array([0.84234846]))
+('The accuracy is', array([0.84871215]))
+('The accuracy is', array([0.85590911]))
+('The accuracy is', array([0.84386367]))
+('The accuracy is', array([0.84136361]))
+('The accuracy is', array([0.83469695]))
+('The accuracy is', array([0.85803032]))
+('The accuracy is', array([0.85598487]))
+('The accuracy is', array([0.84159088]))
+('The accuracy is', array([0.85007578]))
+('The accuracy is', array([0.84924245]))
+('The accuracy is', array([0.86401516]))
+('The accuracy is', array([0.86068183]))
+('The accuracy is', array([0.86416668]))
+Accuracy [0.86416668]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.69575757]))
+('The accuracy is', array([0.72409093]))
+('The accuracy is', array([0.73931819]))
+('The accuracy is', array([0.72977275]))
+('The accuracy is', array([0.73931819]))
+('The accuracy is', array([0.74666667]))
+('The accuracy is', array([0.73878789]))
+('The accuracy is', array([0.73265153]))
+('The accuracy is', array([0.75871211]))
+('The accuracy is', array([0.74189395]))
+('The accuracy is', array([0.76439393]))
+('The accuracy is', array([0.75628787]))
+('The accuracy is', array([0.75045455]))
+('The accuracy is', array([0.72363639]))
+('The accuracy is', array([0.76007575]))
+('The accuracy is', array([0.74484849]))
+('The accuracy is', array([0.7610606]))
+('The accuracy is', array([0.75628787]))
+('The accuracy is', array([0.75765151]))
+('The accuracy is', array([0.75643939]))
+Accuracy [0.75643939]
+('i--', 16, '--Kappa', 0.385537247706657)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79878789]))
+('The accuracy is', array([0.8609091]))
+('The accuracy is', array([0.86310607]))
+('The accuracy is', array([0.86931819]))
+('The accuracy is', array([0.88295454]))
+('The accuracy is', array([0.89189392]))
+('The accuracy is', array([0.88553029]))
+('The accuracy is', array([0.89765149]))
+('The accuracy is', array([0.9012121]))
+('The accuracy is', array([0.90659094]))
+('The accuracy is', array([0.90628791]))
+('The accuracy is', array([0.90696973]))
+('The accuracy is', array([0.9012121]))
+('The accuracy is', array([0.90378785]))
+('The accuracy is', array([0.89636362]))
+('The accuracy is', array([0.8840909]))
+('The accuracy is', array([0.90553027]))
+('The accuracy is', array([0.90083331]))
+('The accuracy is', array([0.91106063]))
+('The accuracy is', array([0.90636367]))
+Accuracy [0.90636367]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.8235606]))
+('The accuracy is', array([0.81954545]))
+('The accuracy is', array([0.80992424]))
+('The accuracy is', array([0.8356818]))
+('The accuracy is', array([0.83583331]))
+('The accuracy is', array([0.82136363]))
+('The accuracy is', array([0.84780306]))
+('The accuracy is', array([0.83795452]))
+('The accuracy is', array([0.83659089]))
+('The accuracy is', array([0.83931816]))
+('The accuracy is', array([0.81575757]))
+('The accuracy is', array([0.8441667]))
+('The accuracy is', array([0.8367424]))
+('The accuracy is', array([0.85886365]))
+('The accuracy is', array([0.83219695]))
+('The accuracy is', array([0.84151512]))
+('The accuracy is', array([0.83416665]))
+('The accuracy is', array([0.83954543]))
+('The accuracy is', array([0.83598483]))
+('The accuracy is', array([0.82909089]))
+Accuracy [0.82909089]
+('i--', 17, '--Kappa', 0.573772080693181)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.78583336]))
+('The accuracy is', array([0.80121213]))
+('The accuracy is', array([0.76977271]))
+('The accuracy is', array([0.82704544]))
+('The accuracy is', array([0.81340909]))
+('The accuracy is', array([0.82795453]))
+('The accuracy is', array([0.84015149]))
+('The accuracy is', array([0.85674244]))
+('The accuracy is', array([0.85636365]))
+('The accuracy is', array([0.85257578]))
+('The accuracy is', array([0.86295456]))
+('The accuracy is', array([0.84484851]))
+('The accuracy is', array([0.8628788]))
+('The accuracy is', array([0.87]))
+('The accuracy is', array([0.87053031]))
+('The accuracy is', array([0.8719697]))
+('The accuracy is', array([0.86250001]))
+('The accuracy is', array([0.87121212]))
+('The accuracy is', array([0.8653788]))
+('The accuracy is', array([0.86848485]))
+Accuracy [0.86848485]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.74189395]))
+('The accuracy is', array([0.72954547]))
+('The accuracy is', array([0.75734848]))
+('The accuracy is', array([0.73909092]))
+('The accuracy is', array([0.75598484]))
+('The accuracy is', array([0.74628788]))
+('The accuracy is', array([0.76227272]))
+('The accuracy is', array([0.74356061]))
+('The accuracy is', array([0.75863636]))
+('The accuracy is', array([0.75075758]))
+('The accuracy is', array([0.75833333]))
+('The accuracy is', array([0.74477273]))
+('The accuracy is', array([0.74575758]))
+('The accuracy is', array([0.74462122]))
+('The accuracy is', array([0.74969697]))
+('The accuracy is', array([0.75749999]))
+('The accuracy is', array([0.72659093]))
+('The accuracy is', array([0.74166667]))
+('The accuracy is', array([0.76613635]))
+('The accuracy is', array([0.74954545]))
+Accuracy [0.74954545]
+('i--', 18, '--Kappa', 0.7787011508537574)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.73250002]))
+('The accuracy is', array([0.69030303]))
+('The accuracy is', array([0.75696969]))
+('The accuracy is', array([0.77083331]))
+('The accuracy is', array([0.76825756]))
+('The accuracy is', array([0.79143941]))
+('The accuracy is', array([0.77522725]))
+('The accuracy is', array([0.79636365]))
+('The accuracy is', array([0.82030302]))
+('The accuracy is', array([0.80924243]))
+('The accuracy is', array([0.78151518]))
+('The accuracy is', array([0.8175]))
+('The accuracy is', array([0.82098484]))
+('The accuracy is', array([0.81825757]))
+('The accuracy is', array([0.82265151]))
+('The accuracy is', array([0.8185606]))
+('The accuracy is', array([0.8205303]))
+('The accuracy is', array([0.82439393]))
+('The accuracy is', array([0.8265909]))
+('The accuracy is', array([0.82439393]))
+Accuracy [0.82439393]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.65901518]))
+('The accuracy is', array([0.67053032]))
+('The accuracy is', array([0.67674243]))
+('The accuracy is', array([0.66727275]))
+('The accuracy is', array([0.67825758]))
+('The accuracy is', array([0.67803031]))
+('The accuracy is', array([0.67575759]))
+('The accuracy is', array([0.66863638]))
+('The accuracy is', array([0.68537879]))
+('The accuracy is', array([0.66287881]))
+('The accuracy is', array([0.68280303]))
+('The accuracy is', array([0.67030305]))
+('The accuracy is', array([0.67015153]))
+('The accuracy is', array([0.66757578]))
+('The accuracy is', array([0.66113639]))
+('The accuracy is', array([0.64325756]))
+('The accuracy is', array([0.66772729]))
+('The accuracy is', array([0.66280305]))
+('The accuracy is', array([0.65628791]))
+('The accuracy is', array([0.65871215]))
+Accuracy [0.65871215]
+('i--', 19, '--Kappa', 0.14291986559916614)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.91765153]))
+('The accuracy is', array([0.92393941]))
+('The accuracy is', array([0.95545453]))
+('The accuracy is', array([0.96189392]))
+('The accuracy is', array([0.96280301]))
+('The accuracy is', array([0.96204543]))
+('The accuracy is', array([0.96643937]))
+('The accuracy is', array([0.9637121]))
+('The accuracy is', array([0.97204548]))
+('The accuracy is', array([0.972197]))
+('The accuracy is', array([0.9667424]))
+('The accuracy is', array([0.97606063]))
+('The accuracy is', array([0.97606063]))
+('The accuracy is', array([0.97136366]))
+('The accuracy is', array([0.97696972]))
+('The accuracy is', array([0.96606058]))
+('The accuracy is', array([0.97606063]))
+('The accuracy is', array([0.97507578]))
+('The accuracy is', array([0.97840911]))
+('The accuracy is', array([0.97174245]))
+Accuracy [0.97174245]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95795453]))
+('The accuracy is', array([0.96553028]))
+('The accuracy is', array([0.95757574]))
+('The accuracy is', array([0.95545453]))
+('The accuracy is', array([0.9455303]))
+('The accuracy is', array([0.9622727]))
+('The accuracy is', array([0.96749997]))
+('The accuracy is', array([0.96348482]))
+('The accuracy is', array([0.96825755]))
+('The accuracy is', array([0.95931816]))
+('The accuracy is', array([0.96265149]))
+('The accuracy is', array([0.95371211]))
+('The accuracy is', array([0.96545452]))
+('The accuracy is', array([0.96143937]))
+('The accuracy is', array([0.95356059]))
+('The accuracy is', array([0.96219695]))
+('The accuracy is', array([0.96431816]))
+('The accuracy is', array([0.96749997]))
+('The accuracy is', array([0.96507573]))
+('The accuracy is', array([0.9647727]))
+Accuracy [0.9647727]
+('i--', 20, '--Kappa', 0.35759074323520135)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.89340907]))
+('The accuracy is', array([0.88416666]))
+('The accuracy is', array([0.89280301]))
+('The accuracy is', array([0.85090911]))
+('The accuracy is', array([0.91143942]))
+('The accuracy is', array([0.91401517]))
+('The accuracy is', array([0.91053033]))
+('The accuracy is', array([0.91469699]))
+('The accuracy is', array([0.91371214]))
+('The accuracy is', array([0.89492422]))
+('The accuracy is', array([0.91606063]))
+('The accuracy is', array([0.91856062]))
+('The accuracy is', array([0.90628791]))
+('The accuracy is', array([0.90409088]))
+('The accuracy is', array([0.90295452]))
+('The accuracy is', array([0.91704547]))
+('The accuracy is', array([0.91560608]))
+('The accuracy is', array([0.91348487]))
+('The accuracy is', array([0.91484851]))
+('The accuracy is', array([0.91651517]))
+Accuracy [0.91651517]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.85250002]))
+('The accuracy is', array([0.82856059]))
+('The accuracy is', array([0.83469695]))
+('The accuracy is', array([0.83856058]))
+('The accuracy is', array([0.84022725]))
+('The accuracy is', array([0.85000002]))
+('The accuracy is', array([0.844697]))
+('The accuracy is', array([0.87462121]))
+('The accuracy is', array([0.85492426]))
+('The accuracy is', array([0.85121214]))
+('The accuracy is', array([0.87689394]))
+('The accuracy is', array([0.8603788]))
+('The accuracy is', array([0.87484848]))
+('The accuracy is', array([0.86977273]))
+('The accuracy is', array([0.86856061]))
+('The accuracy is', array([0.86825758]))
+('The accuracy is', array([0.85674244]))
+('The accuracy is', array([0.86818182]))
+('The accuracy is', array([0.86166668]))
+('The accuracy is', array([0.86901516]))
+Accuracy [0.86901516]
+('i--', 21, '--Kappa', 0.9264941010890201)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.70219696]))
+('The accuracy is', array([0.70719695]))
+('The accuracy is', array([0.70310605]))
+('The accuracy is', array([0.70530301]))
+('The accuracy is', array([0.72416669]))
+('The accuracy is', array([0.73015153]))
+('The accuracy is', array([0.75318182]))
+('The accuracy is', array([0.7555303]))
+('The accuracy is', array([0.74553031]))
+('The accuracy is', array([0.76348484]))
+('The accuracy is', array([0.77742422]))
+('The accuracy is', array([0.7737121]))
+('The accuracy is', array([0.75931817]))
+('The accuracy is', array([0.78234851]))
+('The accuracy is', array([0.7792424]))
+('The accuracy is', array([0.76196969]))
+('The accuracy is', array([0.78492427]))
+('The accuracy is', array([0.78515154]))
+('The accuracy is', array([0.78159094]))
+('The accuracy is', array([0.78863639]))
+Accuracy [0.78863639]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.57022727]))
+('The accuracy is', array([0.62060606]))
+('The accuracy is', array([0.5941667]))
+('The accuracy is', array([0.58227271]))
+('The accuracy is', array([0.59454548]))
+('The accuracy is', array([0.61727273]))
+('The accuracy is', array([0.57666665]))
+('The accuracy is', array([0.59674245]))
+('The accuracy is', array([0.58749998]))
+('The accuracy is', array([0.59946972]))
+('The accuracy is', array([0.59075755]))
+('The accuracy is', array([0.61484849]))
+('The accuracy is', array([0.61583334]))
+('The accuracy is', array([0.61484849]))
+('The accuracy is', array([0.62098485]))
+('The accuracy is', array([0.61113638]))
+('The accuracy is', array([0.60803032]))
+('The accuracy is', array([0.62]))
+('The accuracy is', array([0.61227274]))
+('The accuracy is', array([0.60621214]))
+Accuracy [0.60621214]
+('i--', 22, '--Kappa', 0.28090199671221494)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.89833331]))
+('The accuracy is', array([0.89749998]))
+('The accuracy is', array([0.91803032]))
+('The accuracy is', array([0.91772729]))
+('The accuracy is', array([0.91689396]))
+('The accuracy is', array([0.91583335]))
+('The accuracy is', array([0.91924244]))
+('The accuracy is', array([0.91856062]))
+('The accuracy is', array([0.93545455]))
+('The accuracy is', array([0.94151515]))
+('The accuracy is', array([0.92871213]))
+('The accuracy is', array([0.94]))
+('The accuracy is', array([0.9339394]))
+('The accuracy is', array([0.92856061]))
+('The accuracy is', array([0.93189394]))
+('The accuracy is', array([0.93871212]))
+('The accuracy is', array([0.94098485]))
+('The accuracy is', array([0.93507576]))
+('The accuracy is', array([0.93939394]))
+('The accuracy is', array([0.93272728]))
+Accuracy [0.93272728]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.88499999]))
+('The accuracy is', array([0.90628791]))
+('The accuracy is', array([0.91522729]))
+('The accuracy is', array([0.91689396]))
+('The accuracy is', array([0.88871211]))
+('The accuracy is', array([0.9137879]))
+('The accuracy is', array([0.91742426]))
+('The accuracy is', array([0.91015154]))
+('The accuracy is', array([0.89636362]))
+('The accuracy is', array([0.8840909]))
+('The accuracy is', array([0.90439391]))
+('The accuracy is', array([0.91515154]))
+('The accuracy is', array([0.90462118]))
+('The accuracy is', array([0.88310605]))
+('The accuracy is', array([0.90848488]))
+('The accuracy is', array([0.89234847]))
+('The accuracy is', array([0.89333332]))
+('The accuracy is', array([0.90204543]))
+('The accuracy is', array([0.89909089]))
+('The accuracy is', array([0.90840912]))
+Accuracy [0.90840912]
+('i--', 23, '--Kappa', 0.47982045972798737)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.82704544]))
+('The accuracy is', array([0.84757578]))
+('The accuracy is', array([0.8372727]))
+('The accuracy is', array([0.84045452]))
+('The accuracy is', array([0.85643941]))
+('The accuracy is', array([0.86015153]))
+('The accuracy is', array([0.83181816]))
+('The accuracy is', array([0.88681817]))
+('The accuracy is', array([0.87371212]))
+('The accuracy is', array([0.88196969]))
+('The accuracy is', array([0.88348484]))
+('The accuracy is', array([0.87075758]))
+('The accuracy is', array([0.88825756]))
+('The accuracy is', array([0.88499999]))
+('The accuracy is', array([0.88628787]))
+('The accuracy is', array([0.86371213]))
+('The accuracy is', array([0.88212121]))
+('The accuracy is', array([0.88439393]))
+('The accuracy is', array([0.89037877]))
+('The accuracy is', array([0.89143938]))
+Accuracy [0.89143938]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79053032]))
+('The accuracy is', array([0.77075756]))
+('The accuracy is', array([0.79356062]))
+('The accuracy is', array([0.78848487]))
+('The accuracy is', array([0.8034091]))
+('The accuracy is', array([0.76772726]))
+('The accuracy is', array([0.77886361]))
+('The accuracy is', array([0.77113634]))
+('The accuracy is', array([0.77060604]))
+('The accuracy is', array([0.79522729]))
+('The accuracy is', array([0.80659091]))
+('The accuracy is', array([0.8105303]))
+('The accuracy is', array([0.78856063]))
+('The accuracy is', array([0.79000002]))
+('The accuracy is', array([0.7877273]))
+('The accuracy is', array([0.80651516]))
+('The accuracy is', array([0.81371212]))
+('The accuracy is', array([0.79106063]))
+('The accuracy is', array([0.81007576]))
+('The accuracy is', array([0.79530305]))
+Accuracy [0.79530305]
+('i--', 24, '--Kappa', 0.22472608114057213)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.91386366]))
+('The accuracy is', array([0.92636365]))
+('The accuracy is', array([0.92393941]))
+('The accuracy is', array([0.93015152]))
+('The accuracy is', array([0.94015151]))
+('The accuracy is', array([0.9425]))
+('The accuracy is', array([0.94765151]))
+('The accuracy is', array([0.94159091]))
+('The accuracy is', array([0.94015151]))
+('The accuracy is', array([0.95166665]))
+('The accuracy is', array([0.95204544]))
+('The accuracy is', array([0.95477271]))
+('The accuracy is', array([0.95280302]))
+('The accuracy is', array([0.95628786]))
+('The accuracy is', array([0.95393938]))
+('The accuracy is', array([0.95583332]))
+('The accuracy is', array([0.95840907]))
+('The accuracy is', array([0.95151514]))
+('The accuracy is', array([0.94749999]))
+('The accuracy is', array([0.94999999]))
+Accuracy [0.94999999]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.91901517]))
+('The accuracy is', array([0.92174244]))
+('The accuracy is', array([0.92719698]))
+('The accuracy is', array([0.92507577]))
+('The accuracy is', array([0.92886364]))
+('The accuracy is', array([0.92750001]))
+('The accuracy is', array([0.92462122]))
+('The accuracy is', array([0.91651517]))
+('The accuracy is', array([0.9203788]))
+('The accuracy is', array([0.92613637]))
+('The accuracy is', array([0.92265153]))
+('The accuracy is', array([0.92909092]))
+('The accuracy is', array([0.93636364]))
+('The accuracy is', array([0.91030306]))
+('The accuracy is', array([0.93136364]))
+('The accuracy is', array([0.92772728]))
+('The accuracy is', array([0.92121214]))
+('The accuracy is', array([0.93606061]))
+('The accuracy is', array([0.93098485]))
+('The accuracy is', array([0.92325759]))
+Accuracy [0.92325759]
+('i--', 25, '--Kappa', 0.1232926377275122)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.93643939]))
+('The accuracy is', array([0.9521212]))
+('The accuracy is', array([0.95121211]))
+('The accuracy is', array([0.9556818]))
+('The accuracy is', array([0.95424241]))
+('The accuracy is', array([0.97159094]))
+('The accuracy is', array([0.97121215]))
+('The accuracy is', array([0.97196972]))
+('The accuracy is', array([0.97363639]))
+('The accuracy is', array([0.97196972]))
+('The accuracy is', array([0.97772729]))
+('The accuracy is', array([0.97318184]))
+('The accuracy is', array([0.97886366]))
+('The accuracy is', array([0.97901517]))
+('The accuracy is', array([0.97196972]))
+('The accuracy is', array([0.98219699]))
+('The accuracy is', array([0.96962124]))
+('The accuracy is', array([0.98242426]))
+('The accuracy is', array([0.98151517]))
+('The accuracy is', array([0.97916669]))
+Accuracy [0.97916669]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.9485606]))
+('The accuracy is', array([0.96810603]))
+('The accuracy is', array([0.96553028]))
+('The accuracy is', array([0.96181816]))
+('The accuracy is', array([0.97446972]))
+('The accuracy is', array([0.97060609]))
+('The accuracy is', array([0.96772724]))
+('The accuracy is', array([0.9732576]))
+('The accuracy is', array([0.97037882]))
+('The accuracy is', array([0.97719699]))
+('The accuracy is', array([0.95227271]))
+('The accuracy is', array([0.9581818]))
+('The accuracy is', array([0.97090912]))
+('The accuracy is', array([0.97492427]))
+('The accuracy is', array([0.97007579]))
+('The accuracy is', array([0.97090912]))
+('The accuracy is', array([0.97371215]))
+('The accuracy is', array([0.97401518]))
+('The accuracy is', array([0.9737879]))
+('The accuracy is', array([0.97083336]))
+Accuracy [0.97083336]
+('i--', 26, '--Kappa', 0.6104802454578097)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79636365]))
+('The accuracy is', array([0.79992425]))
+('The accuracy is', array([0.80303031]))
+('The accuracy is', array([0.80765152]))
+('The accuracy is', array([0.80962121]))
+('The accuracy is', array([0.8205303]))
+('The accuracy is', array([0.82174242]))
+('The accuracy is', array([0.83992422]))
+('The accuracy is', array([0.844697]))
+('The accuracy is', array([0.82325757]))
+('The accuracy is', array([0.85098487]))
+('The accuracy is', array([0.84689397]))
+('The accuracy is', array([0.85340911]))
+('The accuracy is', array([0.83378786]))
+('The accuracy is', array([0.84431821]))
+('The accuracy is', array([0.8537879]))
+('The accuracy is', array([0.85856062]))
+('The accuracy is', array([0.85477275]))
+('The accuracy is', array([0.84757578]))
+('The accuracy is', array([0.8609091]))
+Accuracy [0.8609091]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.70780301]))
+('The accuracy is', array([0.73598486]))
+('The accuracy is', array([0.73583335]))
+('The accuracy is', array([0.74659091]))
+('The accuracy is', array([0.74871212]))
+('The accuracy is', array([0.71378785]))
+('The accuracy is', array([0.69204545]))
+('The accuracy is', array([0.75484848]))
+('The accuracy is', array([0.72924244]))
+('The accuracy is', array([0.73265153]))
+('The accuracy is', array([0.74757576]))
+('The accuracy is', array([0.71333331]))
+('The accuracy is', array([0.71522725]))
+('The accuracy is', array([0.74121213]))
+('The accuracy is', array([0.7475]))
+('The accuracy is', array([0.73393941]))
+('The accuracy is', array([0.70810604]))
+('The accuracy is', array([0.74128789]))
+('The accuracy is', array([0.73227274]))
+('The accuracy is', array([0.73946971]))
+Accuracy [0.73946971]
+('i--', 27, '--Kappa', 0.6762612976216713)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.80537879]))
+('The accuracy is', array([0.77704543]))
+('The accuracy is', array([0.77113634]))
+('The accuracy is', array([0.79424244]))
+('The accuracy is', array([0.81174242]))
+('The accuracy is', array([0.815]))
+('The accuracy is', array([0.80409092]))
+('The accuracy is', array([0.82575756]))
+('The accuracy is', array([0.83386362]))
+('The accuracy is', array([0.82151514]))
+('The accuracy is', array([0.8397727]))
+('The accuracy is', array([0.84045452]))
+('The accuracy is', array([0.83553028]))
+('The accuracy is', array([0.83431816]))
+('The accuracy is', array([0.840303]))
+('The accuracy is', array([0.84204543]))
+('The accuracy is', array([0.84045452]))
+('The accuracy is', array([0.84234846]))
+('The accuracy is', array([0.84204543]))
+('The accuracy is', array([0.84098482]))
+Accuracy [0.84098482]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.70030302]))
+('The accuracy is', array([0.70181817]))
+('The accuracy is', array([0.71507573]))
+('The accuracy is', array([0.68825758]))
+('The accuracy is', array([0.71196967]))
+('The accuracy is', array([0.69515151]))
+('The accuracy is', array([0.68045455]))
+('The accuracy is', array([0.71151513]))
+('The accuracy is', array([0.71181816]))
+('The accuracy is', array([0.70477271]))
+('The accuracy is', array([0.70537877]))
+('The accuracy is', array([0.7298485]))
+('The accuracy is', array([0.72295457]))
+('The accuracy is', array([0.6905303]))
+('The accuracy is', array([0.69287878]))
+('The accuracy is', array([0.70181817]))
+('The accuracy is', array([0.68401515]))
+('The accuracy is', array([0.69128788]))
+('The accuracy is', array([0.70424241]))
+('The accuracy is', array([0.7051515]))
+Accuracy [0.7051515]
+('i--', 28, '--Kappa', 0.7932949464303759)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.7378788]))
+('The accuracy is', array([0.74992424]))
+('The accuracy is', array([0.7640909]))
+('The accuracy is', array([0.72303033]))
+('The accuracy is', array([0.77151513]))
+('The accuracy is', array([0.75371212]))
+('The accuracy is', array([0.79643941]))
+('The accuracy is', array([0.79886365]))
+('The accuracy is', array([0.79856062]))
+('The accuracy is', array([0.81151515]))
+('The accuracy is', array([0.80553031]))
+('The accuracy is', array([0.79863638]))
+('The accuracy is', array([0.80553031]))
+('The accuracy is', array([0.79583335]))
+('The accuracy is', array([0.81333333]))
+('The accuracy is', array([0.80363637]))
+('The accuracy is', array([0.81257576]))
+('The accuracy is', array([0.8144697]))
+('The accuracy is', array([0.81431818]))
+('The accuracy is', array([0.81886363]))
+Accuracy [0.81886363]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.64659089]))
+('The accuracy is', array([0.64045453]))
+('The accuracy is', array([0.64159089]))
+('The accuracy is', array([0.66666669]))
+('The accuracy is', array([0.66515154]))
+('The accuracy is', array([0.64159089]))
+('The accuracy is', array([0.67674243]))
+('The accuracy is', array([0.66462123]))
+('The accuracy is', array([0.66371214]))
+('The accuracy is', array([0.66310608]))
+('The accuracy is', array([0.66143942]))
+('The accuracy is', array([0.66696972]))
+('The accuracy is', array([0.67219698]))
+('The accuracy is', array([0.6698485]))
+('The accuracy is', array([0.66446972]))
+('The accuracy is', array([0.67583334]))
+('The accuracy is', array([0.64636362]))
+('The accuracy is', array([0.66143942]))
+('The accuracy is', array([0.65075755]))
+('The accuracy is', array([0.65750003]))
+Accuracy [0.65750003]
+('i--', 29, '--Kappa', 0.1664070179007473)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.92803031]))
+('The accuracy is', array([0.92462122]))
+('The accuracy is', array([0.94704545]))
+('The accuracy is', array([0.94749999]))
+('The accuracy is', array([0.95378786]))
+('The accuracy is', array([0.9526515]))
+('The accuracy is', array([0.95742422]))
+('The accuracy is', array([0.96409088]))
+('The accuracy is', array([0.95909089]))
+('The accuracy is', array([0.96272725]))
+('The accuracy is', array([0.96462119]))
+('The accuracy is', array([0.96575755]))
+('The accuracy is', array([0.95999998]))
+('The accuracy is', array([0.96590906]))
+('The accuracy is', array([0.96803027]))
+('The accuracy is', array([0.96924245]))
+('The accuracy is', array([0.9531818]))
+('The accuracy is', array([0.96492422]))
+('The accuracy is', array([0.97121215]))
+('The accuracy is', array([0.96856058]))
+Accuracy [0.96856058]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.93643939]))
+('The accuracy is', array([0.94484848]))
+('The accuracy is', array([0.92939395]))
+('The accuracy is', array([0.93916667]))
+('The accuracy is', array([0.9490909]))
+('The accuracy is', array([0.95712119]))
+('The accuracy is', array([0.9587121]))
+('The accuracy is', array([0.96037877]))
+('The accuracy is', array([0.94416666]))
+('The accuracy is', array([0.9587121]))
+('The accuracy is', array([0.95174241]))
+('The accuracy is', array([0.96522725]))
+('The accuracy is', array([0.96060604]))
+('The accuracy is', array([0.95090908]))
+('The accuracy is', array([0.96386361]))
+('The accuracy is', array([0.95977271]))
+('The accuracy is', array([0.96098483]))
+('The accuracy is', array([0.95833331]))
+('The accuracy is', array([0.96522725]))
+('The accuracy is', array([0.95416665]))
+Accuracy [0.95416665]
+('i--', 30, '--Kappa', 0.11453457682877277)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95295453]))
+('The accuracy is', array([0.93121213]))
+('The accuracy is', array([0.9193182]))
+('The accuracy is', array([0.96583331]))
+('The accuracy is', array([0.95916665]))
+('The accuracy is', array([0.96659088]))
+('The accuracy is', array([0.97000003]))
+('The accuracy is', array([0.97469699]))
+('The accuracy is', array([0.96265149]))
+('The accuracy is', array([0.95113635]))
+('The accuracy is', array([0.96977276]))
+('The accuracy is', array([0.97393942]))
+('The accuracy is', array([0.97590911]))
+('The accuracy is', array([0.97560608]))
+('The accuracy is', array([0.98106062]))
+('The accuracy is', array([0.97977275]))
+('The accuracy is', array([0.97924244]))
+('The accuracy is', array([0.97924244]))
+('The accuracy is', array([0.97969699]))
+('The accuracy is', array([0.9812879]))
+Accuracy [0.9812879]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95727271]))
+('The accuracy is', array([0.97568184]))
+('The accuracy is', array([0.96643937]))
+('The accuracy is', array([0.965303]))
+('The accuracy is', array([0.96454543]))
+('The accuracy is', array([0.97909093]))
+('The accuracy is', array([0.97810608]))
+('The accuracy is', array([0.96825755]))
+('The accuracy is', array([0.95803028]))
+('The accuracy is', array([0.96659088]))
+('The accuracy is', array([0.97204548]))
+('The accuracy is', array([0.97318184]))
+('The accuracy is', array([0.97431821]))
+('The accuracy is', array([0.9762879]))
+('The accuracy is', array([0.97977275]))
+('The accuracy is', array([0.97795457]))
+('The accuracy is', array([0.98212123]))
+('The accuracy is', array([0.98242426]))
+('The accuracy is', array([0.98053032]))
+('The accuracy is', array([0.98318183]))
+Accuracy [0.98318183]
+('i--', 31, '--Kappa', 0.9829448074362658)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.67303032]))
+('The accuracy is', array([0.67878789]))
+('The accuracy is', array([0.68174243]))
+('The accuracy is', array([0.71416664]))
+('The accuracy is', array([0.72121215]))
+('The accuracy is', array([0.73598486]))
+('The accuracy is', array([0.72446972]))
+('The accuracy is', array([0.7444697]))
+('The accuracy is', array([0.72871214]))
+('The accuracy is', array([0.75462121]))
+('The accuracy is', array([0.72446972]))
+('The accuracy is', array([0.745]))
+('The accuracy is', array([0.72151518]))
+('The accuracy is', array([0.75977272]))
+('The accuracy is', array([0.75999999]))
+('The accuracy is', array([0.75454545]))
+('The accuracy is', array([0.76015151]))
+('The accuracy is', array([0.77234846]))
+('The accuracy is', array([0.77037877]))
+('The accuracy is', array([0.77303028]))
+Accuracy [0.77303028]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.60371214]))
+('The accuracy is', array([0.62651515]))
+('The accuracy is', array([0.61303031]))
+('The accuracy is', array([0.61045456]))
+('The accuracy is', array([0.60878789]))
+('The accuracy is', array([0.59325755]))
+('The accuracy is', array([0.62265152]))
+('The accuracy is', array([0.61462122]))
+('The accuracy is', array([0.61454546]))
+('The accuracy is', array([0.61272728]))
+('The accuracy is', array([0.61750001]))
+('The accuracy is', array([0.60530305]))
+('The accuracy is', array([0.59962124]))
+('The accuracy is', array([0.59537882]))
+('The accuracy is', array([0.6093182]))
+('The accuracy is', array([0.59401518]))
+('The accuracy is', array([0.59590912]))
+('The accuracy is', array([0.5987879]))
+('The accuracy is', array([0.5977273]))
+('The accuracy is', array([0.59113634]))
+Accuracy [0.59113634]
+('i--', 32, '--Kappa', 0.17569966306434537)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.9289394]))
+('The accuracy is', array([0.94181818]))
+('The accuracy is', array([0.94507575]))
+('The accuracy is', array([0.9228788]))
+('The accuracy is', array([0.95712119]))
+('The accuracy is', array([0.94893938]))
+('The accuracy is', array([0.95840907]))
+('The accuracy is', array([0.93833333]))
+('The accuracy is', array([0.94454545]))
+('The accuracy is', array([0.95901513]))
+('The accuracy is', array([0.96409088]))
+('The accuracy is', array([0.96507573]))
+('The accuracy is', array([0.96257573]))
+('The accuracy is', array([0.96340907]))
+('The accuracy is', array([0.94583333]))
+('The accuracy is', array([0.9622727]))
+('The accuracy is', array([0.95977271]))
+('The accuracy is', array([0.96037877]))
+('The accuracy is', array([0.96825755]))
+('The accuracy is', array([0.96515149]))
+Accuracy [0.96515149]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.93151516]))
+('The accuracy is', array([0.9425]))
+('The accuracy is', array([0.94325757]))
+('The accuracy is', array([0.93833333]))
+('The accuracy is', array([0.94401515]))
+('The accuracy is', array([0.94628787]))
+('The accuracy is', array([0.94863635]))
+('The accuracy is', array([0.92090911]))
+('The accuracy is', array([0.94840908]))
+('The accuracy is', array([0.95416665]))
+('The accuracy is', array([0.93265152]))
+('The accuracy is', array([0.95045453]))
+('The accuracy is', array([0.94939393]))
+('The accuracy is', array([0.94727272]))
+('The accuracy is', array([0.95007575]))
+('The accuracy is', array([0.93757576]))
+('The accuracy is', array([0.95348483]))
+('The accuracy is', array([0.95098484]))
+('The accuracy is', array([0.94348484]))
+('The accuracy is', array([0.94371212]))
+Accuracy [0.94371212]
+('i--', 33, '--Kappa', 0.08385730765246557)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.89060605]))
+('The accuracy is', array([0.95128787]))
+('The accuracy is', array([0.96416664]))
+('The accuracy is', array([0.9526515]))
+('The accuracy is', array([0.96606058]))
+('The accuracy is', array([0.96643937]))
+('The accuracy is', array([0.94787878]))
+('The accuracy is', array([0.96553028]))
+('The accuracy is', array([0.97151518]))
+('The accuracy is', array([0.97696972]))
+('The accuracy is', array([0.98000002]))
+('The accuracy is', array([0.97939396]))
+('The accuracy is', array([0.97727275]))
+('The accuracy is', array([0.98340911]))
+('The accuracy is', array([0.98068184]))
+('The accuracy is', array([0.98227274]))
+('The accuracy is', array([0.98189396]))
+('The accuracy is', array([0.98454547]))
+('The accuracy is', array([0.98166668]))
+('The accuracy is', array([0.9843182]))
+Accuracy [0.9843182]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.97810608]))
+('The accuracy is', array([0.9812879]))
+('The accuracy is', array([0.98598486]))
+('The accuracy is', array([0.98280305]))
+('The accuracy is', array([0.98568183]))
+('The accuracy is', array([0.98803031]))
+('The accuracy is', array([0.98613638]))
+('The accuracy is', array([0.97121215]))
+('The accuracy is', array([0.97340912]))
+('The accuracy is', array([0.98250002]))
+('The accuracy is', array([0.97606063]))
+('The accuracy is', array([0.98901516]))
+('The accuracy is', array([0.98530304]))
+('The accuracy is', array([0.98643941]))
+('The accuracy is', array([0.98681819]))
+('The accuracy is', array([0.98363638]))
+('The accuracy is', array([0.98659092]))
+('The accuracy is', array([0.98530304]))
+('The accuracy is', array([0.98606062]))
+('The accuracy is', array([0.9752273]))
+Accuracy [0.9752273]
+('i--', 34, '--Kappa', 0.4365220668652968)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.84439397]))
+('The accuracy is', array([0.82833332]))
+('The accuracy is', array([0.85469699]))
+('The accuracy is', array([0.87515152]))
+('The accuracy is', array([0.8860606]))
+('The accuracy is', array([0.88265151]))
+('The accuracy is', array([0.89151514]))
+('The accuracy is', array([0.89583331]))
+('The accuracy is', array([0.88833332]))
+('The accuracy is', array([0.89742422]))
+('The accuracy is', array([0.89916664]))
+('The accuracy is', array([0.89166665]))
+('The accuracy is', array([0.9012121]))
+('The accuracy is', array([0.89825755]))
+('The accuracy is', array([0.8981818]))
+('The accuracy is', array([0.89689392]))
+('The accuracy is', array([0.89772725]))
+('The accuracy is', array([0.89613634]))
+('The accuracy is', array([0.89310604]))
+('The accuracy is', array([0.89727271]))
+Accuracy [0.89727271]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.80727273]))
+('The accuracy is', array([0.84015149]))
+('The accuracy is', array([0.78901517]))
+('The accuracy is', array([0.81916666]))
+('The accuracy is', array([0.79037881]))
+('The accuracy is', array([0.82636362]))
+('The accuracy is', array([0.84954548]))
+('The accuracy is', array([0.83386362]))
+('The accuracy is', array([0.82287878]))
+('The accuracy is', array([0.83969694]))
+('The accuracy is', array([0.85371214]))
+('The accuracy is', array([0.83787876]))
+('The accuracy is', array([0.8276515]))
+('The accuracy is', array([0.86250001]))
+('The accuracy is', array([0.82401514]))
+('The accuracy is', array([0.82833332]))
+('The accuracy is', array([0.83409089]))
+('The accuracy is', array([0.83454543]))
+('The accuracy is', array([0.82901514]))
+('The accuracy is', array([0.84212118]))
+Accuracy [0.84212118]
+('i--', 35, '--Kappa', 0.898662325783973)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.71492422]))
+('The accuracy is', array([0.71128786]))
+('The accuracy is', array([0.70606059]))
+('The accuracy is', array([0.74136364]))
+('The accuracy is', array([0.73409092]))
+('The accuracy is', array([0.73386365]))
+('The accuracy is', array([0.76378787]))
+('The accuracy is', array([0.7439394]))
+('The accuracy is', array([0.73583335]))
+('The accuracy is', array([0.77325755]))
+('The accuracy is', array([0.77946967]))
+('The accuracy is', array([0.77984846]))
+('The accuracy is', array([0.78689396]))
+('The accuracy is', array([0.77181816]))
+('The accuracy is', array([0.78840911]))
+('The accuracy is', array([0.79250002]))
+('The accuracy is', array([0.79083335]))
+('The accuracy is', array([0.79098487]))
+('The accuracy is', array([0.78992426]))
+('The accuracy is', array([0.79053032]))
+Accuracy [0.79053032]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.57833332]))
+('The accuracy is', array([0.6214394]))
+('The accuracy is', array([0.62318182]))
+('The accuracy is', array([0.6093182]))
+('The accuracy is', array([0.60659093]))
+('The accuracy is', array([0.60916668]))
+('The accuracy is', array([0.60666668]))
+('The accuracy is', array([0.61325759]))
+('The accuracy is', array([0.63]))
+('The accuracy is', array([0.62113637]))
+('The accuracy is', array([0.64575756]))
+('The accuracy is', array([0.63613635]))
+('The accuracy is', array([0.63780302]))
+('The accuracy is', array([0.62166667]))
+('The accuracy is', array([0.62424242]))
+('The accuracy is', array([0.6214394]))
+('The accuracy is', array([0.63090909]))
+('The accuracy is', array([0.65568179]))
+('The accuracy is', array([0.64159089]))
+('The accuracy is', array([0.65522724]))
+Accuracy [0.65522724]
+('i--', 36, '--Kappa', 0.0444765977952426)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.96363634]))
+('The accuracy is', array([0.97242427]))
+('The accuracy is', array([0.96015149]))
+('The accuracy is', array([0.97113639]))
+('The accuracy is', array([0.97446972]))
+('The accuracy is', array([0.9737879]))
+('The accuracy is', array([0.97780305]))
+('The accuracy is', array([0.95090908]))
+('The accuracy is', array([0.97856063]))
+('The accuracy is', array([0.97371215]))
+('The accuracy is', array([0.97962123]))
+('The accuracy is', array([0.97757578]))
+('The accuracy is', array([0.98416668]))
+('The accuracy is', array([0.98659092]))
+('The accuracy is', array([0.97803032]))
+('The accuracy is', array([0.98409092]))
+('The accuracy is', array([0.98810607]))
+('The accuracy is', array([0.98469698]))
+('The accuracy is', array([0.98856062]))
+('The accuracy is', array([0.99022728]))
+Accuracy [0.99022728]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.97916669]))
+('The accuracy is', array([0.97992426]))
+('The accuracy is', array([0.99121213]))
+Accuracy [0.99121213]
+('i--', 37, '--Kappa', 0.9233197953759356)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.68469697]))
+('The accuracy is', array([0.72000003]))
+('The accuracy is', array([0.68893939]))
+('The accuracy is', array([0.73166668]))
+('The accuracy is', array([0.6794697]))
+('The accuracy is', array([0.73969698]))
+('The accuracy is', array([0.73151517]))
+('The accuracy is', array([0.76696968]))
+('The accuracy is', array([0.74234849]))
+('The accuracy is', array([0.77810603]))
+('The accuracy is', array([0.77651513]))
+('The accuracy is', array([0.76401514]))
+('The accuracy is', array([0.77227271]))
+('The accuracy is', array([0.78492427]))
+('The accuracy is', array([0.78530306]))
+('The accuracy is', array([0.78037876]))
+('The accuracy is', array([0.78553033]))
+('The accuracy is', array([0.78431821]))
+('The accuracy is', array([0.76772726]))
+('The accuracy is', array([0.79204547]))
+Accuracy [0.79204547]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.54863638]))
+('The accuracy is', array([0.55833334]))
+('The accuracy is', array([0.56045455]))
+('The accuracy is', array([0.56689394]))
+('The accuracy is', array([0.59515154]))
+('The accuracy is', array([0.594697]))
+('The accuracy is', array([0.60446972]))
+('The accuracy is', array([0.58992422]))
+('The accuracy is', array([0.61984849]))
+('The accuracy is', array([0.61280304]))
+('The accuracy is', array([0.64719695]))
+('The accuracy is', array([0.61560607]))
+('The accuracy is', array([0.6285606]))
+('The accuracy is', array([0.64840907]))
+('The accuracy is', array([0.6360606]))
+('The accuracy is', array([0.64151514]))
+('The accuracy is', array([0.6275]))
+('The accuracy is', array([0.61136365]))
+('The accuracy is', array([0.61378789]))
+('The accuracy is', array([0.65053028]))
+Accuracy [0.65053028]
+('i--', 38, '--Kappa', 0.9746937514962055)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.67568183]))
+('The accuracy is', array([0.70545453]))
+('The accuracy is', array([0.70121211]))
+('The accuracy is', array([0.71249998]))
+('The accuracy is', array([0.63651514]))
+('The accuracy is', array([0.72977275]))
+('The accuracy is', array([0.7323485]))
+('The accuracy is', array([0.74219698]))
+('The accuracy is', array([0.7117424]))
+('The accuracy is', array([0.75674242]))
+('The accuracy is', array([0.75583333]))
+('The accuracy is', array([0.72977275]))
+('The accuracy is', array([0.76424241]))
+('The accuracy is', array([0.77106059]))
+('The accuracy is', array([0.75696969]))
+('The accuracy is', array([0.76613635]))
+('The accuracy is', array([0.76833332]))
+('The accuracy is', array([0.77242422]))
+('The accuracy is', array([0.77704543]))
+('The accuracy is', array([0.77053028]))
+Accuracy [0.77053028]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.53712124]))
+('The accuracy is', array([0.54515153]))
+('The accuracy is', array([0.53348488]))
+('The accuracy is', array([0.56136364]))
+('The accuracy is', array([0.56310606]))
+('The accuracy is', array([0.5765909]))
+('The accuracy is', array([0.59590912]))
+('The accuracy is', array([0.60212123]))
+('The accuracy is', array([0.60848486]))
+('The accuracy is', array([0.61189395]))
+('The accuracy is', array([0.61310607]))
+('The accuracy is', array([0.61128789]))
+('The accuracy is', array([0.61613637]))
+('The accuracy is', array([0.61515152]))
+('The accuracy is', array([0.60719699]))
+('The accuracy is', array([0.60818183]))
+('The accuracy is', array([0.6007576]))
+('The accuracy is', array([0.60151517]))
+('The accuracy is', array([0.58765149]))
+('The accuracy is', array([0.60439396]))
+Accuracy [0.60439396]
+('i--', 39, '--Kappa', 0.5795393763905294)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.7912879]))
+('The accuracy is', array([0.78371215]))
+('The accuracy is', array([0.81098485]))
+('The accuracy is', array([0.83348483]))
+('The accuracy is', array([0.82856059]))
+('The accuracy is', array([0.82810605]))
+('The accuracy is', array([0.83242422]))
+('The accuracy is', array([0.83999997]))
+('The accuracy is', array([0.84007573]))
+('The accuracy is', array([0.86424243]))
+('The accuracy is', array([0.86651516]))
+('The accuracy is', array([0.8653788]))
+('The accuracy is', array([0.85598487]))
+('The accuracy is', array([0.86219698]))
+('The accuracy is', array([0.86924243]))
+('The accuracy is', array([0.8653788]))
+('The accuracy is', array([0.8639394]))
+('The accuracy is', array([0.85909092]))
+('The accuracy is', array([0.86424243]))
+('The accuracy is', array([0.86227274]))
+Accuracy [0.86227274]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.75999999]))
+('The accuracy is', array([0.77143937]))
+('The accuracy is', array([0.7505303]))
+('The accuracy is', array([0.74250001]))
+('The accuracy is', array([0.75863636]))
+('The accuracy is', array([0.7403788]))
+('The accuracy is', array([0.76060605]))
+('The accuracy is', array([0.77060604]))
+('The accuracy is', array([0.74242425]))
+('The accuracy is', array([0.72333336]))
+('The accuracy is', array([0.76651514]))
+('The accuracy is', array([0.77742422]))
+('The accuracy is', array([0.77742422]))
+('The accuracy is', array([0.77787876]))
+('The accuracy is', array([0.75242424]))
+('The accuracy is', array([0.74515152]))
+('The accuracy is', array([0.75946969]))
+('The accuracy is', array([0.75121212]))
+('The accuracy is', array([0.75886363]))
+('The accuracy is', array([0.76249999]))
+Accuracy [0.76249999]
+('i--', 40, '--Kappa', 0.674581763852205)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.76492423]))
+('The accuracy is', array([0.77719694]))
+('The accuracy is', array([0.76674241]))
+('The accuracy is', array([0.80810606]))
+('The accuracy is', array([0.80280304]))
+('The accuracy is', array([0.82128787]))
+('The accuracy is', array([0.81068182]))
+('The accuracy is', array([0.79045457]))
+('The accuracy is', array([0.8265909]))
+('The accuracy is', array([0.83166665]))
+('The accuracy is', array([0.83356059]))
+('The accuracy is', array([0.83416665]))
+('The accuracy is', array([0.83098483]))
+('The accuracy is', array([0.83878785]))
+('The accuracy is', array([0.83772725]))
+('The accuracy is', array([0.8397727]))
+('The accuracy is', array([0.8392424]))
+('The accuracy is', array([0.83765149]))
+('The accuracy is', array([0.83143938]))
+('The accuracy is', array([0.83901513]))
+Accuracy [0.83901513]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.6855303]))
+('The accuracy is', array([0.69371212]))
+('The accuracy is', array([0.67628789]))
+('The accuracy is', array([0.70681816]))
+('The accuracy is', array([0.71878791]))
+('The accuracy is', array([0.6855303]))
+('The accuracy is', array([0.70477271]))
+('The accuracy is', array([0.68257576]))
+('The accuracy is', array([0.69143939]))
+('The accuracy is', array([0.68083334]))
+('The accuracy is', array([0.6905303]))
+('The accuracy is', array([0.68840909]))
+('The accuracy is', array([0.69121212]))
+('The accuracy is', array([0.70386362]))
+('The accuracy is', array([0.70469695]))
+('The accuracy is', array([0.70704544]))
+('The accuracy is', array([0.69234848]))
+('The accuracy is', array([0.71083331]))
+('The accuracy is', array([0.68560606]))
+('The accuracy is', array([0.69621211]))
+Accuracy [0.69621211]
+('i--', 41, '--Kappa', 0.15637855892570984)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.94196969]))
+('The accuracy is', array([0.92969698]))
+('The accuracy is', array([0.95681816]))
+('The accuracy is', array([0.91750002]))
+('The accuracy is', array([0.8876515]))
+('The accuracy is', array([0.93681818]))
+('The accuracy is', array([0.96318179]))
+('The accuracy is', array([0.94666666]))
+('The accuracy is', array([0.94749999]))
+('The accuracy is', array([0.96053028]))
+('The accuracy is', array([0.96136361]))
+('The accuracy is', array([0.96348482]))
+('The accuracy is', array([0.96575755]))
+('The accuracy is', array([0.97053033]))
+('The accuracy is', array([0.97189397]))
+('The accuracy is', array([0.96469694]))
+('The accuracy is', array([0.97212124]))
+('The accuracy is', array([0.96840906]))
+('The accuracy is', array([0.96954548]))
+('The accuracy is', array([0.96886367]))
+Accuracy [0.96886367]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.94696969]))
+('The accuracy is', array([0.95393938]))
+('The accuracy is', array([0.95143938]))
+('The accuracy is', array([0.96810603]))
+('The accuracy is', array([0.96249998]))
+('The accuracy is', array([0.96621209]))
+('The accuracy is', array([0.96537876]))
+('The accuracy is', array([0.95106059]))
+('The accuracy is', array([0.95939392]))
+('The accuracy is', array([0.96439391]))
+('The accuracy is', array([0.95136362]))
+('The accuracy is', array([0.95371211]))
+('The accuracy is', array([0.95325756]))
+('The accuracy is', array([0.9521212]))
+('The accuracy is', array([0.96181816]))
+('The accuracy is', array([0.95530301]))
+('The accuracy is', array([0.9647727]))
+('The accuracy is', array([0.94727272]))
+('The accuracy is', array([0.96356058]))
+('The accuracy is', array([0.95522726]))
+Accuracy [0.95522726]
+('i--', 42, '--Kappa', 0.002774194289562937)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.96795452]))
+('The accuracy is', array([0.96818179]))
+('The accuracy is', array([0.96871209]))
+('The accuracy is', array([0.95803028]))
+('The accuracy is', array([0.9617424]))
+('The accuracy is', array([0.9853788]))
+('The accuracy is', array([0.98742425]))
+('The accuracy is', array([0.97954547]))
+('The accuracy is', array([0.98613638]))
+('The accuracy is', array([0.98984849]))
+('The accuracy is', array([0.97636366]))
+('The accuracy is', array([0.98439395]))
+('The accuracy is', array([0.98719698]))
+('The accuracy is', array([0.98772728]))
+('The accuracy is', array([0.98757577]))
+('The accuracy is', array([0.98674244]))
+('The accuracy is', array([0.99106061]))
+Accuracy [0.99106061]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.99159092]))
+Accuracy [0.99159092]
+('i--', 43, '--Kappa', 0.8965272560606017)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.6960606]))
+('The accuracy is', array([0.70499998]))
+('The accuracy is', array([0.72856063]))
+('The accuracy is', array([0.73765153]))
+('The accuracy is', array([0.73159093]))
+('The accuracy is', array([0.75742424]))
+('The accuracy is', array([0.75765151]))
+('The accuracy is', array([0.77909088]))
+('The accuracy is', array([0.76696968]))
+('The accuracy is', array([0.73515153]))
+('The accuracy is', array([0.77386361]))
+('The accuracy is', array([0.77969694]))
+('The accuracy is', array([0.78848487]))
+('The accuracy is', array([0.78840911]))
+('The accuracy is', array([0.79227275]))
+('The accuracy is', array([0.78939396]))
+('The accuracy is', array([0.79030305]))
+('The accuracy is', array([0.79037881]))
+('The accuracy is', array([0.77992421]))
+('The accuracy is', array([0.79053032]))
+Accuracy [0.79053032]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.62083334]))
+('The accuracy is', array([0.64257574]))
+('The accuracy is', array([0.64303029]))
+('The accuracy is', array([0.64136362]))
+('The accuracy is', array([0.64575756]))
+('The accuracy is', array([0.64734846]))
+('The accuracy is', array([0.64030302]))
+('The accuracy is', array([0.6462121]))
+('The accuracy is', array([0.51643938]))
+('The accuracy is', array([0.66909093]))
+('The accuracy is', array([0.66196972]))
+('The accuracy is', array([0.65848488]))
+('The accuracy is', array([0.66651517]))
+('The accuracy is', array([0.61984849]))
+('The accuracy is', array([0.64249998]))
+('The accuracy is', array([0.63674241]))
+('The accuracy is', array([0.65037876]))
+('The accuracy is', array([0.65234846]))
+('The accuracy is', array([0.64954543]))
+('The accuracy is', array([0.65522724]))
+Accuracy [0.65522724]
+('i--', 44, '--Kappa', 0.7297173529863064)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.74242425]))
+('The accuracy is', array([0.76492423]))
+('The accuracy is', array([0.78621215]))
+('The accuracy is', array([0.78318185]))
+('The accuracy is', array([0.80075759]))
+('The accuracy is', array([0.77916664]))
+('The accuracy is', array([0.76696968]))
+('The accuracy is', array([0.82075757]))
+('The accuracy is', array([0.82666665]))
+('The accuracy is', array([0.82674241]))
+('The accuracy is', array([0.83325756]))
+('The accuracy is', array([0.815]))
+('The accuracy is', array([0.82015151]))
+('The accuracy is', array([0.82977271]))
+('The accuracy is', array([0.82689393]))
+('The accuracy is', array([0.8265909]))
+('The accuracy is', array([0.8387121]))
+('The accuracy is', array([0.83189392]))
+('The accuracy is', array([0.83257574]))
+('The accuracy is', array([0.84151512]))
+Accuracy [0.84151512]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.64401513]))
+('The accuracy is', array([0.65166664]))
+('The accuracy is', array([0.65393937]))
+('The accuracy is', array([0.6497727]))
+('The accuracy is', array([0.68333334]))
+('The accuracy is', array([0.6996212]))
+('The accuracy is', array([0.70340908]))
+('The accuracy is', array([0.65636367]))
+('The accuracy is', array([0.6905303]))
+('The accuracy is', array([0.65939397]))
+('The accuracy is', array([0.68325758]))
+('The accuracy is', array([0.69166666]))
+('The accuracy is', array([0.68030304]))
+('The accuracy is', array([0.67969698]))
+('The accuracy is', array([0.6703788]))
+('The accuracy is', array([0.66348487]))
+('The accuracy is', array([0.67469698]))
+('The accuracy is', array([0.65893942]))
+('The accuracy is', array([0.6839394]))
+('The accuracy is', array([0.7142424]))
+Accuracy [0.7142424]
+('i--', 45, '--Kappa', 0.883093685681502)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.69363636]))
+('The accuracy is', array([0.7318182]))
+('The accuracy is', array([0.70371211]))
+('The accuracy is', array([0.72696972]))
+('The accuracy is', array([0.71166664]))
+('The accuracy is', array([0.74272728]))
+('The accuracy is', array([0.77431816]))
+('The accuracy is', array([0.76007575]))
+('The accuracy is', array([0.78310609]))
+('The accuracy is', array([0.76636362]))
+('The accuracy is', array([0.7792424]))
+('The accuracy is', array([0.78666669]))
+('The accuracy is', array([0.7808333]))
+('The accuracy is', array([0.7912879]))
+('The accuracy is', array([0.78939396]))
+('The accuracy is', array([0.7877273]))
+('The accuracy is', array([0.77303028]))
+('The accuracy is', array([0.79795456]))
+('The accuracy is', array([0.79643941]))
+('The accuracy is', array([0.79696971]))
+Accuracy [0.79696971]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.594697]))
+('The accuracy is', array([0.58590907]))
+('The accuracy is', array([0.60386366]))
+('The accuracy is', array([0.60689396]))
+('The accuracy is', array([0.62484848]))
+('The accuracy is', array([0.62075758]))
+('The accuracy is', array([0.62325758]))
+('The accuracy is', array([0.63249999]))
+('The accuracy is', array([0.64333332]))
+('The accuracy is', array([0.63613635]))
+('The accuracy is', array([0.6255303]))
+('The accuracy is', array([0.62181818]))
+('The accuracy is', array([0.65689397]))
+('The accuracy is', array([0.65499997]))
+('The accuracy is', array([0.64575756]))
+('The accuracy is', array([0.64727271]))
+('The accuracy is', array([0.65416664]))
+('The accuracy is', array([0.65560603]))
+('The accuracy is', array([0.64219695]))
+('The accuracy is', array([0.67090911]))
+Accuracy [0.67090911]
+('i--', 46, '--Kappa', 0.5373420808984068)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.81863636]))
+('The accuracy is', array([0.82098484]))
+('The accuracy is', array([0.83045453]))
+('The accuracy is', array([0.83825755]))
+('The accuracy is', array([0.85825759]))
+('The accuracy is', array([0.85250002]))
+('The accuracy is', array([0.84515154]))
+('The accuracy is', array([0.86742425]))
+('The accuracy is', array([0.8785606]))
+('The accuracy is', array([0.86992425]))
+('The accuracy is', array([0.86500001]))
+('The accuracy is', array([0.88007575]))
+('The accuracy is', array([0.87060606]))
+('The accuracy is', array([0.8810606]))
+('The accuracy is', array([0.87037879]))
+('The accuracy is', array([0.86863637]))
+('The accuracy is', array([0.87393939]))
+('The accuracy is', array([0.87560606]))
+('The accuracy is', array([0.87492424]))
+('The accuracy is', array([0.8785606]))
+Accuracy [0.8785606]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79204547]))
+('The accuracy is', array([0.80166668]))
+('The accuracy is', array([0.77227271]))
+('The accuracy is', array([0.77704543]))
+('The accuracy is', array([0.79742426]))
+('The accuracy is', array([0.78757578]))
+('The accuracy is', array([0.78015149]))
+('The accuracy is', array([0.78280306]))
+('The accuracy is', array([0.76696968]))
+('The accuracy is', array([0.75477272]))
+('The accuracy is', array([0.79727274]))
+('The accuracy is', array([0.75424242]))
+('The accuracy is', array([0.77249998]))
+('The accuracy is', array([0.76401514]))
+('The accuracy is', array([0.77613634]))
+('The accuracy is', array([0.75492424]))
+('The accuracy is', array([0.77643937]))
+('The accuracy is', array([0.7671212]))
+('The accuracy is', array([0.77803028]))
+('The accuracy is', array([0.77939391]))
+Accuracy [0.77939391]
+('i--', 47, '--Kappa', 0.6640497875867749)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79295456]))
+('The accuracy is', array([0.78954548]))
+('The accuracy is', array([0.78136367]))
+('The accuracy is', array([0.79272729]))
+('The accuracy is', array([0.80848485]))
+('The accuracy is', array([0.79931819]))
+('The accuracy is', array([0.79909092]))
+('The accuracy is', array([0.82848483]))
+('The accuracy is', array([0.8337121]))
+('The accuracy is', array([0.80742425]))
+('The accuracy is', array([0.8337121]))
+('The accuracy is', array([0.83272725]))
+('The accuracy is', array([0.84098482]))
+('The accuracy is', array([0.82037878]))
+('The accuracy is', array([0.84545457]))
+('The accuracy is', array([0.84530306]))
+('The accuracy is', array([0.84856063]))
+('The accuracy is', array([0.85083336]))
+('The accuracy is', array([0.84431821]))
+('The accuracy is', array([0.83719695]))
+Accuracy [0.83719695]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.6566667]))
+('The accuracy is', array([0.69166666]))
+('The accuracy is', array([0.68068182]))
+('The accuracy is', array([0.69166666]))
+('The accuracy is', array([0.68659091]))
+('The accuracy is', array([0.68227273]))
+('The accuracy is', array([0.69090909]))
+('The accuracy is', array([0.69166666]))
+('The accuracy is', array([0.69999999]))
+('The accuracy is', array([0.68189394]))
+('The accuracy is', array([0.68606061]))
+('The accuracy is', array([0.71840906]))
+('The accuracy is', array([0.69742423]))
+('The accuracy is', array([0.69371212]))
+('The accuracy is', array([0.73621213]))
+('The accuracy is', array([0.69636363]))
+('The accuracy is', array([0.73848486]))
+('The accuracy is', array([0.72795457]))
+('The accuracy is', array([0.7312879]))
+('The accuracy is', array([0.73863637]))
+Accuracy [0.73863637]
+('i--', 48, '--Kappa', 0.548908586626975)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.80083334]))
+('The accuracy is', array([0.82575756]))
+('The accuracy is', array([0.80530304]))
+('The accuracy is', array([0.81363636]))
+('The accuracy is', array([0.85295457]))
+('The accuracy is', array([0.81484848]))
+('The accuracy is', array([0.8356818]))
+('The accuracy is', array([0.8573485]))
+('The accuracy is', array([0.85954547]))
+('The accuracy is', array([0.8659091]))
+('The accuracy is', array([0.87204546]))
+('The accuracy is', array([0.84212118]))
+('The accuracy is', array([0.87356061]))
+('The accuracy is', array([0.86106062]))
+('The accuracy is', array([0.86545455]))
+('The accuracy is', array([0.87363636]))
+('The accuracy is', array([0.87128788]))
+('The accuracy is', array([0.86931819]))
+('The accuracy is', array([0.87356061]))
+('The accuracy is', array([0.86878788]))
+Accuracy [0.86878788]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.6825]))
+('The accuracy is', array([0.70575756]))
+('The accuracy is', array([0.73992425]))
+('The accuracy is', array([0.73272729]))
+('The accuracy is', array([0.71272725]))
+('The accuracy is', array([0.73401517]))
+('The accuracy is', array([0.7560606]))
+('The accuracy is', array([0.69689393]))
+('The accuracy is', array([0.76962119]))
+('The accuracy is', array([0.76522726]))
+('The accuracy is', array([0.76522726]))
+('The accuracy is', array([0.76598483]))
+('The accuracy is', array([0.77106059]))
+('The accuracy is', array([0.74613637]))
+('The accuracy is', array([0.73189396]))
+('The accuracy is', array([0.73136365]))
+('The accuracy is', array([0.7646212]))
+('The accuracy is', array([0.75765151]))
+('The accuracy is', array([0.7687121]))
+('The accuracy is', array([0.73295456]))
+Accuracy [0.73295456]
+('i--', 49, '--Kappa', 0.0439755135815908)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.96272725]))
+('The accuracy is', array([0.96462119]))
+('The accuracy is', array([0.95863634]))
+('The accuracy is', array([0.97674245]))
+('The accuracy is', array([0.97848487]))
+('The accuracy is', array([0.97590911]))
+('The accuracy is', array([0.97803032]))
+('The accuracy is', array([0.97500002]))
+('The accuracy is', array([0.97818184]))
+('The accuracy is', array([0.98416668]))
+('The accuracy is', array([0.9884091]))
+('The accuracy is', array([0.98727274]))
+('The accuracy is', array([0.99000001]))
+Accuracy [0.99000001]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.98863637]))
+('The accuracy is', array([0.9823485]))
+('The accuracy is', array([0.9914394]))
+Accuracy [0.9914394]
+('i--', 50, '--Kappa', 0.40120301287259463)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.85727274]))
+('The accuracy is', array([0.85560608]))
+('The accuracy is', array([0.87272727]))
+('The accuracy is', array([0.8835606]))
+('The accuracy is', array([0.8830303]))
+('The accuracy is', array([0.8876515]))
+('The accuracy is', array([0.87060606]))
+('The accuracy is', array([0.89356059]))
+('The accuracy is', array([0.89446968]))
+('The accuracy is', array([0.90492421]))
+('The accuracy is', array([0.89553028]))
+('The accuracy is', array([0.88840908]))
+('The accuracy is', array([0.90568179]))
+('The accuracy is', array([0.90083331]))
+('The accuracy is', array([0.90681821]))
+('The accuracy is', array([0.90810609]))
+('The accuracy is', array([0.90348482]))
+('The accuracy is', array([0.90765154]))
+('The accuracy is', array([0.90780306]))
+('The accuracy is', array([0.90537876]))
+Accuracy [0.90537876]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.8175]))
+('The accuracy is', array([0.8210606]))
+('The accuracy is', array([0.83128786]))
+('The accuracy is', array([0.79621214]))
+('The accuracy is', array([0.84848487]))
+('The accuracy is', array([0.85553032]))
+('The accuracy is', array([0.83946967]))
+('The accuracy is', array([0.8537879]))
+('The accuracy is', array([0.85106063]))
+('The accuracy is', array([0.84833336]))
+('The accuracy is', array([0.84643942]))
+('The accuracy is', array([0.84909093]))
+('The accuracy is', array([0.86969697]))
+('The accuracy is', array([0.84477276]))
+('The accuracy is', array([0.84181815]))
+('The accuracy is', array([0.83537877]))
+('The accuracy is', array([0.8532576]))
+('The accuracy is', array([0.85848486]))
+('The accuracy is', array([0.83840907]))
+('The accuracy is', array([0.8417424]))
+Accuracy [0.8417424]
+('i--', 51, '--Kappa', 0.10770114322531965)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95068181]))
+('The accuracy is', array([0.95810604]))
+('The accuracy is', array([0.95393938]))
+('The accuracy is', array([0.95681816]))
+('The accuracy is', array([0.97280306]))
+('The accuracy is', array([0.95674241]))
+('The accuracy is', array([0.96825755]))
+('The accuracy is', array([0.95090908]))
+('The accuracy is', array([0.97507578]))
+('The accuracy is', array([0.97500002]))
+('The accuracy is', array([0.97787881]))
+('The accuracy is', array([0.9757576]))
+('The accuracy is', array([0.9737879]))
+('The accuracy is', array([0.97462124]))
+('The accuracy is', array([0.98007578]))
+('The accuracy is', array([0.97590911]))
+('The accuracy is', array([0.98113638]))
+('The accuracy is', array([0.97765154]))
+('The accuracy is', array([0.97780305]))
+('The accuracy is', array([0.98037881]))
+Accuracy [0.98037881]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.96696967]))
+('The accuracy is', array([0.97083336]))
+('The accuracy is', array([0.97439396]))
+('The accuracy is', array([0.96113634]))
+('The accuracy is', array([0.97416669]))
+('The accuracy is', array([0.97636366]))
+('The accuracy is', array([0.97318184]))
+('The accuracy is', array([0.97204548]))
+('The accuracy is', array([0.97742426]))
+('The accuracy is', array([0.9798485]))
+('The accuracy is', array([0.97553033]))
+('The accuracy is', array([0.97750002]))
+('The accuracy is', array([0.9752273]))
+('The accuracy is', array([0.97651517]))
+('The accuracy is', array([0.98075759]))
+('The accuracy is', array([0.97954547]))
+('The accuracy is', array([0.97727275]))
+('The accuracy is', array([0.96871209]))
+('The accuracy is', array([0.9782576]))
+('The accuracy is', array([0.98212123]))
+Accuracy [0.98212123]
+('i--', 52, '--Kappa', 0.8013842055843159)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.74530303]))
+('The accuracy is', array([0.71659088]))
+('The accuracy is', array([0.73083335]))
+('The accuracy is', array([0.71901518]))
+('The accuracy is', array([0.76431817]))
+('The accuracy is', array([0.72666669]))
+('The accuracy is', array([0.782197]))
+('The accuracy is', array([0.79212123]))
+('The accuracy is', array([0.79825759]))
+('The accuracy is', array([0.78954548]))
+('The accuracy is', array([0.80386364]))
+('The accuracy is', array([0.7978788]))
+('The accuracy is', array([0.80719697]))
+('The accuracy is', array([0.80530304]))
+('The accuracy is', array([0.79416668]))
+('The accuracy is', array([0.81212121]))
+('The accuracy is', array([0.81659091]))
+('The accuracy is', array([0.81212121]))
+('The accuracy is', array([0.81439394]))
+('The accuracy is', array([0.81992424]))
+Accuracy [0.81992424]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.65878791]))
+('The accuracy is', array([0.65840912]))
+('The accuracy is', array([0.66409093]))
+('The accuracy is', array([0.67833334]))
+('The accuracy is', array([0.68401515]))
+('The accuracy is', array([0.68234849]))
+('The accuracy is', array([0.67507577]))
+('The accuracy is', array([0.68227273]))
+('The accuracy is', array([0.67606062]))
+('The accuracy is', array([0.66219699]))
+('The accuracy is', array([0.67530304]))
+('The accuracy is', array([0.6542424]))
+('The accuracy is', array([0.67674243]))
+('The accuracy is', array([0.6703788]))
+('The accuracy is', array([0.66371214]))
+('The accuracy is', array([0.67757577]))
+('The accuracy is', array([0.67507577]))
+('The accuracy is', array([0.67250001]))
+('The accuracy is', array([0.66537881]))
+('The accuracy is', array([0.66363639]))
+Accuracy [0.66363639]
+('i--', 53, '--Kappa', 0.03750002519153983)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.96651512]))
+('The accuracy is', array([0.97537881]))
+('The accuracy is', array([0.972197]))
+('The accuracy is', array([0.96893942]))
+('The accuracy is', array([0.97242427]))
+('The accuracy is', array([0.98219699]))
+('The accuracy is', array([0.98166668]))
+('The accuracy is', array([0.98606062]))
+('The accuracy is', array([0.98628789]))
+('The accuracy is', array([0.97204548]))
+('The accuracy is', array([0.98507577]))
+('The accuracy is', array([0.98159093]))
+('The accuracy is', array([0.9878788]))
+('The accuracy is', array([0.98863637]))
+('The accuracy is', array([0.98628789]))
+('The accuracy is', array([0.98636365]))
+('The accuracy is', array([0.98803031]))
+('The accuracy is', array([0.98916668]))
+('The accuracy is', array([0.98848486]))
+('The accuracy is', array([0.98946971]))
+Accuracy [0.98946971]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.98022729]))
+('The accuracy is', array([0.98628789]))
+('The accuracy is', array([0.9909091]))
+Accuracy [0.9909091]
+('i--', 54, '--Kappa', 0.11135111981521006)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.94719696]))
+('The accuracy is', array([0.96030301]))
+('The accuracy is', array([0.96484846]))
+('The accuracy is', array([0.9707576]))
+('The accuracy is', array([0.97189397]))
+('The accuracy is', array([0.96734846]))
+('The accuracy is', array([0.97606063]))
+('The accuracy is', array([0.9752273]))
+('The accuracy is', array([0.96265149]))
+('The accuracy is', array([0.97666669]))
+('The accuracy is', array([0.97598487]))
+('The accuracy is', array([0.97962123]))
+('The accuracy is', array([0.97848487]))
+('The accuracy is', array([0.97810608]))
+('The accuracy is', array([0.97772729]))
+('The accuracy is', array([0.98060608]))
+('The accuracy is', array([0.97234851]))
+('The accuracy is', array([0.97901517]))
+('The accuracy is', array([0.98053032]))
+('The accuracy is', array([0.98196971]))
+Accuracy [0.98196971]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95386362]))
+('The accuracy is', array([0.96636361]))
+('The accuracy is', array([0.96606058]))
+('The accuracy is', array([0.97719699]))
+('The accuracy is', array([0.97765154]))
+('The accuracy is', array([0.96871209]))
+('The accuracy is', array([0.96901518]))
+('The accuracy is', array([0.97946972]))
+('The accuracy is', array([0.98265153]))
+('The accuracy is', array([0.97840911]))
+('The accuracy is', array([0.98045456]))
+('The accuracy is', array([0.96992427]))
+('The accuracy is', array([0.97030306]))
+('The accuracy is', array([0.98045456]))
+('The accuracy is', array([0.98090911]))
+('The accuracy is', array([0.98325759]))
+('The accuracy is', array([0.98348486]))
+('The accuracy is', array([0.98295456]))
+('The accuracy is', array([0.97257578]))
+('The accuracy is', array([0.96825755]))
+Accuracy [0.96825755]
+('i--', 55, '--Kappa', 0.9991569469374785)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.67424244]))
+('The accuracy is', array([0.6855303]))
+('The accuracy is', array([0.70719695]))
+('The accuracy is', array([0.69598484]))
+('The accuracy is', array([0.70931816]))
+('The accuracy is', array([0.73833334]))
+('The accuracy is', array([0.73856062]))
+('The accuracy is', array([0.75098485]))
+('The accuracy is', array([0.69803029]))
+('The accuracy is', array([0.74863636]))
+('The accuracy is', array([0.75984848]))
+('The accuracy is', array([0.75477272]))
+('The accuracy is', array([0.75227273]))
+('The accuracy is', array([0.76037878]))
+('The accuracy is', array([0.76174241]))
+('The accuracy is', array([0.76060605]))
+('The accuracy is', array([0.75242424]))
+('The accuracy is', array([0.76886362]))
+('The accuracy is', array([0.76280302]))
+('The accuracy is', array([0.7747727]))
+Accuracy [0.7747727]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.52636361]))
+('The accuracy is', array([0.54515153]))
+('The accuracy is', array([0.55962121]))
+('The accuracy is', array([0.55401516]))
+('The accuracy is', array([0.56378788]))
+('The accuracy is', array([0.58143938]))
+('The accuracy is', array([0.58181816]))
+('The accuracy is', array([0.55378789]))
+('The accuracy is', array([0.5837121]))
+('The accuracy is', array([0.58386362]))
+('The accuracy is', array([0.59219694]))
+('The accuracy is', array([0.59143937]))
+('The accuracy is', array([0.58560604]))
+('The accuracy is', array([0.5867424]))
+('The accuracy is', array([0.55848485]))
+('The accuracy is', array([0.59143937]))
+('The accuracy is', array([0.59196967]))
+('The accuracy is', array([0.57424241]))
+('The accuracy is', array([0.60825759]))
+('The accuracy is', array([0.56174242]))
+Accuracy [0.56174242]
+('i--', 56, '--Kappa', 0.6514971253603585)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79340911]))
+('The accuracy is', array([0.78734851]))
+('The accuracy is', array([0.80431819]))
+('The accuracy is', array([0.83636361]))
+('The accuracy is', array([0.81962121]))
+('The accuracy is', array([0.8362121]))
+('The accuracy is', array([0.79765153]))
+('The accuracy is', array([0.84909093]))
+('The accuracy is', array([0.85356063]))
+('The accuracy is', array([0.84242421]))
+('The accuracy is', array([0.84916669]))
+('The accuracy is', array([0.85295457]))
+('The accuracy is', array([0.85280305]))
+('The accuracy is', array([0.82098484]))
+('The accuracy is', array([0.86295456]))
+('The accuracy is', array([0.86075759]))
+('The accuracy is', array([0.85969698]))
+('The accuracy is', array([0.85795456]))
+('The accuracy is', array([0.85068184]))
+('The accuracy is', array([0.85545456]))
+Accuracy [0.85545456]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.69113636]))
+('The accuracy is', array([0.70227271]))
+('The accuracy is', array([0.68469697]))
+('The accuracy is', array([0.71090907]))
+('The accuracy is', array([0.69189394]))
+('The accuracy is', array([0.71348482]))
+('The accuracy is', array([0.71681815]))
+('The accuracy is', array([0.7183333]))
+('The accuracy is', array([0.69916666]))
+('The accuracy is', array([0.72189397]))
+('The accuracy is', array([0.70606059]))
+('The accuracy is', array([0.73560607]))
+('The accuracy is', array([0.74136364]))
+('The accuracy is', array([0.73416668]))
+('The accuracy is', array([0.71848482]))
+('The accuracy is', array([0.73878789]))
+('The accuracy is', array([0.74000001]))
+('The accuracy is', array([0.72280306]))
+('The accuracy is', array([0.74318182]))
+('The accuracy is', array([0.7439394]))
+Accuracy [0.7439394]
+('i--', 57, '--Kappa', 0.9436080681120111)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.6825]))
+('The accuracy is', array([0.69530302]))
+('The accuracy is', array([0.7106818]))
+('The accuracy is', array([0.70492423]))
+('The accuracy is', array([0.70181817]))
+('The accuracy is', array([0.72477275]))
+('The accuracy is', array([0.75439394]))
+('The accuracy is', array([0.74674243]))
+('The accuracy is', array([0.76113635]))
+('The accuracy is', array([0.76174241]))
+('The accuracy is', array([0.74250001]))
+('The accuracy is', array([0.76553029]))
+('The accuracy is', array([0.76772726]))
+('The accuracy is', array([0.76931816]))
+('The accuracy is', array([0.75901514]))
+('The accuracy is', array([0.76386362]))
+('The accuracy is', array([0.77098483]))
+('The accuracy is', array([0.77901512]))
+('The accuracy is', array([0.77393937]))
+('The accuracy is', array([0.77803028]))
+Accuracy [0.77803028]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.57787877]))
+('The accuracy is', array([0.58962119]))
+('The accuracy is', array([0.58969694]))
+('The accuracy is', array([0.56227273]))
+('The accuracy is', array([0.59492427]))
+('The accuracy is', array([0.59659094]))
+('The accuracy is', array([0.58878785]))
+('The accuracy is', array([0.58151513]))
+('The accuracy is', array([0.59734851]))
+('The accuracy is', array([0.6098485]))
+('The accuracy is', array([0.60287881]))
+('The accuracy is', array([0.59674245]))
+('The accuracy is', array([0.60106063]))
+('The accuracy is', array([0.57401514]))
+('The accuracy is', array([0.58833331]))
+('The accuracy is', array([0.57015151]))
+('The accuracy is', array([0.61446971]))
+('The accuracy is', array([0.60507578]))
+('The accuracy is', array([0.59295452]))
+('The accuracy is', array([0.59750003]))
+Accuracy [0.59750003]
+('i--', 58, '--Kappa', 0.5278930151377711)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.82424241]))
+('The accuracy is', array([0.80734849]))
+('The accuracy is', array([0.82893938]))
+('The accuracy is', array([0.80462122]))
+('The accuracy is', array([0.83287877]))
+('The accuracy is', array([0.83151513]))
+('The accuracy is', array([0.85659093]))
+('The accuracy is', array([0.85636365]))
+('The accuracy is', array([0.8659091]))
+('The accuracy is', array([0.87045455]))
+('The accuracy is', array([0.86348486]))
+('The accuracy is', array([0.86787879]))
+('The accuracy is', array([0.8755303]))
+('The accuracy is', array([0.87568182]))
+('The accuracy is', array([0.87439394]))
+('The accuracy is', array([0.87681818]))
+('The accuracy is', array([0.86583334]))
+('The accuracy is', array([0.8755303]))
+('The accuracy is', array([0.86659092]))
+('The accuracy is', array([0.87810606]))
+Accuracy [0.87810606]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.73916668]))
+('The accuracy is', array([0.7656818]))
+('The accuracy is', array([0.75946969]))
+('The accuracy is', array([0.75999999]))
+('The accuracy is', array([0.73265153]))
+('The accuracy is', array([0.75984848]))
+('The accuracy is', array([0.74734849]))
+('The accuracy is', array([0.75045455]))
+('The accuracy is', array([0.75037879]))
+('The accuracy is', array([0.74560606]))
+('The accuracy is', array([0.74522728]))
+('The accuracy is', array([0.73333335]))
+('The accuracy is', array([0.73560607]))
+('The accuracy is', array([0.72863638]))
+('The accuracy is', array([0.73954546]))
+('The accuracy is', array([0.76772726]))
+('The accuracy is', array([0.73954546]))
+('The accuracy is', array([0.72696972]))
+('The accuracy is', array([0.75098485]))
+('The accuracy is', array([0.73401517]))
+Accuracy [0.73401517]
+('i--', 59, '--Kappa', 0.618721903052544)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.77522725]))
+('The accuracy is', array([0.7808333]))
+('The accuracy is', array([0.78787881]))
+('The accuracy is', array([0.80962121]))
+('The accuracy is', array([0.81772727]))
+('The accuracy is', array([0.8064394]))
+('The accuracy is', array([0.82151514]))
+('The accuracy is', array([0.83477271]))
+('The accuracy is', array([0.84356058]))
+('The accuracy is', array([0.84954548]))
+('The accuracy is', array([0.84446973]))
+('The accuracy is', array([0.84916669]))
+('The accuracy is', array([0.83689392]))
+('The accuracy is', array([0.84628791]))
+('The accuracy is', array([0.85621214]))
+('The accuracy is', array([0.85416669]))
+('The accuracy is', array([0.85901517]))
+('The accuracy is', array([0.85068184]))
+('The accuracy is', array([0.85992426]))
+('The accuracy is', array([0.86242425]))
+Accuracy [0.86242425]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.71363634]))
+('The accuracy is', array([0.7202273]))
+('The accuracy is', array([0.73250002]))
+('The accuracy is', array([0.7359091]))
+('The accuracy is', array([0.73500001]))
+('The accuracy is', array([0.74159092]))
+('The accuracy is', array([0.74931818]))
+('The accuracy is', array([0.74651515]))
+('The accuracy is', array([0.74984848]))
+('The accuracy is', array([0.73553032]))
+('The accuracy is', array([0.75083333]))
+('The accuracy is', array([0.74106061]))
+('The accuracy is', array([0.76189393]))
+('The accuracy is', array([0.74560606]))
+('The accuracy is', array([0.74560606]))
+('The accuracy is', array([0.74583334]))
+('The accuracy is', array([0.74909091]))
+('The accuracy is', array([0.73954546]))
+('The accuracy is', array([0.74598485]))
+('The accuracy is', array([0.73166668]))
+Accuracy [0.73166668]
+('i--', 60, '--Kappa', 0.6454266401288222)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79113638]))
+('The accuracy is', array([0.7742424]))
+('The accuracy is', array([0.78409094]))
+('The accuracy is', array([0.79053032]))
+('The accuracy is', array([0.79901516]))
+('The accuracy is', array([0.79272729]))
+('The accuracy is', array([0.82856059]))
+('The accuracy is', array([0.83386362]))
+('The accuracy is', array([0.83515149]))
+('The accuracy is', array([0.83477271]))
+('The accuracy is', array([0.83984846]))
+('The accuracy is', array([0.84462124]))
+('The accuracy is', array([0.82931817]))
+('The accuracy is', array([0.83886361]))
+('The accuracy is', array([0.83992422]))
+('The accuracy is', array([0.83886361]))
+('The accuracy is', array([0.84060603]))
+('The accuracy is', array([0.85227275]))
+('The accuracy is', array([0.85492426]))
+('The accuracy is', array([0.84765154]))
+Accuracy [0.84765154]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.68719697]))
+('The accuracy is', array([0.72954547]))
+('The accuracy is', array([0.70643938]))
+('The accuracy is', array([0.70931816]))
+('The accuracy is', array([0.72810608]))
+('The accuracy is', array([0.72689396]))
+('The accuracy is', array([0.73015153]))
+('The accuracy is', array([0.73075759]))
+('The accuracy is', array([0.7191667]))
+('The accuracy is', array([0.70287877]))
+('The accuracy is', array([0.71348482]))
+('The accuracy is', array([0.7535606]))
+('The accuracy is', array([0.73015153]))
+('The accuracy is', array([0.74636364]))
+('The accuracy is', array([0.73621213]))
+('The accuracy is', array([0.73878789]))
+('The accuracy is', array([0.73727274]))
+('The accuracy is', array([0.73348486]))
+('The accuracy is', array([0.74098486]))
+('The accuracy is', array([0.74272728]))
+Accuracy [0.74272728]
+('i--', 61, '--Kappa', 0.9254191384928104)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.68606061]))
+('The accuracy is', array([0.66886365]))
+('The accuracy is', array([0.69272727]))
+('The accuracy is', array([0.7359091]))
+('The accuracy is', array([0.71984851]))
+('The accuracy is', array([0.74174243]))
+('The accuracy is', array([0.75378788]))
+('The accuracy is', array([0.73848486]))
+('The accuracy is', array([0.69598484]))
+('The accuracy is', array([0.76378787]))
+('The accuracy is', array([0.76522726]))
+('The accuracy is', array([0.76946968]))
+('The accuracy is', array([0.77499998]))
+('The accuracy is', array([0.76030302]))
+('The accuracy is', array([0.77492422]))
+('The accuracy is', array([0.77863634]))
+('The accuracy is', array([0.77628785]))
+('The accuracy is', array([0.77992421]))
+('The accuracy is', array([0.78318185]))
+('The accuracy is', array([0.77204543]))
+Accuracy [0.77204543]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.58643937]))
+('The accuracy is', array([0.62015152]))
+('The accuracy is', array([0.60401517]))
+('The accuracy is', array([0.59984851]))
+('The accuracy is', array([0.59962124]))
+('The accuracy is', array([0.62393939]))
+('The accuracy is', array([0.6139394]))
+('The accuracy is', array([0.61553031]))
+('The accuracy is', array([0.61962122]))
+('The accuracy is', array([0.65265149]))
+('The accuracy is', array([0.62386364]))
+('The accuracy is', array([0.63696969]))
+('The accuracy is', array([0.6456818]))
+('The accuracy is', array([0.63833332]))
+('The accuracy is', array([0.63469696]))
+('The accuracy is', array([0.62606061]))
+('The accuracy is', array([0.64530301]))
+('The accuracy is', array([0.63416666]))
+('The accuracy is', array([0.63393939]))
+('The accuracy is', array([0.62181818]))
+Accuracy [0.62181818]
+('i--', 62, '--Kappa', 0.17213684475469193)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.93060607]))
+('The accuracy is', array([0.9465909]))
+('The accuracy is', array([0.94515151]))
+('The accuracy is', array([0.94348484]))
+('The accuracy is', array([0.95636362]))
+('The accuracy is', array([0.95287877]))
+('The accuracy is', array([0.95469695]))
+('The accuracy is', array([0.9587121]))
+('The accuracy is', array([0.96439391]))
+('The accuracy is', array([0.95242423]))
+('The accuracy is', array([0.96416664]))
+('The accuracy is', array([0.95749998]))
+('The accuracy is', array([0.96280301]))
+('The accuracy is', array([0.96515149]))
+('The accuracy is', array([0.95825756]))
+('The accuracy is', array([0.96318179]))
+('The accuracy is', array([0.96128786]))
+('The accuracy is', array([0.96219695]))
+('The accuracy is', array([0.96575755]))
+('The accuracy is', array([0.95681816]))
+Accuracy [0.95681816]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95060605]))
+('The accuracy is', array([0.95113635]))
+('The accuracy is', array([0.94439393]))
+('The accuracy is', array([0.94431818]))
+('The accuracy is', array([0.9465909]))
+('The accuracy is', array([0.95128787]))
+('The accuracy is', array([0.94083333]))
+('The accuracy is', array([0.94083333]))
+('The accuracy is', array([0.95757574]))
+('The accuracy is', array([0.94681817]))
+('The accuracy is', array([0.93318182]))
+('The accuracy is', array([0.93560606]))
+('The accuracy is', array([0.93484849]))
+('The accuracy is', array([0.94924241]))
+('The accuracy is', array([0.94893938]))
+('The accuracy is', array([0.94310606]))
+('The accuracy is', array([0.95583332]))
+('The accuracy is', array([0.94848484]))
+('The accuracy is', array([0.95053029]))
+('The accuracy is', array([0.94439393]))
+Accuracy [0.94439393]
+('i--', 63, '--Kappa', 0.5554990468585074)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.81075758]))
+('The accuracy is', array([0.82249999]))
+('The accuracy is', array([0.82143939]))
+('The accuracy is', array([0.81227273]))
+('The accuracy is', array([0.83696967]))
+('The accuracy is', array([0.83037877]))
+('The accuracy is', array([0.83803028]))
+('The accuracy is', array([0.84128785]))
+('The accuracy is', array([0.86227274]))
+('The accuracy is', array([0.85878789]))
+('The accuracy is', array([0.86257577]))
+('The accuracy is', array([0.85840911]))
+('The accuracy is', array([0.86045456]))
+('The accuracy is', array([0.84924245]))
+('The accuracy is', array([0.86977273]))
+('The accuracy is', array([0.87083334]))
+('The accuracy is', array([0.87318182]))
+('The accuracy is', array([0.87916666]))
+('The accuracy is', array([0.87022728]))
+('The accuracy is', array([0.87492424]))
+Accuracy [0.87492424]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.73151517]))
+('The accuracy is', array([0.75537878]))
+('The accuracy is', array([0.74166667]))
+('The accuracy is', array([0.75590909]))
+('The accuracy is', array([0.73045456]))
+('The accuracy is', array([0.76484847]))
+('The accuracy is', array([0.75477272]))
+('The accuracy is', array([0.75477272]))
+('The accuracy is', array([0.74378788]))
+('The accuracy is', array([0.76333332]))
+('The accuracy is', array([0.74265152]))
+('The accuracy is', array([0.76098484]))
+('The accuracy is', array([0.75484848]))
+('The accuracy is', array([0.77954543]))
+('The accuracy is', array([0.75068182]))
+('The accuracy is', array([0.74659091]))
+('The accuracy is', array([0.76227272]))
+('The accuracy is', array([0.74977273]))
+('The accuracy is', array([0.7640909]))
+('The accuracy is', array([0.78257579]))
+Accuracy [0.78257579]
+('i--', 64, '--Kappa', 0.7761181249439097)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.72848487]))
+('The accuracy is', array([0.74378788]))
+('The accuracy is', array([0.76356059]))
+('The accuracy is', array([0.76636362]))
+('The accuracy is', array([0.76287878]))
+('The accuracy is', array([0.76469696]))
+('The accuracy is', array([0.80719697]))
+('The accuracy is', array([0.79795456]))
+('The accuracy is', array([0.78515154]))
+('The accuracy is', array([0.79318184]))
+('The accuracy is', array([0.79696971]))
+('The accuracy is', array([0.81151515]))
+('The accuracy is', array([0.80992424]))
+('The accuracy is', array([0.81659091]))
+('The accuracy is', array([0.81219697]))
+('The accuracy is', array([0.81719697]))
+('The accuracy is', array([0.82303029]))
+('The accuracy is', array([0.81886363]))
+('The accuracy is', array([0.82121211]))
+('The accuracy is', array([0.82575756]))
+Accuracy [0.82575756]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.64772725]))
+('The accuracy is', array([0.66037881]))
+('The accuracy is', array([0.66333336]))
+('The accuracy is', array([0.66613638]))
+('The accuracy is', array([0.69075757]))
+('The accuracy is', array([0.69477272]))
+('The accuracy is', array([0.67401516]))
+('The accuracy is', array([0.6426515]))
+('The accuracy is', array([0.67545456]))
+('The accuracy is', array([0.66924244]))
+('The accuracy is', array([0.68113637]))
+('The accuracy is', array([0.69128788]))
+('The accuracy is', array([0.6819697]))
+('The accuracy is', array([0.6764394]))
+('The accuracy is', array([0.67053032]))
+('The accuracy is', array([0.66295457]))
+('The accuracy is', array([0.6894697]))
+('The accuracy is', array([0.6839394]))
+('The accuracy is', array([0.68833333]))
+('The accuracy is', array([0.67386365]))
+Accuracy [0.67386365]
+('i--', 65, '--Kappa', 0.9755085650288671)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.68083334]))
+('The accuracy is', array([0.67174244]))
+('The accuracy is', array([0.69795454]))
+('The accuracy is', array([0.68181819]))
+('The accuracy is', array([0.71848482]))
+('The accuracy is', array([0.73530304]))
+('The accuracy is', array([0.73136365]))
+('The accuracy is', array([0.73984849]))
+('The accuracy is', array([0.7056818]))
+('The accuracy is', array([0.72939396]))
+('The accuracy is', array([0.74621212]))
+('The accuracy is', array([0.76022726]))
+('The accuracy is', array([0.75401515]))
+('The accuracy is', array([0.76083332]))
+('The accuracy is', array([0.75522727]))
+('The accuracy is', array([0.76386362]))
+('The accuracy is', array([0.76371211]))
+('The accuracy is', array([0.76030302]))
+('The accuracy is', array([0.77212119]))
+('The accuracy is', array([0.77007574]))
+Accuracy [0.77007574]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.59204543]))
+('The accuracy is', array([0.5675]))
+('The accuracy is', array([0.58499998]))
+('The accuracy is', array([0.61318183]))
+('The accuracy is', array([0.61045456]))
+('The accuracy is', array([0.6194697]))
+('The accuracy is', array([0.61143941]))
+('The accuracy is', array([0.59636366]))
+('The accuracy is', array([0.60530305]))
+('The accuracy is', array([0.58780301]))
+('The accuracy is', array([0.59265149]))
+('The accuracy is', array([0.60590911]))
+('The accuracy is', array([0.61030304]))
+('The accuracy is', array([0.6048485]))
+('The accuracy is', array([0.59348482]))
+('The accuracy is', array([0.5856818]))
+('The accuracy is', array([0.59818184]))
+('The accuracy is', array([0.6048485]))
+('The accuracy is', array([0.61022729]))
+('The accuracy is', array([0.60992426]))
+Accuracy [0.60992426]
+('i--', 66, '--Kappa', 0.07404996964365185)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.95742422]))
+('The accuracy is', array([0.95992422]))
+('The accuracy is', array([0.94848484]))
+('The accuracy is', array([0.96946973]))
+('The accuracy is', array([0.97159094]))
+('The accuracy is', array([0.9672727]))
+('The accuracy is', array([0.97537881]))
+('The accuracy is', array([0.97856063]))
+('The accuracy is', array([0.97954547]))
+('The accuracy is', array([0.98227274]))
+('The accuracy is', array([0.98371214]))
+('The accuracy is', array([0.98227274]))
+('The accuracy is', array([0.98606062]))
+('The accuracy is', array([0.98507577]))
+('The accuracy is', array([0.98704547]))
+('The accuracy is', array([0.98719698]))
+('The accuracy is', array([0.9853788]))
+('The accuracy is', array([0.98757577]))
+('The accuracy is', array([0.98393941]))
+('The accuracy is', array([0.9889394]))
+Accuracy [0.9889394]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.98060608]))
+('The accuracy is', array([0.9823485]))
+('The accuracy is', array([0.98522729]))
+('The accuracy is', array([0.98886365]))
+('The accuracy is', array([0.98310608]))
+('The accuracy is', array([0.98757577]))
+('The accuracy is', array([0.9848485]))
+('The accuracy is', array([0.97560608]))
+('The accuracy is', array([0.98780304]))
+('The accuracy is', array([0.9859091]))
+('The accuracy is', array([0.98909092]))
+('The accuracy is', array([0.99053031]))
+Accuracy [0.99053031]
+('i--', 67, '--Kappa', 0.6494653589038937)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.76666665]))
+('The accuracy is', array([0.76954544]))
+('The accuracy is', array([0.76901513]))
+('The accuracy is', array([0.80204546]))
+('The accuracy is', array([0.78356063]))
+('The accuracy is', array([0.81]))
+('The accuracy is', array([0.81734848]))
+('The accuracy is', array([0.84545457]))
+('The accuracy is', array([0.83810604]))
+('The accuracy is', array([0.84409094]))
+('The accuracy is', array([0.84060603]))
+('The accuracy is', array([0.8482576]))
+('The accuracy is', array([0.84787881]))
+('The accuracy is', array([0.84015149]))
+('The accuracy is', array([0.84265149]))
+('The accuracy is', array([0.85189396]))
+('The accuracy is', array([0.85242426]))
+('The accuracy is', array([0.84916669]))
+('The accuracy is', array([0.842803]))
+('The accuracy is', array([0.85560608]))
+Accuracy [0.85560608]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.7172727]))
+('The accuracy is', array([0.74219698]))
+('The accuracy is', array([0.74363637]))
+('The accuracy is', array([0.69999999]))
+('The accuracy is', array([0.73424244]))
+('The accuracy is', array([0.73871213]))
+('The accuracy is', array([0.73757577]))
+('The accuracy is', array([0.73530304]))
+('The accuracy is', array([0.75212121]))
+('The accuracy is', array([0.74030304]))
+('The accuracy is', array([0.73628789]))
+('The accuracy is', array([0.72803032]))
+('The accuracy is', array([0.73924243]))
+('The accuracy is', array([0.74598485]))
+('The accuracy is', array([0.73674244]))
+('The accuracy is', array([0.73545456]))
+('The accuracy is', array([0.76303029]))
+('The accuracy is', array([0.76128787]))
+('The accuracy is', array([0.75015152]))
+('The accuracy is', array([0.74795455]))
+Accuracy [0.74795455]
+('i--', 68, '--Kappa', 0.32578682290343075)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.8775]))
+('The accuracy is', array([0.8962121]))
+('The accuracy is', array([0.89401513]))
+('The accuracy is', array([0.90515149]))
+('The accuracy is', array([0.92348486]))
+('The accuracy is', array([0.9203788]))
+('The accuracy is', array([0.90757579]))
+('The accuracy is', array([0.92159092]))
+('The accuracy is', array([0.92583334]))
+('The accuracy is', array([0.92462122]))
+('The accuracy is', array([0.91977274]))
+('The accuracy is', array([0.9294697]))
+('The accuracy is', array([0.92280304]))
+('The accuracy is', array([0.91871214]))
+('The accuracy is', array([0.92128789]))
+('The accuracy is', array([0.92363638]))
+('The accuracy is', array([0.92227274]))
+('The accuracy is', array([0.92515153]))
+('The accuracy is', array([0.92598486]))
+('The accuracy is', array([0.92371213]))
+Accuracy [0.92371213]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.86371213]))
+('The accuracy is', array([0.86848485]))
+('The accuracy is', array([0.88257575]))
+('The accuracy is', array([0.86568183]))
+('The accuracy is', array([0.86727273]))
+('The accuracy is', array([0.87106061]))
+('The accuracy is', array([0.87833333]))
+('The accuracy is', array([0.85643941]))
+('The accuracy is', array([0.86363637]))
+('The accuracy is', array([0.87992424]))
+('The accuracy is', array([0.88075757]))
+('The accuracy is', array([0.8926515]))
+('The accuracy is', array([0.87522727]))
+('The accuracy is', array([0.87477273]))
+('The accuracy is', array([0.88939393]))
+('The accuracy is', array([0.89174241]))
+('The accuracy is', array([0.88757575]))
+('The accuracy is', array([0.87590909]))
+('The accuracy is', array([0.8694697]))
+('The accuracy is', array([0.89098483]))
+Accuracy [0.89098483]
+('i--', 69, '--Kappa', 0.708079136138876)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.75060606]))
+('The accuracy is', array([0.76393938]))
+('The accuracy is', array([0.78128791]))
+('The accuracy is', array([0.784697]))
+('The accuracy is', array([0.80212122]))
+('The accuracy is', array([0.77636361]))
+('The accuracy is', array([0.8119697]))
+('The accuracy is', array([0.7968182]))
+('The accuracy is', array([0.82242423]))
+('The accuracy is', array([0.82227272]))
+('The accuracy is', array([0.82007575]))
+('The accuracy is', array([0.82560605]))
+('The accuracy is', array([0.80242425]))
+('The accuracy is', array([0.82530302]))
+('The accuracy is', array([0.82916665]))
+('The accuracy is', array([0.82969695]))
+('The accuracy is', array([0.8296212]))
+('The accuracy is', array([0.81575757]))
+('The accuracy is', array([0.83128786]))
+('The accuracy is', array([0.82848483]))
+Accuracy [0.82848483]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.63295454]))
+('The accuracy is', array([0.61742425]))
+('The accuracy is', array([0.64143938]))
+('The accuracy is', array([0.6582576]))
+('The accuracy is', array([0.63598484]))
+('The accuracy is', array([0.63371211]))
+('The accuracy is', array([0.66590911]))
+('The accuracy is', array([0.62348485]))
+('The accuracy is', array([0.66136366]))
+('The accuracy is', array([0.64992422]))
+('The accuracy is', array([0.69295454]))
+('The accuracy is', array([0.7051515]))
+('The accuracy is', array([0.70636362]))
+('The accuracy is', array([0.6910606]))
+('The accuracy is', array([0.68128788]))
+('The accuracy is', array([0.68560606]))
+('The accuracy is', array([0.67636365]))
+('The accuracy is', array([0.68727273]))
+('The accuracy is', array([0.67856061]))
+('The accuracy is', array([0.69227272]))
+Accuracy [0.69227272]
+('i--', 70, '--Kappa', 0.344010199746418)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.88560605]))
+('The accuracy is', array([0.88007575]))
+('The accuracy is', array([0.87833333]))
+('The accuracy is', array([0.88727272]))
+('The accuracy is', array([0.88825756]))
+('The accuracy is', array([0.89537877]))
+('The accuracy is', array([0.88749999]))
+('The accuracy is', array([0.91098487]))
+('The accuracy is', array([0.89916664]))
+('The accuracy is', array([0.90909094]))
+('The accuracy is', array([0.91962123]))
+('The accuracy is', array([0.89712119]))
+('The accuracy is', array([0.90734851]))
+('The accuracy is', array([0.91795456]))
+('The accuracy is', array([0.91992426]))
+('The accuracy is', array([0.91924244]))
+('The accuracy is', array([0.91242427]))
+('The accuracy is', array([0.91439396]))
+('The accuracy is', array([0.9228788]))
+('The accuracy is', array([0.91151518]))
+Accuracy [0.91151518]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.84863639]))
+('The accuracy is', array([0.86878788]))
+('The accuracy is', array([0.8512879]))
+('The accuracy is', array([0.85386366]))
+('The accuracy is', array([0.89310604]))
+('The accuracy is', array([0.87780303]))
+('The accuracy is', array([0.88068181]))
+('The accuracy is', array([0.86583334]))
+('The accuracy is', array([0.88310605]))
+('The accuracy is', array([0.8755303]))
+('The accuracy is', array([0.88613635]))
+('The accuracy is', array([0.87159091]))
+('The accuracy is', array([0.8603788]))
+('The accuracy is', array([0.842803]))
+('The accuracy is', array([0.87757576]))
+('The accuracy is', array([0.84659094]))
+('The accuracy is', array([0.87128788]))
+('The accuracy is', array([0.87401515]))
+('The accuracy is', array([0.87522727]))
+('The accuracy is', array([0.86227274]))
+Accuracy [0.86227274]
+('i--', 71, '--Kappa', 0.6177671137395159)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.80537879]))
+('The accuracy is', array([0.77007574]))
+('The accuracy is', array([0.79318184]))
+('The accuracy is', array([0.81439394]))
+('The accuracy is', array([0.8246212]))
+('The accuracy is', array([0.80515152]))
+('The accuracy is', array([0.84537882]))
+('The accuracy is', array([0.84515154]))
+('The accuracy is', array([0.82340908]))
+('The accuracy is', array([0.84537882]))
+('The accuracy is', array([0.85189396]))
+('The accuracy is', array([0.85348487]))
+('The accuracy is', array([0.84863639]))
+('The accuracy is', array([0.85598487]))
+('The accuracy is', array([0.85204548]))
+('The accuracy is', array([0.85250002]))
+('The accuracy is', array([0.85560608]))
+('The accuracy is', array([0.85704547]))
+('The accuracy is', array([0.85992426]))
+('The accuracy is', array([0.8548485]))
+Accuracy [0.8548485]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.7232576]))
+('The accuracy is', array([0.70530301]))
+('The accuracy is', array([0.71136361]))
+('The accuracy is', array([0.72280306]))
+('The accuracy is', array([0.71159089]))
+('The accuracy is', array([0.71037877]))
+('The accuracy is', array([0.72136366]))
+('The accuracy is', array([0.73166668]))
+('The accuracy is', array([0.72098488]))
+('The accuracy is', array([0.74818182]))
+('The accuracy is', array([0.74242425]))
+('The accuracy is', array([0.73606062]))
+('The accuracy is', array([0.7525]))
+('The accuracy is', array([0.77590907]))
+('The accuracy is', array([0.76424241]))
+('The accuracy is', array([0.73386365]))
+('The accuracy is', array([0.73598486]))
+('The accuracy is', array([0.73386365]))
+('The accuracy is', array([0.73621213]))
+('The accuracy is', array([0.74075758]))
+Accuracy [0.74075758]
+('i--', 72, '--Kappa', 0.8625082600986324)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.70878786]))
+('The accuracy is', array([0.7172727]))
+('The accuracy is', array([0.72712123]))
+('The accuracy is', array([0.7112121]))
+('The accuracy is', array([0.73174244]))
+('The accuracy is', array([0.72234851]))
+('The accuracy is', array([0.77840906]))
+('The accuracy is', array([0.72810608]))
+('The accuracy is', array([0.76189393]))
+('The accuracy is', array([0.77840906]))
+('The accuracy is', array([0.77871209]))
+('The accuracy is', array([0.77613634]))
+('The accuracy is', array([0.77628785]))
+('The accuracy is', array([0.78159094]))
+('The accuracy is', array([0.78621215]))
+('The accuracy is', array([0.79878789]))
+('The accuracy is', array([0.79924244]))
+('The accuracy is', array([0.78363639]))
+('The accuracy is', array([0.79931819]))
+('The accuracy is', array([0.79871213]))
+Accuracy [0.79871213]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.59780306]))
+('The accuracy is', array([0.60439396]))
+('The accuracy is', array([0.60939395]))
+('The accuracy is', array([0.59636366]))
+('The accuracy is', array([0.61712122]))
+('The accuracy is', array([0.61492425]))
+('The accuracy is', array([0.62522727]))
+('The accuracy is', array([0.61462122]))
+('The accuracy is', array([0.61628789]))
+('The accuracy is', array([0.62257576]))
+('The accuracy is', array([0.63333333]))
+('The accuracy is', array([0.62280303]))
+('The accuracy is', array([0.64749998]))
+('The accuracy is', array([0.64356059]))
+('The accuracy is', array([0.65803033]))
+('The accuracy is', array([0.65287876]))
+('The accuracy is', array([0.64083332]))
+('The accuracy is', array([0.63924241]))
+('The accuracy is', array([0.64499998]))
+('The accuracy is', array([0.66924244]))
+Accuracy [0.66924244]
+('i--', 73, '--Kappa', 0.6821310494060105)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.77757573]))
+('The accuracy is', array([0.78530306]))
+('The accuracy is', array([0.79909092]))
+('The accuracy is', array([0.79371214]))
+('The accuracy is', array([0.80189395]))
+('The accuracy is', array([0.80212122]))
+('The accuracy is', array([0.81242424]))
+('The accuracy is', array([0.81530303]))
+('The accuracy is', array([0.81363636]))
+('The accuracy is', array([0.80242425]))
+('The accuracy is', array([0.83090907]))
+('The accuracy is', array([0.79560608]))
+('The accuracy is', array([0.83606058]))
+('The accuracy is', array([0.84424245]))
+('The accuracy is', array([0.84371209]))
+('The accuracy is', array([0.84219694]))
+('The accuracy is', array([0.84909093]))
+('The accuracy is', array([0.83484846]))
+('The accuracy is', array([0.84219694]))
+('The accuracy is', array([0.84636366]))
+Accuracy [0.84636366]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.66545457]))
+('The accuracy is', array([0.69507575]))
+('The accuracy is', array([0.66348487]))
+('The accuracy is', array([0.66818184]))
+('The accuracy is', array([0.66924244]))
+('The accuracy is', array([0.66083336]))
+('The accuracy is', array([0.67583334]))
+('The accuracy is', array([0.66962123]))
+('The accuracy is', array([0.70431817]))
+('The accuracy is', array([0.67189395]))
+('The accuracy is', array([0.6839394]))
+('The accuracy is', array([0.66439396]))
+('The accuracy is', array([0.67871213]))
+('The accuracy is', array([0.70166665]))
+('The accuracy is', array([0.64787877]))
+('The accuracy is', array([0.66795456]))
+('The accuracy is', array([0.69462121]))
+('The accuracy is', array([0.69098485]))
+('The accuracy is', array([0.70287877]))
+('The accuracy is', array([0.70045453]))
+Accuracy [0.70045453]
+('i--', 74, '--Kappa', 0.42055239237725317)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.84371209]))
+('The accuracy is', array([0.86348486]))
+('The accuracy is', array([0.82780302]))
+('The accuracy is', array([0.87159091]))
+('The accuracy is', array([0.85833335]))
+('The accuracy is', array([0.88416666]))
+('The accuracy is', array([0.87575758]))
+('The accuracy is', array([0.86863637]))
+('The accuracy is', array([0.89492422]))
+('The accuracy is', array([0.89696968]))
+('The accuracy is', array([0.89053029]))
+('The accuracy is', array([0.88575757]))
+('The accuracy is', array([0.89446968]))
+('The accuracy is', array([0.89386362]))
+('The accuracy is', array([0.88946968]))
+('The accuracy is', array([0.89893937]))
+('The accuracy is', array([0.88386363]))
+('The accuracy is', array([0.89840907]))
+('The accuracy is', array([0.89530301]))
+('The accuracy is', array([0.89734846]))
+Accuracy [0.89734846]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.79712123]))
+('The accuracy is', array([0.78954548]))
+('The accuracy is', array([0.81151515]))
+('The accuracy is', array([0.80113637]))
+('The accuracy is', array([0.83636361]))
+('The accuracy is', array([0.78984851]))
+('The accuracy is', array([0.81174242]))
+('The accuracy is', array([0.81462121]))
+('The accuracy is', array([0.81984848]))
+('The accuracy is', array([0.81439394]))
+('The accuracy is', array([0.83234847]))
+('The accuracy is', array([0.81712121]))
+('The accuracy is', array([0.82719696]))
+('The accuracy is', array([0.84507579]))
+('The accuracy is', array([0.84151512]))
+('The accuracy is', array([0.84159088]))
+('The accuracy is', array([0.8477273]))
+('The accuracy is', array([0.83893937]))
+('The accuracy is', array([0.84969699]))
+('The accuracy is', array([0.83083332]))
+Accuracy [0.83083332]
+('i--', 75, '--Kappa', 0.6293506418463072)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.78068179]))
+('The accuracy is', array([0.76053029]))
+('The accuracy is', array([0.74166667]))
+('The accuracy is', array([0.79704547]))
+('The accuracy is', array([0.83613634]))
+('The accuracy is', array([0.80545455]))
+('The accuracy is', array([0.82553029]))
+('The accuracy is', array([0.83613634]))
+('The accuracy is', array([0.84295452]))
+('The accuracy is', array([0.82128787]))
+('The accuracy is', array([0.83992422]))
+('The accuracy is', array([0.83606058]))
+('The accuracy is', array([0.847197]))
+('The accuracy is', array([0.83106059]))
+('The accuracy is', array([0.84318179]))
+('The accuracy is', array([0.84946972]))
+('The accuracy is', array([0.84780306]))
+('The accuracy is', array([0.85560608]))
+('The accuracy is', array([0.85196972]))
+('The accuracy is', array([0.85212123]))
+Accuracy [0.85212123]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.70030302]))
+('The accuracy is', array([0.71189392]))
+('The accuracy is', array([0.73136365]))
+('The accuracy is', array([0.72439396]))
+('The accuracy is', array([0.71159089]))
+('The accuracy is', array([0.75409091]))
+('The accuracy is', array([0.74000001]))
+('The accuracy is', array([0.7312879]))
+('The accuracy is', array([0.74492425]))
+('The accuracy is', array([0.74159092]))
+('The accuracy is', array([0.72992426]))
+('The accuracy is', array([0.72469699]))
+('The accuracy is', array([0.7318182]))
+('The accuracy is', array([0.72257578]))
+('The accuracy is', array([0.71348482]))
+('The accuracy is', array([0.68060607]))
+('The accuracy is', array([0.69484848]))
+('The accuracy is', array([0.71113634]))
+('The accuracy is', array([0.71280301]))
+('The accuracy is', array([0.72212124]))
+Accuracy [0.72212124]
+('i--', 76, '--Kappa', 0.4871475832078388)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.80401516]))
+('The accuracy is', array([0.85696971]))
+('The accuracy is', array([0.85340911]))
+('The accuracy is', array([0.83659089]))
+('The accuracy is', array([0.86651516]))
+('The accuracy is', array([0.88204545]))
+('The accuracy is', array([0.88090909]))
+('The accuracy is', array([0.86128789]))
+('The accuracy is', array([0.88060606]))
+('The accuracy is', array([0.87742424]))
+('The accuracy is', array([0.88477272]))
+('The accuracy is', array([0.87939394]))
+('The accuracy is', array([0.86598486]))
+('The accuracy is', array([0.8865909]))
+('The accuracy is', array([0.87681818]))
+('The accuracy is', array([0.88181818]))
+('The accuracy is', array([0.88560605]))
+('The accuracy is', array([0.87772727]))
+('The accuracy is', array([0.87931818]))
+('The accuracy is', array([0.88]))
+Accuracy [0.88]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.81143939]))
+('The accuracy is', array([0.79886365]))
+('The accuracy is', array([0.79962122]))
+('The accuracy is', array([0.81409091]))
+('The accuracy is', array([0.82553029]))
+('The accuracy is', array([0.80681819]))
+('The accuracy is', array([0.80825758]))
+('The accuracy is', array([0.80977273]))
+('The accuracy is', array([0.79015154]))
+('The accuracy is', array([0.75999999]))
+('The accuracy is', array([0.78409094]))
+('The accuracy is', array([0.81295455]))
+('The accuracy is', array([0.76053029]))
+('The accuracy is', array([0.75363636]))
+('The accuracy is', array([0.79318184]))
+('The accuracy is', array([0.77272725]))
+('The accuracy is', array([0.7656818]))
+('The accuracy is', array([0.77901512]))
+('The accuracy is', array([0.7832576]))
+('The accuracy is', array([0.7797727]))
+Accuracy [0.7797727]
+('i--', 77, '--Kappa', 0.6950070508115068)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.74727273]))
+('The accuracy is', array([0.75886363]))
+('The accuracy is', array([0.76643938]))
+('The accuracy is', array([0.7580303]))
+('The accuracy is', array([0.79696971]))
+('The accuracy is', array([0.79856062]))
+('The accuracy is', array([0.78939396]))
+('The accuracy is', array([0.80060607]))
+('The accuracy is', array([0.81545454]))
+('The accuracy is', array([0.81893939]))
+('The accuracy is', array([0.82749999]))
+('The accuracy is', array([0.8251515]))
+('The accuracy is', array([0.82931817]))
+('The accuracy is', array([0.83022726]))
+('The accuracy is', array([0.8251515]))
+('The accuracy is', array([0.83583331]))
+('The accuracy is', array([0.82810605]))
+('The accuracy is', array([0.83742422]))
+('The accuracy is', array([0.83833331]))
+('The accuracy is', array([0.83583331]))
+Accuracy [0.83583331]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.67734849]))
+('The accuracy is', array([0.67969698]))
+('The accuracy is', array([0.68378788]))
+('The accuracy is', array([0.68848485]))
+('The accuracy is', array([0.68219697]))
+('The accuracy is', array([0.64234847]))
+('The accuracy is', array([0.69719696]))
+('The accuracy is', array([0.70696968]))
+('The accuracy is', array([0.71272725]))
+('The accuracy is', array([0.67757577]))
+('The accuracy is', array([0.71416664]))
+('The accuracy is', array([0.68598485]))
+('The accuracy is', array([0.70810604]))
+('The accuracy is', array([0.67075759]))
+('The accuracy is', array([0.6855303]))
+('The accuracy is', array([0.73416668]))
+('The accuracy is', array([0.69469696]))
+('The accuracy is', array([0.7191667]))
+('The accuracy is', array([0.7191667]))
+('The accuracy is', array([0.71007574]))
+Accuracy [0.71007574]
+('i--', 78, '--Kappa', 0.4764892259213013)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.84553033]))
+('The accuracy is', array([0.844697]))
+('The accuracy is', array([0.8659091]))
+('The accuracy is', array([0.87272727]))
+('The accuracy is', array([0.86212122]))
+('The accuracy is', array([0.87128788]))
+('The accuracy is', array([0.88424242]))
+('The accuracy is', array([0.8775]))
+('The accuracy is', array([0.89204544]))
+('The accuracy is', array([0.89174241]))
+('The accuracy is', array([0.86303031]))
+('The accuracy is', array([0.89340907]))
+('The accuracy is', array([0.88825756]))
+('The accuracy is', array([0.89249998]))
+('The accuracy is', array([0.89469695]))
+('The accuracy is', array([0.88969696]))
+('The accuracy is', array([0.88795453]))
+('The accuracy is', array([0.89628786]))
+('The accuracy is', array([0.89325756]))
+('The accuracy is', array([0.89583331]))
+Accuracy [0.89583331]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.77393937]))
+('The accuracy is', array([0.78128791]))
+('The accuracy is', array([0.77249998]))
+('The accuracy is', array([0.80083334]))
+('The accuracy is', array([0.79750001]))
+('The accuracy is', array([0.77333331]))
+('The accuracy is', array([0.78257579]))
+('The accuracy is', array([0.7937879]))
+('The accuracy is', array([0.80803031]))
+('The accuracy is', array([0.78393942]))
+('The accuracy is', array([0.80712122]))
+('The accuracy is', array([0.79916668]))
+('The accuracy is', array([0.81469697]))
+('The accuracy is', array([0.80363637]))
+('The accuracy is', array([0.81060606]))
+('The accuracy is', array([0.79651517]))
+('The accuracy is', array([0.81136364]))
+('The accuracy is', array([0.80575758]))
+('The accuracy is', array([0.81416667]))
+('The accuracy is', array([0.80613637]))
+Accuracy [0.80613637]
+('i--', 79, '--Kappa', 0.4502785230267994)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.82166666]))
+('The accuracy is', array([0.84500003]))
+('The accuracy is', array([0.84916669]))
+('The accuracy is', array([0.84318179]))
+('The accuracy is', array([0.87681818]))
+('The accuracy is', array([0.86621213]))
+('The accuracy is', array([0.88977271]))
+('The accuracy is', array([0.87257576]))
+('The accuracy is', array([0.89416665]))
+('The accuracy is', array([0.8684091]))
+('The accuracy is', array([0.84204543]))
+('The accuracy is', array([0.89583331]))
+('The accuracy is', array([0.88325757]))
+('The accuracy is', array([0.88568181]))
+('The accuracy is', array([0.89053029]))
+('The accuracy is', array([0.89083332]))
+('The accuracy is', array([0.89159089]))
+('The accuracy is', array([0.88575757]))
+('The accuracy is', array([0.89628786]))
+('The accuracy is', array([0.88151515]))
+Accuracy [0.88151515]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.82371211]))
+('The accuracy is', array([0.80174243]))
+('The accuracy is', array([0.79053032]))
+('The accuracy is', array([0.82681817]))
+('The accuracy is', array([0.81522727]))
+('The accuracy is', array([0.79621214]))
+('The accuracy is', array([0.80704546]))
+('The accuracy is', array([0.82121211]))
+('The accuracy is', array([0.82545453]))
+('The accuracy is', array([0.80522728]))
+('The accuracy is', array([0.81696969]))
+('The accuracy is', array([0.81628788]))
+('The accuracy is', array([0.83106059]))
+('The accuracy is', array([0.83439392]))
+('The accuracy is', array([0.82401514]))
+('The accuracy is', array([0.82621211]))
+('The accuracy is', array([0.83575755]))
+('The accuracy is', array([0.81704545]))
+('The accuracy is', array([0.81037879]))
+('The accuracy is', array([0.82507575]))
+Accuracy [0.82507575]
+('i--', 80, '--Kappa', 0.7204051462711223)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.77242422]))
+('The accuracy is', array([0.78045452]))
+('The accuracy is', array([0.780303]))
+('The accuracy is', array([0.78446972]))
+('The accuracy is', array([0.77560604]))
+('The accuracy is', array([0.80598485]))
+('The accuracy is', array([0.81356061]))
+('The accuracy is', array([0.79825759]))
+('The accuracy is', array([0.81454545]))
+('The accuracy is', array([0.80515152]))
+('The accuracy is', array([0.82757574]))
+('The accuracy is', array([0.79643941]))
+('The accuracy is', array([0.8281818]))
+('The accuracy is', array([0.82840908]))
+('The accuracy is', array([0.83416665]))
+('The accuracy is', array([0.8312121]))
+('The accuracy is', array([0.82333332]))
+('The accuracy is', array([0.8312121]))
+('The accuracy is', array([0.8326515]))
+('The accuracy is', array([0.83712119]))
+Accuracy [0.83712119]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.59924245]))
+('The accuracy is', array([0.61977273]))
+('The accuracy is', array([0.62325758]))
+('The accuracy is', array([0.69022727]))
+('The accuracy is', array([0.66219699]))
+('The accuracy is', array([0.68643939]))
+('The accuracy is', array([0.68128788]))
+('The accuracy is', array([0.67053032]))
+('The accuracy is', array([0.65901518]))
+('The accuracy is', array([0.64590907]))
+('The accuracy is', array([0.66113639]))
+('The accuracy is', array([0.68121213]))
+('The accuracy is', array([0.64689392]))
+('The accuracy is', array([0.69174242]))
+('The accuracy is', array([0.68318182]))
+('The accuracy is', array([0.66545457]))
+('The accuracy is', array([0.6406818]))
+('The accuracy is', array([0.65166664]))
+('The accuracy is', array([0.66871214]))
+('The accuracy is', array([0.659697]))
+Accuracy [0.659697]
+('i--', 81, '--Kappa', 0.5145410399986721)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.8221212]))
+('The accuracy is', array([0.83689392]))
+('The accuracy is', array([0.83954543]))
+('The accuracy is', array([0.83689392]))
+('The accuracy is', array([0.86166668]))
+('The accuracy is', array([0.86818182]))
+('The accuracy is', array([0.80106062]))
+('The accuracy is', array([0.86954546]))
+('The accuracy is', array([0.86075759]))
+('The accuracy is', array([0.85250002]))
+('The accuracy is', array([0.86931819]))
+('The accuracy is', array([0.85818183]))
+('The accuracy is', array([0.8769697]))
+('The accuracy is', array([0.86560607]))
+('The accuracy is', array([0.87234849]))
+('The accuracy is', array([0.87871212]))
+('The accuracy is', array([0.8785606]))
+('The accuracy is', array([0.8805303]))
+('The accuracy is', array([0.88022727]))
+('The accuracy is', array([0.87871212]))
+Accuracy [0.87871212]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.74795455]))
+('The accuracy is', array([0.7505303]))
+('The accuracy is', array([0.75083333]))
+('The accuracy is', array([0.7671212]))
+('The accuracy is', array([0.77083331]))
+('The accuracy is', array([0.76840907]))
+('The accuracy is', array([0.79969698]))
+('The accuracy is', array([0.78386366]))
+('The accuracy is', array([0.77181816]))
+('The accuracy is', array([0.79007578]))
+('The accuracy is', array([0.75469697]))
+('The accuracy is', array([0.79878789]))
+('The accuracy is', array([0.78409094]))
+('The accuracy is', array([0.80196971]))
+('The accuracy is', array([0.78560609]))
+('The accuracy is', array([0.79856062]))
+('The accuracy is', array([0.7877273]))
+('The accuracy is', array([0.780303]))
+('The accuracy is', array([0.77143937]))
+('The accuracy is', array([0.77560604]))
+Accuracy [0.77560604]
+('i--', 82, '--Kappa', 0.25939612906004794)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.89477271]))
+('The accuracy is', array([0.91318184]))
+('The accuracy is', array([0.87151515]))
+('The accuracy is', array([0.91159093]))
+('The accuracy is', array([0.90575755]))
+('The accuracy is', array([0.90962124]))
+('The accuracy is', array([0.93484849]))
+('The accuracy is', array([0.92833334]))
+('The accuracy is', array([0.93931818]))
+('The accuracy is', array([0.93613636]))
+('The accuracy is', array([0.93537879]))
+('The accuracy is', array([0.93409091]))
+('The accuracy is', array([0.93674242]))
+('The accuracy is', array([0.93856061]))
+('The accuracy is', array([0.93462121]))
+('The accuracy is', array([0.93954545]))
+('The accuracy is', array([0.93022728]))
+('The accuracy is', array([0.93681818]))
+('The accuracy is', array([0.94037879]))
+('The accuracy is', array([0.93287879]))
+Accuracy [0.93287879]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.91060609]))
+('The accuracy is', array([0.9132576]))
+('The accuracy is', array([0.89803028]))
+('The accuracy is', array([0.91507578]))
+('The accuracy is', array([0.90689397]))
+('The accuracy is', array([0.90325755]))
+('The accuracy is', array([0.90916669]))
+('The accuracy is', array([0.91484851]))
+('The accuracy is', array([0.90946972]))
+('The accuracy is', array([0.9223485]))
+('The accuracy is', array([0.91500002]))
+('The accuracy is', array([0.91992426]))
+('The accuracy is', array([0.90886366]))
+('The accuracy is', array([0.90818185]))
+('The accuracy is', array([0.91795456]))
+('The accuracy is', array([0.92219698]))
+('The accuracy is', array([0.91916668]))
+('The accuracy is', array([0.91000003]))
+('The accuracy is', array([0.8987121]))
+('The accuracy is', array([0.91636366]))
+Accuracy [0.91636366]
+('i--', 83, '--Kappa', 0.9135845936439053)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.69765151]))
+('The accuracy is', array([0.71825755]))
+('The accuracy is', array([0.71401513]))
+('The accuracy is', array([0.72250003]))
+('The accuracy is', array([0.72068185]))
+('The accuracy is', array([0.72901517]))
+('The accuracy is', array([0.7530303]))
+('The accuracy is', array([0.74515152]))
+('The accuracy is', array([0.7762121]))
+('The accuracy is', array([0.7701515]))
+('The accuracy is', array([0.76674241]))
+('The accuracy is', array([0.75999999]))
+('The accuracy is', array([0.77545452]))
+('The accuracy is', array([0.77643937]))
+('The accuracy is', array([0.77083331]))
+('The accuracy is', array([0.77765149]))
+('The accuracy is', array([0.7882576]))
+('The accuracy is', array([0.78621215]))
+('The accuracy is', array([0.7857576]))
+('The accuracy is', array([0.78621215]))
+Accuracy [0.78621215]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.58356059]))
+('The accuracy is', array([0.59378791]))
+('The accuracy is', array([0.60780305]))
+('The accuracy is', array([0.59378791]))
+('The accuracy is', array([0.61000001]))
+('The accuracy is', array([0.59007573]))
+('The accuracy is', array([0.66477275]))
+('The accuracy is', array([0.62568182]))
+('The accuracy is', array([0.65242422]))
+('The accuracy is', array([0.66083336]))
+('The accuracy is', array([0.66007578]))
+('The accuracy is', array([0.64196968]))
+('The accuracy is', array([0.64780301]))
+('The accuracy is', array([0.65537876]))
+('The accuracy is', array([0.6558333]))
+('The accuracy is', array([0.64833331]))
+('The accuracy is', array([0.64878786]))
+('The accuracy is', array([0.63939393]))
+('The accuracy is', array([0.62106061]))
+('The accuracy is', array([0.62053031]))
+Accuracy [0.62053031]
+('i--', 84, '--Kappa', 0.9244908273532576)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.69969696]))
+('The accuracy is', array([0.70916665]))
+('The accuracy is', array([0.70537877]))
+('The accuracy is', array([0.70712119]))
+('The accuracy is', array([0.71045452]))
+('The accuracy is', array([0.73856062]))
+('The accuracy is', array([0.73469698]))
+('The accuracy is', array([0.77106059]))
+('The accuracy is', array([0.77416664]))
+('The accuracy is', array([0.77234846]))
+('The accuracy is', array([0.77431816]))
+('The accuracy is', array([0.77098483]))
+('The accuracy is', array([0.77878785]))
+('The accuracy is', array([0.77416664]))
+('The accuracy is', array([0.77939391]))
+('The accuracy is', array([0.77803028]))
+('The accuracy is', array([0.78909093]))
+('The accuracy is', array([0.77810603]))
+('The accuracy is', array([0.78742427]))
+('The accuracy is', array([0.78765154]))
+Accuracy [0.78765154]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.58901513]))
+('The accuracy is', array([0.60666668]))
+('The accuracy is', array([0.61674243]))
+('The accuracy is', array([0.60893941]))
+('The accuracy is', array([0.63348484]))
+('The accuracy is', array([0.60833335]))
+('The accuracy is', array([0.63810605]))
+('The accuracy is', array([0.63378787]))
+('The accuracy is', array([0.63628787]))
+('The accuracy is', array([0.65992427]))
+('The accuracy is', array([0.65499997]))
+('The accuracy is', array([0.63840908]))
+('The accuracy is', array([0.63227272]))
+('The accuracy is', array([0.63636363]))
+('The accuracy is', array([0.6346212]))
+('The accuracy is', array([0.65992427]))
+('The accuracy is', array([0.65212119]))
+('The accuracy is', array([0.65310603]))
+('The accuracy is', array([0.65727276]))
+('The accuracy is', array([0.64999998]))
+Accuracy [0.64999998]
+('i--', 85, '--Kappa', 0.711663411693349)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.77553028]))
+('The accuracy is', array([0.77363634]))
+('The accuracy is', array([0.77545452]))
+('The accuracy is', array([0.7287879]))
+('The accuracy is', array([0.76272726]))
+('The accuracy is', array([0.79227275]))
+('The accuracy is', array([0.81280303]))
+('The accuracy is', array([0.80878788]))
+('The accuracy is', array([0.82143939]))
+('The accuracy is', array([0.81492424]))
+('The accuracy is', array([0.8271212]))
+('The accuracy is', array([0.81219697]))
+('The accuracy is', array([0.81946969]))
+('The accuracy is', array([0.83128786]))
+('The accuracy is', array([0.83295453]))
+('The accuracy is', array([0.83310604]))
+('The accuracy is', array([0.8326515]))
+('The accuracy is', array([0.83840907]))
+('The accuracy is', array([0.83999997]))
+('The accuracy is', array([0.82992423]))
+Accuracy [0.82992423]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.69734848]))
+('The accuracy is', array([0.7031818]))
+('The accuracy is', array([0.70189393]))
+('The accuracy is', array([0.7051515]))
+('The accuracy is', array([0.72484851]))
+('The accuracy is', array([0.70848483]))
+('The accuracy is', array([0.73318183]))
+('The accuracy is', array([0.74545455]))
+('The accuracy is', array([0.74181819]))
+('The accuracy is', array([0.7191667]))
+('The accuracy is', array([0.72159094]))
+('The accuracy is', array([0.70977271]))
+('The accuracy is', array([0.70984846]))
+('The accuracy is', array([0.70856059]))
+('The accuracy is', array([0.71325755]))
+('The accuracy is', array([0.71151513]))
+('The accuracy is', array([0.71136361]))
+('The accuracy is', array([0.70780301]))
+('The accuracy is', array([0.6955303]))
+('The accuracy is', array([0.68712121]))
+Accuracy [0.68712121]
+('i--', 86, '--Kappa', 0.5347821499993411)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.76931816]))
+('The accuracy is', array([0.80333334]))
+('The accuracy is', array([0.7907576]))
+('The accuracy is', array([0.84636366]))
+('The accuracy is', array([0.84340906]))
+('The accuracy is', array([0.86522728]))
+('The accuracy is', array([0.86446971]))
+('The accuracy is', array([0.87136364]))
+('The accuracy is', array([0.86977273]))
+('The accuracy is', array([0.86909091]))
+('The accuracy is', array([0.87318182]))
+('The accuracy is', array([0.87022728]))
+('The accuracy is', array([0.8755303]))
+('The accuracy is', array([0.87060606]))
+('The accuracy is', array([0.87181818]))
+('The accuracy is', array([0.87431818]))
+('The accuracy is', array([0.86962122]))
+('The accuracy is', array([0.87939394]))
+('The accuracy is', array([0.88219696]))
+('The accuracy is', array([0.87969697]))
+Accuracy [0.87969697]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.73356062]))
+('The accuracy is', array([0.72712123]))
+('The accuracy is', array([0.75742424]))
+('The accuracy is', array([0.77075756]))
+('The accuracy is', array([0.77583331]))
+('The accuracy is', array([0.76303029]))
+('The accuracy is', array([0.75386363]))
+('The accuracy is', array([0.72803032]))
+('The accuracy is', array([0.75371212]))
+('The accuracy is', array([0.73954546]))
+('The accuracy is', array([0.75068182]))
+('The accuracy is', array([0.77022725]))
+('The accuracy is', array([0.77340907]))
+('The accuracy is', array([0.7640909]))
+('The accuracy is', array([0.782197]))
+('The accuracy is', array([0.77651513]))
+('The accuracy is', array([0.78181821]))
+('The accuracy is', array([0.76916665]))
+('The accuracy is', array([0.77984846]))
+('The accuracy is', array([0.77234846]))
+Accuracy [0.77234846]
+('i--', 87, '--Kappa', 0.34984562552623966)
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.86795455]))
+('The accuracy is', array([0.86431819]))
+('The accuracy is', array([0.88037878]))
+('The accuracy is', array([0.8926515]))
+('The accuracy is', array([0.88583332]))
+('The accuracy is', array([0.90060604]))
+('The accuracy is', array([0.87954545]))
+('The accuracy is', array([0.9077273]))
+('The accuracy is', array([0.89840907]))
+('The accuracy is', array([0.91651517]))
+('The accuracy is', array([0.91954547]))
+('The accuracy is', array([0.91189396]))
+('The accuracy is', array([0.91310608]))
+('The accuracy is', array([0.90977275]))
+('The accuracy is', array([0.91530305]))
+('The accuracy is', array([0.91825759]))
+('The accuracy is', array([0.91643941]))
+('The accuracy is', array([0.91265154]))
+('The accuracy is', array([0.92045456]))
+('The accuracy is', array([0.92159092]))
+Accuracy [0.92159092]
+Sumamries
+Evaluation
+initializing variables
+return stuff
+('The accuracy is', array([0.86401516]))
+('The accuracy is', array([0.83484846]))
+('The accuracy is', array([0.87348485]))
+('The accuracy is', array([0.84886366]))
+('The accuracy is', array([0.82303029]))
+('The accuracy is', array([0.85962123]))
+('The accuracy is', array([0.8532576]))
+('The accuracy is', array([0.85272729]))
+('The accuracy is', array([0.87659091]))
+('The accuracy is', array([0.86704546]))
+('The accuracy is', array([0.86651516]))

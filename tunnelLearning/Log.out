@@ -1,0 +1,8 @@
+Extracting ../MNIST_data/train-images-idx3-ubyte.gz
+Extracting ../MNIST_data/train-labels-idx1-ubyte.gz
+Extracting ../MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting ../MNIST_data/t10k-labels-idx1-ubyte.gz
+('Train', (55000, 784), 'Test', (10000, 784))
+('Details', 'mnist_uni_noise_kappa_4_adv.csv', 'MNIST Grad -- New Framework', 1, 64, 100)
+('Test acc', [0.91352725], 'minibatch Accuracy', 0, [0.9118, 0.29462472])
+('Test acc', [0.89696366], 'minibatch Accuracy', 1, [0.8952, 0.3396313])

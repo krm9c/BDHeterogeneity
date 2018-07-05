@@ -1,0 +1,4 @@
+('Train', (2000, 500), 'Test', (600, 500))
+The data has been imported and ready
+('Details', 'dexter_grad.csv', 'dexter', 100, 64, 40)
+My changes have saved itself

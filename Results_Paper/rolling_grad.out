@@ -1,0 +1,1245 @@
+('Details', 'rolling_grad.csv', 'mnist', 100, 64, 40)
+My changes have saved itself
+('i', 0, 'kappa', 0.2682877958547639)
+Sumamries
+Evaluation
+iteration Accuracy [0.97250003] Train [0.97481346] gen_error [-0.00231344]
+iteration Accuracy [0.98909092] Train [0.98910445] gen_error [-1.35302544e-05]
+iteration Accuracy [0.99219698] Train [0.99283582] gen_error [-0.00063884]
+Accuracy [0.99219698] [0.99283582] gen_error [-0.00063884]
+Sumamries
+Evaluation
+Accuracy [0.98939395] [0.99048507] gen_error [-0.00109112]
+Accuracy [0.99159092] [0.99328357] gen_error [-0.00169265]
+Accuracy [0.99159092] [0.99328357] gen_error [-0.00169265]
+('i', 1, 'kappa', 0.11525831742212456)
+Sumamries
+Evaluation
+iteration Accuracy [0.98742425] Train [0.99194032] gen_error [-0.00451607]
+iteration Accuracy [0.98189396] Train [0.98544776] gen_error [-0.00355381]
+iteration Accuracy [0.98272729] Train [0.9839552] gen_error [-0.00122792]
+iteration Accuracy [0.99431819] Train [0.9947015] gen_error [-0.00038332]
+Accuracy [0.99431819] [0.9947015] gen_error [-0.00038332]
+Sumamries
+Evaluation
+Accuracy [0.98871213] [0.9902612] gen_error [-0.00154907]
+Accuracy [0.98674244] [0.98839551] gen_error [-0.00165308]
+Accuracy [0.98901516] [0.99268657] gen_error [-0.00367141]
+Accuracy [0.98659092] [0.98902982] gen_error [-0.0024389]
+Accuracy [0.99287879] [0.99485075] gen_error [-0.00197196]
+Accuracy [0.99287879] [0.99485075] gen_error [-0.00197196]
+('i', 2, 'kappa', 0.2957394477504498)
+Sumamries
+Evaluation
+iteration Accuracy [0.98810607] Train [0.99078357] gen_error [-0.0026775]
+iteration Accuracy [0.99356061] Train [0.99488807] gen_error [-0.00132746]
+Accuracy [0.99356061] [0.99488807] gen_error [-0.00132746]
+Sumamries
+Evaluation
+Accuracy [0.98272729] [0.98447764] gen_error [-0.00175035]
+Accuracy [0.98757577] [0.98779851] gen_error [-0.00022274]
+Accuracy [0.97174245] [0.9752239] gen_error [-0.00348145]
+Accuracy [0.99530303] [0.99630594] gen_error [-0.00100291]
+Accuracy [0.99530303] [0.99630594] gen_error [-0.00100291]
+('i', 3, 'kappa', 0.11263065700726094)
+Sumamries
+Evaluation
+iteration Accuracy [0.98515153] Train [0.98694032] gen_error [-0.00178879]
+iteration Accuracy [0.98969698] Train [0.99093282] gen_error [-0.00123584]
+iteration Accuracy [0.98803031] Train [0.99029851] gen_error [-0.0022682]
+iteration Accuracy [0.99325758] Train [0.99376863] gen_error [-0.00051105]
+Accuracy [0.99325758] [0.99376863] gen_error [-0.00051105]
+Sumamries
+Evaluation
+Accuracy [0.98704547] [0.98929107] gen_error [-0.0022456]
+Accuracy [0.98909092] [0.98690301] gen_error [0.00218791]
+Accuracy [0.99212122] [0.99253732] gen_error [-0.0004161]
+Accuracy [0.99212122] [0.99253732] gen_error [-0.0004161]
+('i', 4, 'kappa', 0.2259445913198731)
+Sumamries
+Evaluation
+iteration Accuracy [0.9757576] Train [0.97533584] gen_error [0.00042176]
+iteration Accuracy [0.99227273] Train [0.99149251] gen_error [0.00078022]
+Accuracy [0.99227273] [0.99149251] gen_error [0.00078022]
+Sumamries
+Evaluation
+Accuracy [0.98689395] [0.98787314] gen_error [-0.00097919]
+Accuracy [0.9909091] [0.99186569] gen_error [-0.00095659]
+Accuracy [0.9909091] [0.99186569] gen_error [-0.00095659]
+('i', 5, 'kappa', 0.44054392221576455)
+Sumamries
+Evaluation
+iteration Accuracy [0.9828788] Train [0.98578358] gen_error [-0.00290477]
+iteration Accuracy [0.98416668] Train [0.98563433] gen_error [-0.00146765]
+iteration Accuracy [0.99257576] Train [0.99399257] gen_error [-0.0014168]
+Accuracy [0.99257576] [0.99399257] gen_error [-0.0014168]
+Sumamries
+Evaluation
+Accuracy [0.98856062] [0.9911567] gen_error [-0.00259608]
+Accuracy [0.98856062] [0.98914176] gen_error [-0.00058115]
+Accuracy [0.98530304] [0.98574626] gen_error [-0.00044322]
+Accuracy [0.98803031] [0.99048507] gen_error [-0.00245476]
+Accuracy [0.9757576] [0.97727615] gen_error [-0.00151855]
+Accuracy [0.97356063] [0.97697759] gen_error [-0.00341696]
+Accuracy [0.99575758] [0.99630594] gen_error [-0.00054836]
+Accuracy [0.99575758] [0.99630594] gen_error [-0.00054836]
+('i', 6, 'kappa', 0.6494251124633892)
+Sumamries
+Evaluation
+iteration Accuracy [0.98386365] Train [0.98660445] gen_error [-0.0027408]
+iteration Accuracy [0.98750001] Train [0.98850745] gen_error [-0.00100744]
+iteration Accuracy [0.99234849] Train [0.99511194] gen_error [-0.00276345]
+Accuracy [0.99234849] [0.99511194] gen_error [-0.00276345]
+Sumamries
+Evaluation
+Accuracy [0.97840911] [0.97977614] gen_error [-0.00136703]
+Accuracy [0.99098486] [0.98962688] gen_error [0.00135797]
+Accuracy [0.99098486] [0.98962688] gen_error [0.00135797]
+('i', 7, 'kappa', 0.7842438541214859)
+Sumamries
+Evaluation
+iteration Accuracy [0.98477274] Train [0.98690301] gen_error [-0.00213027]
+iteration Accuracy [0.99257576] Train [0.99399257] gen_error [-0.0014168]
+Accuracy [0.99257576] [0.99399257] gen_error [-0.0014168]
+Sumamries
+Evaluation
+Accuracy [0.9884091] [0.98794776] gen_error [0.00046134]
+Accuracy [0.99083334] [0.99138057] gen_error [-0.00054723]
+Accuracy [0.99083334] [0.99138057] gen_error [-0.00054723]
+('i', 8, 'kappa', 0.7830819828624925)
+Sumamries
+Evaluation
+iteration Accuracy [0.98492426] Train [0.98708957] gen_error [-0.00216532]
+iteration Accuracy [0.98780304] Train [0.98876864] gen_error [-0.0009656]
+iteration Accuracy [0.99424243] Train [0.99570894] gen_error [-0.00146651]
+Accuracy [0.99424243] [0.99570894] gen_error [-0.00146651]
+Sumamries
+Evaluation
+Accuracy [0.98136365] [0.98421639] gen_error [-0.00285274]
+Accuracy [0.99257576] [0.99347013] gen_error [-0.00089437]
+Accuracy [0.99257576] [0.99347013] gen_error [-0.00089437]
+('i', 9, 'kappa', 0.04574523376319328)
+Sumamries
+Evaluation
+iteration Accuracy [0.98075759] Train [0.98194027] gen_error [-0.00118268]
+iteration Accuracy [0.98931819] Train [0.98962688] gen_error [-0.00030869]
+iteration Accuracy [0.99106061] Train [0.99291044] gen_error [-0.00184983]
+Accuracy [0.99106061] [0.99291044] gen_error [-0.00184983]
+Sumamries
+Evaluation
+Accuracy [0.98712122] [0.98880595] gen_error [-0.00168473]
+Accuracy [0.98780304] [0.99123132] gen_error [-0.00342828]
+Accuracy [0.9919697] [0.99343282] gen_error [-0.00146312]
+Accuracy [0.9919697] [0.99343282] gen_error [-0.00146312]
+('i', 10, 'kappa', 0.7067017636570718)
+Sumamries
+Evaluation
+iteration Accuracy [0.98015153] Train [0.9824627] gen_error [-0.00231117]
+iteration Accuracy [0.98204547] Train [0.98380595] gen_error [-0.00176048]
+iteration Accuracy [0.9878788] Train [0.98847014] gen_error [-0.00059134]
+iteration Accuracy [0.97621214] Train [0.97619402] gen_error [1.8119812e-05]
+iteration Accuracy [0.99371213] Train [0.99425375] gen_error [-0.00054163]
+Accuracy [0.99371213] [0.99425375] gen_error [-0.00054163]
+Sumamries
+Evaluation
+Accuracy [0.98924243] [0.99194032] gen_error [-0.00269789]
+Accuracy [0.98931819] [0.99242538] gen_error [-0.00310719]
+Accuracy [0.99469697] [0.99664181] gen_error [-0.00194484]
+Accuracy [0.99469697] [0.99664181] gen_error [-0.00194484]
+('i', 11, 'kappa', 0.34162191359893157)
+Sumamries
+Evaluation
+iteration Accuracy [0.98492426] Train [0.98817164] gen_error [-0.00324738]
+iteration Accuracy [0.97939396] Train [0.98253733] gen_error [-0.00314337]
+iteration Accuracy [0.98931819] Train [0.99179107] gen_error [-0.00247288]
+iteration Accuracy [0.99159092] Train [0.99309701] gen_error [-0.00150609]
+Accuracy [0.99159092] [0.99309701] gen_error [-0.00150609]
+Sumamries
+Evaluation
+Accuracy [0.9727273] [0.97250003] gen_error [0.00022727]
+Accuracy [0.98916668] [0.99108207] gen_error [-0.0019154]
+Accuracy [0.98984849] [0.98977613] gen_error [7.23600388e-05]
+Accuracy [0.99704546] [0.998097] gen_error [-0.00105155]
+Accuracy [0.99704546] [0.998097] gen_error [-0.00105155]
+('i', 12, 'kappa', 0.41620790945778297)
+Sumamries
+Evaluation
+iteration Accuracy [0.99015152] Train [0.99160451] gen_error [-0.00145298]
+Accuracy [0.99015152] [0.99160451] gen_error [-0.00145298]
+Sumamries
+Evaluation
+Accuracy [0.97386366] [0.97555971] gen_error [-0.00169605]
+Accuracy [0.99356061] [0.994403] gen_error [-0.00084239]
+Accuracy [0.99356061] [0.994403] gen_error [-0.00084239]
+('i', 13, 'kappa', 0.4462944933419317)
+Sumamries
+Evaluation
+iteration Accuracy [0.95742422] Train [0.9663806] gen_error [-0.00895637]
+iteration Accuracy [0.98333335] Train [0.98339552] gen_error [-6.21676445e-05]
+iteration Accuracy [0.9903788] Train [0.98873132] gen_error [0.00164747]
+Accuracy [0.9903788] [0.98873132] gen_error [0.00164747]
+Sumamries
+Evaluation
+Accuracy [0.97606063] [0.97809702] gen_error [-0.00203639]
+Accuracy [0.98931819] [0.99246269] gen_error [-0.0031445]
+Accuracy [0.99242425] [0.99466419] gen_error [-0.00223994]
+Accuracy [0.99242425] [0.99466419] gen_error [-0.00223994]
+('i', 14, 'kappa', 0.6703885715447232)
+Sumamries
+Evaluation
+iteration Accuracy [0.98439395] Train [0.98705226] gen_error [-0.00265831]
+iteration Accuracy [0.98954546] Train [0.9905597] gen_error [-0.00101423]
+iteration Accuracy [0.99356061] Train [0.99507463] gen_error [-0.00151402]
+Accuracy [0.99356061] [0.99507463] gen_error [-0.00151402]
+Sumamries
+Evaluation
+Accuracy [0.9853788] [0.98753732] gen_error [-0.00215852]
+Accuracy [0.99371213] [0.99585819] gen_error [-0.00214607]
+Accuracy [0.99371213] [0.99585819] gen_error [-0.00214607]
+('i', 15, 'kappa', 0.5454579766033165)
+Sumamries
+Evaluation
+iteration Accuracy [0.98818183] Train [0.99171644] gen_error [-0.00353462]
+iteration Accuracy [0.99030304] Train [0.9905597] gen_error [-0.00025666]
+Accuracy [0.99030304] [0.9905597] gen_error [-0.00025666]
+Sumamries
+Evaluation
+Accuracy [0.98401517] [0.98667908] gen_error [-0.00266391]
+Accuracy [0.98750001] [0.98910445] gen_error [-0.00160444]
+Accuracy [0.99098486] [0.99100745] gen_error [-2.25901604e-05]
+Accuracy [0.99098486] [0.99100745] gen_error [-2.25901604e-05]
+('i', 16, 'kappa', 0.8426720674518096)
+Sumamries
+Evaluation
+iteration Accuracy [0.98628789] Train [0.98820895] gen_error [-0.00192106]
+iteration Accuracy [0.99060607] Train [0.99152982] gen_error [-0.00092375]
+Accuracy [0.99060607] [0.99152982] gen_error [-0.00092375]
+Sumamries
+Evaluation
+Accuracy [0.98954546] [0.98988807] gen_error [-0.00034261]
+Accuracy [0.96696967] [0.97164178] gen_error [-0.00467211]
+Accuracy [0.99060607] [0.99152982] gen_error [-0.00092375]
+Accuracy [0.99060607] [0.99152982] gen_error [-0.00092375]
+('i', 17, 'kappa', 0.35749825404063607)
+Sumamries
+Evaluation
+iteration Accuracy [0.98651516] Train [0.98656714] gen_error [-5.19752502e-05]
+iteration Accuracy [0.98924243] Train [0.99287313] gen_error [-0.0036307]
+iteration Accuracy [0.99530303] Train [0.99708956] gen_error [-0.00178653]
+Accuracy [0.99530303] [0.99708956] gen_error [-0.00178653]
+Sumamries
+Evaluation
+Accuracy [0.97553033] [0.97578359] gen_error [-0.00025326]
+Accuracy [0.98113638] [0.98279852] gen_error [-0.00166214]
+Accuracy [0.9873485] [0.99048507] gen_error [-0.00313658]
+Accuracy [0.99651515] [0.99794775] gen_error [-0.0014326]
+Accuracy [0.99651515] [0.99794775] gen_error [-0.0014326]
+('i', 18, 'kappa', 0.2569153876594178)
+Sumamries
+Evaluation
+iteration Accuracy [0.98166668] Train [0.98500001] gen_error [-0.00333333]
+iteration Accuracy [0.98113638] Train [0.98410445] gen_error [-0.00296807]
+iteration Accuracy [0.98628789] Train [0.98720151] gen_error [-0.00091362]
+iteration Accuracy [0.99477273] Train [0.99526119] gen_error [-0.00048846]
+Accuracy [0.99477273] [0.99526119] gen_error [-0.00048846]
+Sumamries
+Evaluation
+Accuracy [0.97356063] [0.97574627] gen_error [-0.00218564]
+Accuracy [0.99424243] [0.99552238] gen_error [-0.00127995]
+Accuracy [0.99424243] [0.99552238] gen_error [-0.00127995]
+('i', 19, 'kappa', 0.6981490903224566)
+Sumamries
+Evaluation
+iteration Accuracy [0.98742425] Train [0.9889552] gen_error [-0.00153095]
+iteration Accuracy [0.9909091] Train [0.99205226] gen_error [-0.00114316]
+Accuracy [0.9909091] [0.99205226] gen_error [-0.00114316]
+Sumamries
+Evaluation
+Accuracy [0.98939395] [0.98981345] gen_error [-0.0004195]
+Accuracy [0.9884091] [0.98902982] gen_error [-0.00062072]
+Accuracy [0.98500001] [0.98787314] gen_error [-0.00287312]
+Accuracy [0.98810607] [0.99100745] gen_error [-0.00290138]
+Accuracy [0.97750002] [0.97723883] gen_error [0.00026119]
+Accuracy [0.99568182] [0.99686569] gen_error [-0.00118387]
+Accuracy [0.99568182] [0.99686569] gen_error [-0.00118387]
+('i', 20, 'kappa', 0.14396236486010872)
+Sumamries
+Evaluation
+iteration Accuracy [0.97310609] Train [0.97947758] gen_error [-0.0063715]
+iteration Accuracy [0.97939396] Train [0.98320895] gen_error [-0.003815]
+iteration Accuracy [0.99303031] Train [0.9952985] gen_error [-0.0022682]
+Accuracy [0.99303031] [0.9952985] gen_error [-0.0022682]
+Sumamries
+Evaluation
+Accuracy [0.98318183] [0.98373133] gen_error [-0.0005495]
+Accuracy [0.98613638] [0.9846642] gen_error [0.00147218]
+Accuracy [0.98636365] [0.98705226] gen_error [-0.00068861]
+Accuracy [0.97780305] [0.97932833] gen_error [-0.00152528]
+Accuracy [0.995] [0.99585819] gen_error [-0.00085819]
+Accuracy [0.995] [0.99585819] gen_error [-0.00085819]
+('i', 21, 'kappa', 0.8119591924385503)
+Sumamries
+Evaluation
+iteration Accuracy [0.98977274] Train [0.98906714] gen_error [0.0007056]
+iteration Accuracy [0.99318182] Train [0.99462688] gen_error [-0.00144506]
+Accuracy [0.99318182] [0.99462688] gen_error [-0.00144506]
+Sumamries
+Evaluation
+Accuracy [0.97606063] [0.97798508] gen_error [-0.00192446]
+Accuracy [0.99212122] [0.99227613] gen_error [-0.00015491]
+Accuracy [0.99212122] [0.99227613] gen_error [-0.00015491]
+('i', 22, 'kappa', 0.4662875076603833)
+Sumamries
+Evaluation
+iteration Accuracy [0.9903788] Train [0.9911567] gen_error [-0.0007779]
+Accuracy [0.9903788] [0.9911567] gen_error [-0.0007779]
+Sumamries
+Evaluation
+Accuracy [0.9762879] [0.98111939] gen_error [-0.00483149]
+Accuracy [0.98984849] [0.99369401] gen_error [-0.00384551]
+Accuracy [0.98583335] [0.99041045] gen_error [-0.0045771]
+Accuracy [0.99325758] [0.99436569] gen_error [-0.00110811]
+Accuracy [0.99325758] [0.99436569] gen_error [-0.00110811]
+('i', 23, 'kappa', 0.34438072059323155)
+Sumamries
+Evaluation
+iteration Accuracy [0.98560607] Train [0.98660445] gen_error [-0.00099838]
+iteration Accuracy [0.9903788] Train [0.99287313] gen_error [-0.00249434]
+Accuracy [0.9903788] [0.99287313] gen_error [-0.00249434]
+Sumamries
+Evaluation
+Accuracy [0.97242427] [0.97667909] gen_error [-0.00425482]
+Accuracy [0.98954546] [0.98772389] gen_error [0.00182158]
+Accuracy [0.98575759] [0.98563433] gen_error [0.00012326]
+Accuracy [0.99280304] [0.99332088] gen_error [-0.00051785]
+Accuracy [0.99280304] [0.99332088] gen_error [-0.00051785]
+('i', 24, 'kappa', 0.9865390093343303)
+Sumamries
+Evaluation
+iteration Accuracy [0.98159093] Train [0.98388058] gen_error [-0.00228965]
+iteration Accuracy [0.99431819] Train [0.99611938] gen_error [-0.00180119]
+Accuracy [0.99431819] [0.99611938] gen_error [-0.00180119]
+Sumamries
+Evaluation
+Accuracy [0.98795456] [0.9902612] gen_error [-0.00230664]
+Accuracy [0.98909092] [0.99250001] gen_error [-0.00340909]
+Accuracy [0.99098486] [0.99253732] gen_error [-0.00155246]
+Accuracy [0.99098486] [0.99253732] gen_error [-0.00155246]
+('i', 25, 'kappa', 0.6178395726836368)
+Sumamries
+Evaluation
+iteration Accuracy [0.98454547] Train [0.98638058] gen_error [-0.00183511]
+iteration Accuracy [0.99348485] Train [0.99485075] gen_error [-0.0013659]
+Accuracy [0.99348485] [0.99485075] gen_error [-0.0013659]
+Sumamries
+Evaluation
+Accuracy [0.98242426] [0.98294777] gen_error [-0.00052351]
+Accuracy [0.99287879] [0.99447763] gen_error [-0.00159883]
+Accuracy [0.99287879] [0.99447763] gen_error [-0.00159883]
+('i', 26, 'kappa', 0.3482414616871602)
+Sumamries
+Evaluation
+iteration Accuracy [0.98901516] Train [0.98992538] gen_error [-0.00091022]
+iteration Accuracy [0.99242425] Train [0.99365669] gen_error [-0.00123245]
+Accuracy [0.99242425] [0.99365669] gen_error [-0.00123245]
+Sumamries
+Evaluation
+Accuracy [0.98795456] [0.98794776] gen_error [6.7949295e-06]
+Accuracy [0.99280304] [0.99380594] gen_error [-0.00100291]
+Accuracy [0.99280304] [0.99380594] gen_error [-0.00100291]
+('i', 27, 'kappa', 0.6773926172947884)
+Sumamries
+Evaluation
+iteration Accuracy [0.98477274] Train [0.98514926] gen_error [-0.00037652]
+iteration Accuracy [0.98500001] Train [0.9855597] gen_error [-0.00055969]
+iteration Accuracy [0.99287879] Train [0.99432838] gen_error [-0.00144958]
+Accuracy [0.99287879] [0.99432838] gen_error [-0.00144958]
+Sumamries
+Evaluation
+Accuracy [0.96772724] [0.96499997] gen_error [0.00272727]
+Accuracy [0.9889394] [0.99033582] gen_error [-0.00139642]
+Accuracy [0.99219698] [0.99309701] gen_error [-0.00090003]
+Accuracy [0.99219698] [0.99309701] gen_error [-0.00090003]
+('i', 28, 'kappa', 0.24624048418243882)
+Sumamries
+Evaluation
+iteration Accuracy [0.98659092] Train [0.98880595] gen_error [-0.00221503]
+iteration Accuracy [0.98772728] Train [0.99089551] gen_error [-0.00316823]
+iteration Accuracy [0.97780305] Train [0.97970152] gen_error [-0.00189847]
+iteration Accuracy [0.99303031] Train [0.99477613] gen_error [-0.00174582]
+Accuracy [0.99303031] [0.99477613] gen_error [-0.00174582]
+Sumamries
+Evaluation
+Accuracy [0.9878788] [0.99130595] gen_error [-0.00342715]
+Accuracy [0.99303031] [0.99466419] gen_error [-0.00163388]
+Accuracy [0.99303031] [0.99466419] gen_error [-0.00163388]
+('i', 29, 'kappa', 0.3006262612902054)
+Sumamries
+Evaluation
+iteration Accuracy [0.98257577] Train [0.98473883] gen_error [-0.00216305]
+iteration Accuracy [0.99333334] Train [0.99380594] gen_error [-0.00047261]
+Accuracy [0.99333334] [0.99380594] gen_error [-0.00047261]
+Sumamries
+Evaluation
+Accuracy [0.98750001] [0.98910445] gen_error [-0.00160444]
+Accuracy [0.99060607] [0.99332088] gen_error [-0.00271481]
+Accuracy [0.99060607] [0.99332088] gen_error [-0.00271481]
+('i', 30, 'kappa', 0.750380191775438)
+Sumamries
+Evaluation
+iteration Accuracy [0.98901516] Train [0.99052238] gen_error [-0.00150722]
+iteration Accuracy [0.98871213] Train [0.99104476] gen_error [-0.00233263]
+iteration Accuracy [0.99121213] Train [0.99279851] gen_error [-0.00158638]
+Accuracy [0.99121213] [0.99279851] gen_error [-0.00158638]
+Sumamries
+Evaluation
+Accuracy [0.98409092] [0.98268658] gen_error [0.00140435]
+Accuracy [0.99219698] [0.99328357] gen_error [-0.00108659]
+Accuracy [0.99219698] [0.99328357] gen_error [-0.00108659]
+('i', 31, 'kappa', 0.5137457901544142)
+Sumamries
+Evaluation
+iteration Accuracy [0.9889394] Train [0.98873132] gen_error [0.00020808]
+iteration Accuracy [0.98878789] Train [0.9914552] gen_error [-0.00266731]
+iteration Accuracy [0.99098486] Train [0.99242538] gen_error [-0.00144053]
+Accuracy [0.99098486] [0.99242538] gen_error [-0.00144053]
+Sumamries
+Evaluation
+Accuracy [0.98765153] [0.98832089] gen_error [-0.00066936]
+Accuracy [0.99212122] [0.995] gen_error [-0.00287879]
+Accuracy [0.99212122] [0.995] gen_error [-0.00287879]
+('i', 32, 'kappa', 0.13575974933889545)
+Sumamries
+Evaluation
+iteration Accuracy [0.97954547] Train [0.98511195] gen_error [-0.00556648]
+iteration Accuracy [0.98984849] Train [0.99373132] gen_error [-0.00388283]
+iteration Accuracy [0.98212123] Train [0.98820895] gen_error [-0.00608772]
+iteration Accuracy [0.98606062] Train [0.98720151] gen_error [-0.00114089]
+iteration Accuracy [0.99333334] Train [0.99473882] gen_error [-0.00140548]
+Accuracy [0.99333334] [0.99473882] gen_error [-0.00140548]
+Sumamries
+Evaluation
+Accuracy [0.99022728] [0.99164182] gen_error [-0.00141454]
+Accuracy [0.99022728] [0.99164182] gen_error [-0.00141454]
+('i', 33, 'kappa', 0.37926455197275877)
+Sumamries
+Evaluation
+iteration Accuracy [0.98795456] Train [0.99007463] gen_error [-0.00212008]
+iteration Accuracy [0.9889394] Train [0.98880595] gen_error [0.00013345]
+iteration Accuracy [0.99265152] Train [0.99425375] gen_error [-0.00160223]
+Accuracy [0.99265152] [0.99425375] gen_error [-0.00160223]
+Sumamries
+Evaluation
+Accuracy [0.97454548] [0.98250002] gen_error [-0.00795454]
+Accuracy [0.98250002] [0.98294777] gen_error [-0.00044775]
+Accuracy [0.98825759] [0.99194032] gen_error [-0.00368273]
+Accuracy [0.99515152] [0.99652988] gen_error [-0.00137836]
+Accuracy [0.99515152] [0.99652988] gen_error [-0.00137836]
+('i', 34, 'kappa', 0.7482268461537002)
+Sumamries
+Evaluation
+iteration Accuracy [0.98810607] Train [0.99175376] gen_error [-0.00364769]
+iteration Accuracy [0.98856062] Train [0.99003732] gen_error [-0.00147671]
+iteration Accuracy [0.99553031] Train [0.99552238] gen_error [7.92741776e-06]
+Accuracy [0.99553031] [0.99552238] gen_error [7.92741776e-06]
+Sumamries
+Evaluation
+Accuracy [0.99272728] [0.99414182] gen_error [-0.00141454]
+Accuracy [0.99272728] [0.99414182] gen_error [-0.00141454]
+('i', 35, 'kappa', 0.06908198684597788)
+Sumamries
+Evaluation
+iteration Accuracy [0.9843182] Train [0.98690301] gen_error [-0.00258482]
+iteration Accuracy [0.98462123] Train [0.98742539] gen_error [-0.00280416]
+iteration Accuracy [0.9934091] Train [0.995] gen_error [-0.00159091]
+Accuracy [0.9934091] [0.995] gen_error [-0.00159091]
+Sumamries
+Evaluation
+Accuracy [0.99098486] [0.98861939] gen_error [0.00236547]
+Accuracy [0.99098486] [0.98861939] gen_error [0.00236547]
+('i', 36, 'kappa', 0.27095019931708564)
+Sumamries
+Evaluation
+iteration Accuracy [0.98833334] Train [0.99044776] gen_error [-0.00211442]
+iteration Accuracy [0.98628789] Train [0.98783582] gen_error [-0.00154793]
+iteration Accuracy [0.98825759] Train [0.99130595] gen_error [-0.00304836]
+iteration Accuracy [0.99462122] Train [0.99611938] gen_error [-0.00149816]
+Accuracy [0.99462122] [0.99611938] gen_error [-0.00149816]
+Sumamries
+Evaluation
+Accuracy [0.98916668] [0.99235076] gen_error [-0.00318408]
+Accuracy [0.98939395] [0.9889552] gen_error [0.00043875]
+Accuracy [0.98242426] [0.9852612] gen_error [-0.00283694]
+Accuracy [0.99386364] [0.99555969] gen_error [-0.00169605]
+Accuracy [0.99386364] [0.99555969] gen_error [-0.00169605]
+('i', 37, 'kappa', 0.5839268156792023)
+Sumamries
+Evaluation
+iteration Accuracy [0.98689395] Train [0.98798507] gen_error [-0.00109112]
+iteration Accuracy [0.99287879] Train [0.99477613] gen_error [-0.00189734]
+Accuracy [0.99287879] [0.99477613] gen_error [-0.00189734]
+Sumamries
+Evaluation
+Accuracy [0.9727273] [0.97485077] gen_error [-0.00212348]
+Accuracy [0.98742425] [0.98787314] gen_error [-0.00044888]
+Accuracy [0.99295455] [0.99462688] gen_error [-0.00167233]
+Accuracy [0.99295455] [0.99462688] gen_error [-0.00167233]
+('i', 38, 'kappa', 0.10166345620254047)
+Sumamries
+Evaluation
+iteration Accuracy [0.98886365] Train [0.99201494] gen_error [-0.0031513]
+iteration Accuracy [0.99227273] Train [0.99511194] gen_error [-0.00283921]
+Accuracy [0.99227273] [0.99511194] gen_error [-0.00283921]
+Sumamries
+Evaluation
+Accuracy [0.98265153] [0.98626864] gen_error [-0.00361711]
+Accuracy [0.99310607] [0.99492538] gen_error [-0.00181931]
+Accuracy [0.99310607] [0.99492538] gen_error [-0.00181931]
+('i', 39, 'kappa', 0.3939269639775672)
+Sumamries
+Evaluation
+iteration Accuracy [0.9853788] Train [0.9874627] gen_error [-0.0020839]
+iteration Accuracy [0.98825759] Train [0.98932838] gen_error [-0.0010708]
+iteration Accuracy [0.99136364] Train [0.9902612] gen_error [0.00110245]
+Accuracy [0.99136364] [0.9902612] gen_error [0.00110245]
+Sumamries
+Evaluation
+Accuracy [0.9859091] [0.98742539] gen_error [-0.00151628]
+Accuracy [0.98621213] [0.98671639] gen_error [-0.00050426]
+Accuracy [0.98750001] [0.98854476] gen_error [-0.00104475]
+Accuracy [0.99621212] [0.99708956] gen_error [-0.00087744]
+Accuracy [0.99621212] [0.99708956] gen_error [-0.00087744]
+('i', 40, 'kappa', 0.03169401013631934)
+Sumamries
+Evaluation
+iteration Accuracy [0.98803031] Train [0.98947763] gen_error [-0.00144732]
+iteration Accuracy [0.98954546] Train [0.99000001] gen_error [-0.00045455]
+iteration Accuracy [0.99356061] Train [0.99552238] gen_error [-0.00196177]
+Accuracy [0.99356061] [0.99552238] gen_error [-0.00196177]
+Sumamries
+Evaluation
+Accuracy [0.97727275] [0.98022389] gen_error [-0.00295115]
+Accuracy [0.99219698] [0.99268657] gen_error [-0.00048959]
+Accuracy [0.99219698] [0.99268657] gen_error [-0.00048959]
+('i', 41, 'kappa', 0.4172673411241392)
+Sumamries
+Evaluation
+iteration Accuracy [0.98810607] Train [0.9883582] gen_error [-0.00025213]
+iteration Accuracy [0.99060607] Train [0.99223882] gen_error [-0.00163275]
+Accuracy [0.99060607] [0.99223882] gen_error [-0.00163275]
+Sumamries
+Evaluation
+Accuracy [0.98750001] [0.99044776] gen_error [-0.00294775]
+Accuracy [0.98962122] [0.99033582] gen_error [-0.0007146]
+Accuracy [0.99030304] [0.98932838] gen_error [0.00097466]
+Accuracy [0.99030304] [0.98932838] gen_error [0.00097466]
+('i', 42, 'kappa', 0.3546934614400796)
+Sumamries
+Evaluation
+iteration Accuracy [0.98621213] Train [0.9874627] gen_error [-0.00125057]
+iteration Accuracy [0.99257576] Train [0.99134326] gen_error [0.0012325]
+Accuracy [0.99257576] [0.99134326] gen_error [0.0012325]
+Sumamries
+Evaluation
+Accuracy [0.98780304] [0.9893657] gen_error [-0.00156265]
+Accuracy [0.98242426] [0.98485076] gen_error [-0.00242651]
+Accuracy [0.99318182] [0.99496269] gen_error [-0.00178087]
+Accuracy [0.99318182] [0.99496269] gen_error [-0.00178087]
+('i', 43, 'kappa', 0.605627498388525)
+Sumamries
+Evaluation
+iteration Accuracy [0.97863638] Train [0.97768658] gen_error [0.0009498]
+iteration Accuracy [0.97560608] Train [0.97529852] gen_error [0.00030756]
+iteration Accuracy [0.9848485] Train [0.98914176] gen_error [-0.00429326]
+iteration Accuracy [0.98507577] Train [0.98723882] gen_error [-0.00216305]
+iteration Accuracy [0.9878788] Train [0.99119401] gen_error [-0.00331521]
+iteration Accuracy [0.99174243] Train [0.99328357] gen_error [-0.00154114]
+Accuracy [0.99174243] [0.99328357] gen_error [-0.00154114]
+Sumamries
+Evaluation
+Accuracy [0.9798485] [0.9783209] gen_error [0.00152761]
+Accuracy [0.99356061] [0.99458957] gen_error [-0.00102895]
+Accuracy [0.99356061] [0.99458957] gen_error [-0.00102895]
+('i', 44, 'kappa', 0.13238119555484273)
+Sumamries
+Evaluation
+iteration Accuracy [0.99000001] Train [0.9908582] gen_error [-0.00085819]
+Accuracy [0.99000001] [0.9908582] gen_error [-0.00085819]
+Sumamries
+Evaluation
+Accuracy [0.98681819] [0.98731345] gen_error [-0.00049525]
+Accuracy [0.98545456] [0.9855597] gen_error [-0.00010514]
+Accuracy [0.98583335] [0.98764926] gen_error [-0.00181592]
+Accuracy [0.99083334] [0.99313432] gen_error [-0.00230098]
+Accuracy [0.99083334] [0.99313432] gen_error [-0.00230098]
+('i', 45, 'kappa', 0.2606334636471156)
+Sumamries
+Evaluation
+iteration Accuracy [0.99015152] Train [0.99033582] gen_error [-0.0001843]
+Accuracy [0.99015152] [0.99033582] gen_error [-0.0001843]
+Sumamries
+Evaluation
+Accuracy [0.98772728] [0.98727614] gen_error [0.00045115]
+Accuracy [0.98901516] [0.99429107] gen_error [-0.00527591]
+Accuracy [0.99128789] [0.99391788] gen_error [-0.00263]
+Accuracy [0.99128789] [0.99391788] gen_error [-0.00263]
+('i', 46, 'kappa', 0.26524157932041004)
+Sumamries
+Evaluation
+iteration Accuracy [0.99045455] Train [0.99119401] gen_error [-0.00073946]
+Accuracy [0.99045455] [0.99119401] gen_error [-0.00073946]
+Sumamries
+Evaluation
+Accuracy [0.98159093] [0.97876865] gen_error [0.00282228]
+Accuracy [0.97863638] [0.98067164] gen_error [-0.00203526]
+Accuracy [0.99227273] [0.99208957] gen_error [0.00018317]
+Accuracy [0.99227273] [0.99208957] gen_error [0.00018317]
+('i', 47, 'kappa', 0.7926042381691483)
+Sumamries
+Evaluation
+iteration Accuracy [0.9884091] Train [0.99041045] gen_error [-0.00200135]
+iteration Accuracy [0.9919697] Train [0.99182838] gen_error [0.00014132]
+Accuracy [0.9919697] [0.99182838] gen_error [0.00014132]
+Sumamries
+Evaluation
+Accuracy [0.98757577] [0.98682839] gen_error [0.00074738]
+Accuracy [0.98946971] [0.99082088] gen_error [-0.00135118]
+Accuracy [0.98575759] [0.98798507] gen_error [-0.00222749]
+Accuracy [0.98818183] [0.98992538] gen_error [-0.00174356]
+Accuracy [0.99568182] [0.99585819] gen_error [-0.00017637]
+Accuracy [0.99568182] [0.99585819] gen_error [-0.00017637]
+('i', 48, 'kappa', 0.07954992418603468)
+Sumamries
+Evaluation
+iteration Accuracy [0.98969698] Train [0.98988807] gen_error [-0.00019109]
+iteration Accuracy [0.98568183] Train [0.98649251] gen_error [-0.00081068]
+iteration Accuracy [0.99265152] Train [0.99492538] gen_error [-0.00227386]
+Accuracy [0.99265152] [0.99492538] gen_error [-0.00227386]
+Sumamries
+Evaluation
+Accuracy [0.9919697] [0.99279851] gen_error [-0.0008288]
+Accuracy [0.9919697] [0.99279851] gen_error [-0.0008288]
+('i', 49, 'kappa', 0.01468649747768036)
+Sumamries
+Evaluation
+iteration Accuracy [0.97856063] Train [0.98149252] gen_error [-0.00293189]
+iteration Accuracy [0.98613638] Train [0.98798507] gen_error [-0.0018487]
+iteration Accuracy [0.97992426] Train [0.97985077] gen_error [7.3492527e-05]
+iteration Accuracy [0.98409092] Train [0.98604476] gen_error [-0.00195384]
+iteration Accuracy [0.99022728] Train [0.99160451] gen_error [-0.00137722]
+Accuracy [0.99022728] [0.99160451] gen_error [-0.00137722]
+Sumamries
+Evaluation
+Accuracy [0.9752273] [0.97593284] gen_error [-0.00070554]
+Accuracy [0.99113637] [0.99291044] gen_error [-0.00177407]
+Accuracy [0.99113637] [0.99291044] gen_error [-0.00177407]
+('i', 50, 'kappa', 0.7329703474767904)
+Sumamries
+Evaluation
+iteration Accuracy [0.98257577] Train [0.98656714] gen_error [-0.00399137]
+iteration Accuracy [0.98674244] Train [0.99000001] gen_error [-0.00325757]
+iteration Accuracy [0.98575759] Train [0.98809701] gen_error [-0.00233942]
+iteration Accuracy [0.98522729] Train [0.98652983] gen_error [-0.00130254]
+iteration Accuracy [0.9909091] Train [0.99305969] gen_error [-0.0021506]
+Accuracy [0.9909091] [0.99305969] gen_error [-0.0021506]
+Sumamries
+Evaluation
+Accuracy [0.99121213] [0.99347013] gen_error [-0.002258]
+Accuracy [0.99121213] [0.99347013] gen_error [-0.002258]
+('i', 51, 'kappa', 0.8432980520024939)
+Sumamries
+Evaluation
+iteration Accuracy [0.97500002] Train [0.97723883] gen_error [-0.00223881]
+iteration Accuracy [0.99030304] Train [0.99332088] gen_error [-0.00301784]
+Accuracy [0.99030304] [0.99332088] gen_error [-0.00301784]
+Sumamries
+Evaluation
+Accuracy [0.98681819] [0.98541045] gen_error [0.00140774]
+Accuracy [0.99280304] [0.99432838] gen_error [-0.00152534]
+Accuracy [0.99280304] [0.99432838] gen_error [-0.00152534]
+('i', 52, 'kappa', 0.01806713646849767)
+Sumamries
+Evaluation
+iteration Accuracy [0.96909094] Train [0.96958953] gen_error [-0.00049859]
+iteration Accuracy [0.96666664] Train [0.9672761] gen_error [-0.00060946]
+iteration Accuracy [0.98060608] Train [0.98242539] gen_error [-0.00181931]
+iteration Accuracy [0.9859091] Train [0.98858207] gen_error [-0.00267297]
+iteration Accuracy [0.99621212] Train [0.99735075] gen_error [-0.00113863]
+Accuracy [0.99621212] [0.99735075] gen_error [-0.00113863]
+Sumamries
+Evaluation
+Accuracy [0.98151517] [0.98156714] gen_error [-5.19752502e-05]
+Accuracy [0.98681819] [0.98832089] gen_error [-0.00150269]
+Accuracy [0.9848485] [0.98455226] gen_error [0.00029624]
+Accuracy [0.99371213] [0.9947015] gen_error [-0.00098938]
+Accuracy [0.99371213] [0.9947015] gen_error [-0.00098938]
+('i', 53, 'kappa', 0.3779198702470913)
+Sumamries
+Evaluation
+iteration Accuracy [0.98742425] Train [0.98925376] gen_error [-0.0018295]
+iteration Accuracy [0.99333334] Train [0.99597013] gen_error [-0.00263679]
+Accuracy [0.99333334] [0.99597013] gen_error [-0.00263679]
+Sumamries
+Evaluation
+Accuracy [0.98803031] [0.98947763] gen_error [-0.00144732]
+Accuracy [0.98583335] [0.98723882] gen_error [-0.00140548]
+Accuracy [0.98946971] [0.99152982] gen_error [-0.00206012]
+Accuracy [0.99492425] [0.99630594] gen_error [-0.0013817]
+Accuracy [0.99492425] [0.99630594] gen_error [-0.0013817]
+('i', 54, 'kappa', 0.26989998809831883)
+Sumamries
+Evaluation
+iteration Accuracy [0.98424244] Train [0.98593283] gen_error [-0.00169039]
+iteration Accuracy [0.99227273] Train [0.99276119] gen_error [-0.00048846]
+Accuracy [0.99227273] [0.99276119] gen_error [-0.00048846]
+Sumamries
+Evaluation
+Accuracy [0.96863633] [0.97324628] gen_error [-0.00460994]
+Accuracy [0.98628789] [0.98798507] gen_error [-0.00169718]
+Accuracy [0.99166667] [0.99328357] gen_error [-0.0016169]
+Accuracy [0.99166667] [0.99328357] gen_error [-0.0016169]
+('i', 55, 'kappa', 0.004032681821829254)
+Sumamries
+Evaluation
+iteration Accuracy [0.98772728] Train [0.99149251] gen_error [-0.00376523]
+iteration Accuracy [0.99007577] Train [0.99171644] gen_error [-0.00164068]
+Accuracy [0.99007577] [0.99171644] gen_error [-0.00164068]
+Sumamries
+Evaluation
+Accuracy [0.98742425] [0.9896642] gen_error [-0.00223994]
+Accuracy [0.99212122] [0.99257463] gen_error [-0.00045341]
+Accuracy [0.99212122] [0.99257463] gen_error [-0.00045341]
+('i', 56, 'kappa', 0.5728808970310295)
+Sumamries
+Evaluation
+iteration Accuracy [0.97492427] Train [0.97268659] gen_error [0.00223768]
+iteration Accuracy [0.99272728] Train [0.99402988] gen_error [-0.0013026]
+Accuracy [0.99272728] [0.99402988] gen_error [-0.0013026]
+Sumamries
+Evaluation
+Accuracy [0.98583335] [0.98914176] gen_error [-0.00330842]
+Accuracy [0.99045455] [0.99119401] gen_error [-0.00073946]
+Accuracy [0.99045455] [0.99119401] gen_error [-0.00073946]
+('i', 57, 'kappa', 0.4951041529726288)
+Sumamries
+Evaluation
+iteration Accuracy [0.96204543] Train [0.96690297] gen_error [-0.00485754]
+iteration Accuracy [0.98856062] Train [0.99041045] gen_error [-0.00184983]
+iteration Accuracy [0.9793182] Train [0.98417908] gen_error [-0.00486088]
+iteration Accuracy [0.98984849] Train [0.99152982] gen_error [-0.00168133]
+iteration Accuracy [0.99174243] Train [0.99511194] gen_error [-0.00336951]
+Accuracy [0.99174243] [0.99511194] gen_error [-0.00336951]
+Sumamries
+Evaluation
+Accuracy [0.9853788] [0.98623133] gen_error [-0.00085253]
+Accuracy [0.9843182] [0.98563433] gen_error [-0.00131613]
+Accuracy [0.98909092] [0.99104476] gen_error [-0.00195384]
+Accuracy [0.995] [0.99712688] gen_error [-0.00212687]
+Accuracy [0.995] [0.99712688] gen_error [-0.00212687]
+('i', 58, 'kappa', 0.9568859992729183)
+Sumamries
+Evaluation
+iteration Accuracy [0.98757577] Train [0.99220151] gen_error [-0.00462574]
+iteration Accuracy [0.98621213] Train [0.98988807] gen_error [-0.00367594]
+iteration Accuracy [0.98750001] Train [0.99212688] gen_error [-0.00462687]
+iteration Accuracy [0.99287879] Train [0.9941045] gen_error [-0.00122571]
+Accuracy [0.99287879] [0.9941045] gen_error [-0.00122571]
+Sumamries
+Evaluation
+Accuracy [0.98750001] [0.9877612] gen_error [-0.00026119]
+Accuracy [0.9909091] [0.99227613] gen_error [-0.00136703]
+Accuracy [0.9909091] [0.99227613] gen_error [-0.00136703]
+('i', 59, 'kappa', 0.06872614164318813)
+Sumamries
+Evaluation
+iteration Accuracy [0.98166668] Train [0.98343283] gen_error [-0.00176615]
+iteration Accuracy [0.99242425] Train [0.99358207] gen_error [-0.00115782]
+Accuracy [0.99242425] [0.99358207] gen_error [-0.00115782]
+Sumamries
+Evaluation
+Accuracy [0.98992425] [0.98970151] gen_error [0.00022274]
+Accuracy [0.99151516] [0.99291044] gen_error [-0.00139529]
+Accuracy [0.99151516] [0.99291044] gen_error [-0.00139529]
+('i', 60, 'kappa', 0.3198632699706073)
+Sumamries
+Evaluation
+iteration Accuracy [0.98795456] Train [0.98891789] gen_error [-0.00096333]
+iteration Accuracy [0.98696971] Train [0.98977613] gen_error [-0.00280643]
+iteration Accuracy [0.99219698] Train [0.99462688] gen_error [-0.0024299]
+Accuracy [0.99219698] [0.99462688] gen_error [-0.0024299]
+Sumamries
+Evaluation
+Accuracy [0.97893941] [0.9833582] gen_error [-0.00441879]
+Accuracy [0.99136364] [0.99171644] gen_error [-0.0003528]
+Accuracy [0.99136364] [0.99171644] gen_error [-0.0003528]
+('i', 61, 'kappa', 0.17834116911492537)
+Sumamries
+Evaluation
+iteration Accuracy [0.98962122] Train [0.99074626] gen_error [-0.00112504]
+iteration Accuracy [0.99242425] Train [0.99417913] gen_error [-0.00175488]
+Accuracy [0.99242425] [0.99417913] gen_error [-0.00175488]
+Sumamries
+Evaluation
+Accuracy [0.97992426] [0.98291045] gen_error [-0.00298619]
+Accuracy [0.99454546] [0.99623132] gen_error [-0.00168586]
+Accuracy [0.99454546] [0.99623132] gen_error [-0.00168586]
+('i', 62, 'kappa', 0.053178801822208244)
+Sumamries
+Evaluation
+iteration Accuracy [0.99000001] Train [0.99160451] gen_error [-0.0016045]
+Accuracy [0.99000001] [0.99160451] gen_error [-0.0016045]
+Sumamries
+Evaluation
+Accuracy [0.98969698] [0.99257463] gen_error [-0.00287765]
+Accuracy [0.99356061] [0.99514925] gen_error [-0.00158864]
+Accuracy [0.99356061] [0.99514925] gen_error [-0.00158864]
+('i', 63, 'kappa', 0.07914949322642306)
+Sumamries
+Evaluation
+iteration Accuracy [0.9878788] Train [0.9905597] gen_error [-0.0026809]
+iteration Accuracy [0.9843182] Train [0.98626864] gen_error [-0.00195044]
+iteration Accuracy [0.99189395] Train [0.99339551] gen_error [-0.00150156]
+Accuracy [0.99189395] [0.99339551] gen_error [-0.00150156]
+Sumamries
+Evaluation
+Accuracy [0.98393941] [0.98589551] gen_error [-0.00195611]
+Accuracy [0.98477274] [0.9868657] gen_error [-0.00209296]
+Accuracy [0.98643941] [0.98723882] gen_error [-0.00079942]
+Accuracy [0.995] [0.99708956] gen_error [-0.00208956]
+Accuracy [0.995] [0.99708956] gen_error [-0.00208956]
+('i', 64, 'kappa', 0.9406044562340137)
+Sumamries
+Evaluation
+iteration Accuracy [0.98757577] Train [0.99059701] gen_error [-0.00302124]
+iteration Accuracy [0.99234849] Train [0.99376863] gen_error [-0.00142014]
+Accuracy [0.99234849] [0.99376863] gen_error [-0.00142014]
+Sumamries
+Evaluation
+Accuracy [0.98613638] [0.98570895] gen_error [0.00042742]
+Accuracy [0.99333334] [0.99503732] gen_error [-0.00170398]
+Accuracy [0.99333334] [0.99503732] gen_error [-0.00170398]
+('i', 65, 'kappa', 0.7203134584708617)
+Sumamries
+Evaluation
+iteration Accuracy [0.98219699] Train [0.98339552] gen_error [-0.00119853]
+iteration Accuracy [0.99136364] Train [0.99276119] gen_error [-0.00139755]
+Accuracy [0.99136364] [0.99276119] gen_error [-0.00139755]
+Sumamries
+Evaluation
+Accuracy [0.99045455] [0.99126863] gen_error [-0.00081408]
+Accuracy [0.99045455] [0.99126863] gen_error [-0.00081408]
+('i', 66, 'kappa', 0.21835469650092143)
+Sumamries
+Evaluation
+iteration Accuracy [0.97962123] Train [0.9758209] gen_error [0.00380033]
+iteration Accuracy [0.98924243] Train [0.9899627] gen_error [-0.00072026]
+iteration Accuracy [0.98348486] Train [0.98694032] gen_error [-0.00345546]
+iteration Accuracy [0.99439394] Train [0.99462688] gen_error [-0.00023293]
+Accuracy [0.99439394] [0.99462688] gen_error [-0.00023293]
+Sumamries
+Evaluation
+Accuracy [0.98992425] [0.99018657] gen_error [-0.00026232]
+Accuracy [0.9793182] [0.97738808] gen_error [0.00193012]
+Accuracy [0.9939394] [0.99578357] gen_error [-0.00184417]
+Accuracy [0.9939394] [0.99578357] gen_error [-0.00184417]
+('i', 67, 'kappa', 0.49300561986619185)
+Sumamries
+Evaluation
+iteration Accuracy [0.97863638] Train [0.98033583] gen_error [-0.00169945]
+iteration Accuracy [0.99098486] Train [0.99197763] gen_error [-0.00099277]
+Accuracy [0.99098486] [0.99197763] gen_error [-0.00099277]
+Sumamries
+Evaluation
+Accuracy [0.99000001] [0.9914552] gen_error [-0.00145519]
+Accuracy [0.99000001] [0.9914552] gen_error [-0.00145519]
+('i', 68, 'kappa', 0.8122357567560221)
+Sumamries
+Evaluation
+iteration Accuracy [0.98886365] Train [0.99074626] gen_error [-0.00188261]
+iteration Accuracy [0.98818183] Train [0.99059701] gen_error [-0.00241518]
+iteration Accuracy [0.98666668] Train [0.9883582] gen_error [-0.00169152]
+iteration Accuracy [0.99053031] Train [0.98988807] gen_error [0.00064224]
+Accuracy [0.99053031] [0.98988807] gen_error [0.00064224]
+Sumamries
+Evaluation
+Accuracy [0.98121214] [0.98354477] gen_error [-0.00233263]
+Accuracy [0.99439394] [0.99451494] gen_error [-0.000121]
+Accuracy [0.99439394] [0.99451494] gen_error [-0.000121]
+('i', 69, 'kappa', 0.6747357526500763)
+Sumamries
+Evaluation
+iteration Accuracy [0.98522729] Train [0.98910445] gen_error [-0.00387716]
+iteration Accuracy [0.9873485] Train [0.99029851] gen_error [-0.00295001]
+iteration Accuracy [0.98810607] Train [0.98850745] gen_error [-0.00040138]
+iteration Accuracy [0.98378789] Train [0.98421639] gen_error [-0.0004285]
+iteration Accuracy [0.99272728] Train [0.99522388] gen_error [-0.0024966]
+Accuracy [0.99272728] [0.99522388] gen_error [-0.0024966]
+Sumamries
+Evaluation
+Accuracy [0.97401518] [0.97235072] gen_error [0.00166446]
+Accuracy [0.99106061] [0.9905597] gen_error [0.00050092]
+Accuracy [0.99106061] [0.9905597] gen_error [0.00050092]
+('i', 70, 'kappa', 0.8940829901113277)
+Sumamries
+Evaluation
+iteration Accuracy [0.98954546] Train [0.99171644] gen_error [-0.00217098]
+iteration Accuracy [0.99030304] Train [0.99208957] gen_error [-0.00178653]
+Accuracy [0.99030304] [0.99208957] gen_error [-0.00178653]
+Sumamries
+Evaluation
+Accuracy [0.98803031] [0.98876864] gen_error [-0.00073832]
+Accuracy [0.99166667] [0.99220151] gen_error [-0.00053483]
+Accuracy [0.99166667] [0.99220151] gen_error [-0.00053483]
+('i', 71, 'kappa', 0.18784192397935862)
+Sumamries
+Evaluation
+iteration Accuracy [0.98856062] Train [0.99235076] gen_error [-0.00379014]
+iteration Accuracy [0.99378788] Train [0.99563432] gen_error [-0.00184643]
+Accuracy [0.99378788] [0.99563432] gen_error [-0.00184643]
+Sumamries
+Evaluation
+Accuracy [0.98780304] [0.99108207] gen_error [-0.00327903]
+Accuracy [0.98219699] [0.98455226] gen_error [-0.00235528]
+Accuracy [0.99113637] [0.99294776] gen_error [-0.00181139]
+Accuracy [0.99113637] [0.99294776] gen_error [-0.00181139]
+('i', 72, 'kappa', 0.05914772960090986)
+Sumamries
+Evaluation
+iteration Accuracy [0.98674244] Train [0.9889552] gen_error [-0.00221276]
+iteration Accuracy [0.98530304] Train [0.98757464] gen_error [-0.00227159]
+iteration Accuracy [0.98969698] Train [0.99134326] gen_error [-0.00164628]
+iteration Accuracy [0.99212122] Train [0.99425375] gen_error [-0.00213253]
+Accuracy [0.99212122] [0.99425375] gen_error [-0.00213253]
+Sumamries
+Evaluation
+Accuracy [0.97886366] [0.98078358] gen_error [-0.00191993]
+Accuracy [0.98606062] [0.98768657] gen_error [-0.00162596]
+Accuracy [0.99507576] [0.99671644] gen_error [-0.00164068]
+Accuracy [0.99507576] [0.99671644] gen_error [-0.00164068]
+('i', 73, 'kappa', 0.49235606340525806)
+Sumamries
+Evaluation
+iteration Accuracy [0.98136365] Train [0.98391789] gen_error [-0.00255424]
+iteration Accuracy [0.99106061] Train [0.99332088] gen_error [-0.00226027]
+Accuracy [0.99106061] [0.99332088] gen_error [-0.00226027]
+Sumamries
+Evaluation
+Accuracy [0.97901517] [0.97533584] gen_error [0.00367934]
+Accuracy [0.99128789] [0.99134326] gen_error [-5.5372715e-05]
+Accuracy [0.99128789] [0.99134326] gen_error [-5.5372715e-05]
+('i', 74, 'kappa', 0.31203667166724935)
+Sumamries
+Evaluation
+iteration Accuracy [0.98689395] Train [0.98925376] gen_error [-0.00235981]
+iteration Accuracy [0.99272728] Train [0.99287313] gen_error [-0.00014585]
+Accuracy [0.99272728] [0.99287313] gen_error [-0.00014585]
+Sumamries
+Evaluation
+Accuracy [0.97030306] [0.97488809] gen_error [-0.00458503]
+Accuracy [0.9903788] [0.99022388] gen_error [0.00015491]
+Accuracy [0.9903788] [0.99022388] gen_error [0.00015491]
+('i', 75, 'kappa', 0.98436984241771)
+Sumamries
+Evaluation
+iteration Accuracy [0.9878788] Train [0.98891789] gen_error [-0.00103909]
+iteration Accuracy [0.99227273] Train [0.9941045] gen_error [-0.00183177]
+Accuracy [0.99227273] [0.9941045] gen_error [-0.00183177]
+Sumamries
+Evaluation
+Accuracy [0.98007578] [0.98410445] gen_error [-0.00402868]
+Accuracy [0.98969698] [0.99279851] gen_error [-0.00310153]
+Accuracy [0.98924243] [0.98973882] gen_error [-0.00049639]
+Accuracy [0.99484849] [0.99541044] gen_error [-0.00056195]
+Accuracy [0.99484849] [0.99541044] gen_error [-0.00056195]
+('i', 76, 'kappa', 0.6397928838423486)
+Sumamries
+Evaluation
+iteration Accuracy [0.99075758] Train [0.99283582] gen_error [-0.00207824]
+Accuracy [0.99075758] [0.99283582] gen_error [-0.00207824]
+Sumamries
+Evaluation
+Accuracy [0.98113638] [0.98634326] gen_error [-0.00520688]
+Accuracy [0.97636366] [0.97783583] gen_error [-0.00147218]
+Accuracy [0.98568183] [0.98723882] gen_error [-0.00155699]
+Accuracy [0.98901516] [0.99082088] gen_error [-0.00180572]
+Accuracy [0.99371213] [0.99466419] gen_error [-0.00095206]
+Accuracy [0.99371213] [0.99466419] gen_error [-0.00095206]
+('i', 77, 'kappa', 0.2573798585974939)
+Sumamries
+Evaluation
+iteration Accuracy [0.97803032] Train [0.98190296] gen_error [-0.00387263]
+iteration Accuracy [0.98674244] Train [0.99111938] gen_error [-0.00437695]
+iteration Accuracy [0.98500001] Train [0.98783582] gen_error [-0.00283581]
+iteration Accuracy [0.99409091] Train [0.99611938] gen_error [-0.00202847]
+Accuracy [0.99409091] [0.99611938] gen_error [-0.00202847]
+Sumamries
+Evaluation
+Accuracy [0.98295456] [0.98977613] gen_error [-0.00682157]
+Accuracy [0.97750002] [0.98541045] gen_error [-0.00791043]
+Accuracy [0.98969698] [0.99477613] gen_error [-0.00507915]
+Accuracy [0.98386365] [0.98455226] gen_error [-0.00068861]
+Accuracy [0.99121213] [0.99093282] gen_error [0.00027931]
+Accuracy [0.99121213] [0.99093282] gen_error [0.00027931]
+('i', 78, 'kappa', 0.2677043514122702)
+Sumamries
+Evaluation
+iteration Accuracy [0.97810608] Train [0.98141789] gen_error [-0.00331181]
+iteration Accuracy [0.98500001] Train [0.98537314] gen_error [-0.00037313]
+iteration Accuracy [0.99015152] Train [0.99220151] gen_error [-0.00204998]
+Accuracy [0.99015152] [0.99220151] gen_error [-0.00204998]
+Sumamries
+Evaluation
+Accuracy [0.97318184] [0.97309703] gen_error [8.48174095e-05]
+Accuracy [0.99151516] [0.99212688] gen_error [-0.00061172]
+Accuracy [0.99151516] [0.99212688] gen_error [-0.00061172]
+('i', 79, 'kappa', 0.33263022198024994)
+Sumamries
+Evaluation
+iteration Accuracy [0.98674244] Train [0.9874627] gen_error [-0.00072026]
+iteration Accuracy [0.99053031] Train [0.99320894] gen_error [-0.00267863]
+Accuracy [0.99053031] [0.99320894] gen_error [-0.00267863]
+Sumamries
+Evaluation
+Accuracy [0.98727274] [0.99074626] gen_error [-0.00347352]
+Accuracy [0.9919697] [0.99276119] gen_error [-0.00079149]
+Accuracy [0.9919697] [0.99276119] gen_error [-0.00079149]
+('i', 80, 'kappa', 0.7701654682607467)
+Sumamries
+Evaluation
+iteration Accuracy [0.97719699] Train [0.97779852] gen_error [-0.00060153]
+iteration Accuracy [0.99098486] Train [0.99276119] gen_error [-0.00177634]
+Accuracy [0.99098486] [0.99276119] gen_error [-0.00177634]
+Sumamries
+Evaluation
+Accuracy [0.98492426] [0.98925376] gen_error [-0.0043295]
+Accuracy [0.99083334] [0.99175376] gen_error [-0.00092041]
+Accuracy [0.99083334] [0.99175376] gen_error [-0.00092041]
+('i', 81, 'kappa', 0.06649578504660125)
+Sumamries
+Evaluation
+iteration Accuracy [0.98363638] Train [0.98582089] gen_error [-0.00218451]
+iteration Accuracy [0.97530305] Train [0.97645521] gen_error [-0.00115216]
+iteration Accuracy [0.99189395] Train [0.99466419] gen_error [-0.00277025]
+Accuracy [0.99189395] [0.99466419] gen_error [-0.00277025]
+Sumamries
+Evaluation
+Accuracy [0.98689395] [0.98824626] gen_error [-0.00135231]
+Accuracy [0.99106061] [0.99130595] gen_error [-0.00024533]
+Accuracy [0.99106061] [0.99130595] gen_error [-0.00024533]
+('i', 82, 'kappa', 0.6070429945568379)
+Sumamries
+Evaluation
+iteration Accuracy [0.98833334] Train [0.99018657] gen_error [-0.00185323]
+iteration Accuracy [0.95712119] Train [0.9613806] gen_error [-0.00425941]
+iteration Accuracy [0.99507576] Train [0.99518657] gen_error [-0.00011081]
+Accuracy [0.99507576] [0.99518657] gen_error [-0.00011081]
+Sumamries
+Evaluation
+Accuracy [0.98575759] [0.9874627] gen_error [-0.00170511]
+Accuracy [0.9889394] [0.99097013] gen_error [-0.00203073]
+Accuracy [0.99136364] [0.99246269] gen_error [-0.00109905]
+Accuracy [0.99136364] [0.99246269] gen_error [-0.00109905]
+('i', 83, 'kappa', 0.7852172228478386)
+Sumamries
+Evaluation
+iteration Accuracy [0.98143941] Train [0.98320895] gen_error [-0.00176954]
+iteration Accuracy [0.99439394] Train [0.99611938] gen_error [-0.00172544]
+Accuracy [0.99439394] [0.99611938] gen_error [-0.00172544]
+Sumamries
+Evaluation
+Accuracy [0.97212124] [0.97235072] gen_error [-0.00022948]
+Accuracy [0.99250001] [0.99395519] gen_error [-0.00145519]
+Accuracy [0.99250001] [0.99395519] gen_error [-0.00145519]
+('i', 84, 'kappa', 0.07928819413608135)
+Sumamries
+Evaluation
+iteration Accuracy [0.98651516] Train [0.98970151] gen_error [-0.00318635]
+iteration Accuracy [0.98272729] Train [0.98339552] gen_error [-0.00066823]
+iteration Accuracy [0.98121214] Train [0.98257464] gen_error [-0.0013625]
+iteration Accuracy [0.99424243] Train [0.99511194] gen_error [-0.00086951]
+Accuracy [0.99424243] [0.99511194] gen_error [-0.00086951]
+Sumamries
+Evaluation
+Accuracy [0.98856062] [0.9893657] gen_error [-0.00080508]
+Accuracy [0.99174243] [0.99429107] gen_error [-0.00254864]
+Accuracy [0.99174243] [0.99429107] gen_error [-0.00254864]
+('i', 85, 'kappa', 0.4705335657279853)
+Sumamries
+Evaluation
+iteration Accuracy [0.9909091] Train [0.99044776] gen_error [0.00046134]
+Accuracy [0.9909091] [0.99044776] gen_error [0.00046134]
+Sumamries
+Evaluation
+Accuracy [0.98810607] [0.98951495] gen_error [-0.00140887]
+Accuracy [0.99348485] [0.99555969] gen_error [-0.00207484]
+Accuracy [0.99348485] [0.99555969] gen_error [-0.00207484]
+('i', 86, 'kappa', 0.14951736055337062)
+Sumamries
+Evaluation
+iteration Accuracy [0.97606063] Train [0.98104477] gen_error [-0.00498414]
+iteration Accuracy [0.99469697] Train [0.99492538] gen_error [-0.0002284]
+Accuracy [0.99469697] [0.99492538] gen_error [-0.0002284]
+Sumamries
+Evaluation
+Accuracy [0.99030304] [0.99182838] gen_error [-0.00152534]
+Accuracy [0.99030304] [0.99182838] gen_error [-0.00152534]
+('i', 87, 'kappa', 0.2888711433742688)
+Sumamries
+Evaluation
+iteration Accuracy [0.99113637] Train [0.99235076] gen_error [-0.00121439]
+Accuracy [0.99113637] [0.99235076] gen_error [-0.00121439]
+Sumamries
+Evaluation
+Accuracy [0.98507577] [0.98451495] gen_error [0.00056082]
+Accuracy [0.99454546] [0.99641794] gen_error [-0.00187248]
+Accuracy [0.99454546] [0.99641794] gen_error [-0.00187248]
+('i', 88, 'kappa', 0.42225682764926575)
+Sumamries
+Evaluation
+iteration Accuracy [0.99113637] Train [0.99347013] gen_error [-0.00233376]
+Accuracy [0.99113637] [0.99347013] gen_error [-0.00233376]
+Sumamries
+Evaluation
+Accuracy [0.98522729] [0.98447764] gen_error [0.00074965]
+Accuracy [0.99181819] [0.99402988] gen_error [-0.00221169]
+Accuracy [0.99181819] [0.99402988] gen_error [-0.00221169]
+('i', 89, 'kappa', 0.5453068362566917)
+Sumamries
+Evaluation
+iteration Accuracy [0.98310608] Train [0.98298508] gen_error [0.000121]
+iteration Accuracy [0.98007578] Train [0.9833582] gen_error [-0.00328243]
+iteration Accuracy [0.98901516] Train [0.99126863] gen_error [-0.00225347]
+iteration Accuracy [0.98666668] Train [0.9902612] gen_error [-0.00359452]
+iteration Accuracy [0.99007577] Train [0.99332088] gen_error [-0.00324512]
+Accuracy [0.99007577] [0.99332088] gen_error [-0.00324512]
+Sumamries
+Evaluation
+Accuracy [0.98886365] [0.9911567] gen_error [-0.00229305]
+Accuracy [0.97151518] [0.9727239] gen_error [-0.00120872]
+Accuracy [0.99477273] [0.99630594] gen_error [-0.00153321]
+Accuracy [0.99477273] [0.99630594] gen_error [-0.00153321]
+('i', 90, 'kappa', 0.7082564320596698)
+Sumamries
+Evaluation
+iteration Accuracy [0.97204548] Train [0.97809702] gen_error [-0.00605154]
+iteration Accuracy [0.99181819] Train [0.99235076] gen_error [-0.00053257]
+Accuracy [0.99181819] [0.99235076] gen_error [-0.00053257]
+Sumamries
+Evaluation
+Accuracy [0.9878788] [0.98753732] gen_error [0.00034148]
+Accuracy [0.99371213] [0.99615669] gen_error [-0.00244457]
+Accuracy [0.99371213] [0.99615669] gen_error [-0.00244457]
+('i', 91, 'kappa', 0.9013988239098677)
+Sumamries
+Evaluation
+iteration Accuracy [0.98878789] Train [0.99059701] gen_error [-0.00180912]
+iteration Accuracy [0.99174243] Train [0.99298507] gen_error [-0.00124264]
+Accuracy [0.99174243] [0.99298507] gen_error [-0.00124264]
+Sumamries
+Evaluation
+Accuracy [0.98462123] [0.98563433] gen_error [-0.0010131]
+Accuracy [0.96257573] [0.9613806] gen_error [0.00119513]
+Accuracy [0.98757577] [0.98932838] gen_error [-0.00175261]
+Accuracy [0.98765153] [0.98832089] gen_error [-0.00066936]
+Accuracy [0.99568182] [0.99638057] gen_error [-0.00069875]
+Accuracy [0.99568182] [0.99638057] gen_error [-0.00069875]
+('i', 92, 'kappa', 0.004643084787626206)
+Sumamries
+Evaluation
+iteration Accuracy [0.98280305] Train [0.98802239] gen_error [-0.00521934]
+iteration Accuracy [0.99022728] Train [0.99253732] gen_error [-0.00231004]
+Accuracy [0.99022728] [0.99253732] gen_error [-0.00231004]
+Sumamries
+Evaluation
+Accuracy [0.98098487] [0.98447764] gen_error [-0.00349277]
+Accuracy [0.99060607] [0.99182838] gen_error [-0.00122231]
+Accuracy [0.99060607] [0.99182838] gen_error [-0.00122231]
+('i', 93, 'kappa', 0.9610947535772838)
+Sumamries
+Evaluation
+iteration Accuracy [0.98833334] Train [0.98955226] gen_error [-0.00121891]
+iteration Accuracy [0.99000001] Train [0.99018657] gen_error [-0.00018656]
+Accuracy [0.99000001] [0.99018657] gen_error [-0.00018656]
+Sumamries
+Evaluation
+Accuracy [0.98477274] [0.98701495] gen_error [-0.00224221]
+Accuracy [0.99106061] [0.99242538] gen_error [-0.00136477]
+Accuracy [0.99106061] [0.99242538] gen_error [-0.00136477]
+('i', 94, 'kappa', 0.9823846868905121)
+Sumamries
+Evaluation
+iteration Accuracy [0.97477275] Train [0.97727615] gen_error [-0.0025034]
+iteration Accuracy [0.99159092] Train [0.99402988] gen_error [-0.00243896]
+Accuracy [0.99159092] [0.99402988] gen_error [-0.00243896]
+Sumamries
+Evaluation
+Accuracy [0.98568183] [0.98787314] gen_error [-0.00219131]
+Accuracy [0.98916668] [0.99022388] gen_error [-0.00105721]
+Accuracy [0.99469697] [0.99645525] gen_error [-0.00175828]
+Accuracy [0.99469697] [0.99645525] gen_error [-0.00175828]
+('i', 95, 'kappa', 0.29295414724278834)
+Sumamries
+Evaluation
+iteration Accuracy [0.98704547] Train [0.98902982] gen_error [-0.00198436]
+iteration Accuracy [0.99083334] Train [0.9908582] gen_error [-2.48551369e-05]
+Accuracy [0.99083334] [0.9908582] gen_error [-2.48551369e-05]
+Sumamries
+Evaluation
+Accuracy [0.97863638] [0.98011196] gen_error [-0.00147557]
+Accuracy [0.97674245] [0.98343283] gen_error [-0.00669038]
+Accuracy [0.99295455] [0.99455225] gen_error [-0.0015977]
+Accuracy [0.99295455] [0.99455225] gen_error [-0.0015977]
+('i', 96, 'kappa', 0.6655702681685837)
+Sumamries
+Evaluation
+iteration Accuracy [0.98545456] Train [0.98656714] gen_error [-0.00111258]
+iteration Accuracy [0.98886365] Train [0.98921645] gen_error [-0.0003528]
+iteration Accuracy [0.99265152] Train [0.99399257] gen_error [-0.00134104]
+Accuracy [0.99265152] [0.99399257] gen_error [-0.00134104]
+Sumamries
+Evaluation
+Accuracy [0.98515153] [0.98589551] gen_error [-0.00074399]
+Accuracy [0.98666668] [0.98914176] gen_error [-0.00247508]
+Accuracy [0.99333334] [0.99458957] gen_error [-0.00125623]
+Accuracy [0.99333334] [0.99458957] gen_error [-0.00125623]
+('i', 97, 'kappa', 0.9954247712911523)
+Sumamries
+Evaluation
+iteration Accuracy [0.96871209] Train [0.97108209] gen_error [-0.00237]
+iteration Accuracy [0.98916668] Train [0.99011195] gen_error [-0.00094527]
+iteration Accuracy [0.98166668] Train [0.98291045] gen_error [-0.00124377]
+iteration Accuracy [0.99515152] Train [0.99619401] gen_error [-0.00104249]
+Accuracy [0.99515152] [0.99619401] gen_error [-0.00104249]
+Sumamries
+Evaluation
+Accuracy [0.98992425] [0.99138057] gen_error [-0.00145632]
+Accuracy [0.98818183] [0.9893657] gen_error [-0.00118387]
+Accuracy [0.9889394] [0.98944032] gen_error [-0.00050092]
+Accuracy [0.98712122] [0.9886567] gen_error [-0.00153548]
+Accuracy [0.98856062] [0.9914552] gen_error [-0.00289458]
+Accuracy [0.99151516] [0.99317163] gen_error [-0.00165647]
+Accuracy [0.99151516] [0.99317163] gen_error [-0.00165647]
+('i', 98, 'kappa', 0.12707504011227044)
+Sumamries
+Evaluation
+iteration Accuracy [0.98000002] Train [0.98179102] gen_error [-0.001791]
+iteration Accuracy [0.99075758] Train [0.99257463] gen_error [-0.00181705]
+Accuracy [0.99075758] [0.99257463] gen_error [-0.00181705]
+Sumamries
+Evaluation
+Accuracy [0.98553032] [0.98578358] gen_error [-0.00025326]
+Accuracy [0.99053031] [0.98977613] gen_error [0.00075418]
+Accuracy [0.99053031] [0.98977613] gen_error [0.00075418]
+('i', 99, 'kappa', 0.29616003533247015)
+Sumamries
+Evaluation
+iteration Accuracy [0.96954548] Train [0.97063434] gen_error [-0.00108886]
+iteration Accuracy [0.97659093] Train [0.98123133] gen_error [-0.0046404]
+iteration Accuracy [0.99174243] Train [0.99384326] gen_error [-0.00210083]
+Accuracy [0.99174243] [0.99384326] gen_error [-0.00210083]
+Sumamries
+Evaluation
+Accuracy [0.98621213] [0.9871642] gen_error [-0.00095206]
+Accuracy [0.9853788] [0.98925376] gen_error [-0.00387496]
+Accuracy [0.99280304] [0.99432838] gen_error [-0.00152534]
+Accuracy [0.99280304] [0.99432838] gen_error [-0.00152534]

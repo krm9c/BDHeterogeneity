@@ -1,0 +1,7 @@
+('Train', (6000, 5000), 'Test', (1000, 5000))
+The data has been imported and ready
+('Details', 'gisette_grad.csv', 'gisette', 100, 64, 40)
+My changes have saved itself('i', 0, 'kappa', 0.2290792636676552)
+Sumamries
+Evaluation
+iteration Accuracy [0.92400002] Train [0.97816664] gen_error [-0.05416662]

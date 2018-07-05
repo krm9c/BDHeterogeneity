@@ -1,0 +1,38 @@
+('classes', 4)
+('filename', 'rolling_normal_EDL.csv')
+('Details', 'rolling_normal_EDL.csv', 'rolling', 100, 128, 50)
+('i', 0, 'kappa', 0.1285885464621337)
+Evaluation
+initializing variables
+return stuff
+Accuracy [0.83212119] [0.82832092] gen_error [0.00380027]
+Accuracy [0.88280302] [0.88093281] gen_error [0.00187021]
+Accuracy [0.92409092] [0.92563432] gen_error [-0.0015434]
+Accuracy [0.93954545] [0.93917912] gen_error [0.00036633]
+Accuracy [0.94492424] [0.94492537] gen_error [-1.13248825e-06]
+Accuracy [0.95242423] [0.9532463] gen_error [-0.00082207]
+Accuracy [0.95757574] [0.96011192] gen_error [-0.00253618]
+Accuracy [0.95863634] [0.96145523] gen_error [-0.00281888]
+Accuracy [0.96204543] [0.9654851] gen_error [-0.00343966]
+Accuracy [0.96348482] [0.96798509] gen_error [-0.00450027]
+Accuracy [0.96553028] [0.96947759] gen_error [-0.00394732]
+Accuracy [0.96666664] [0.96802241] gen_error [-0.00135577]
+Accuracy [0.96795452] [0.97026122] gen_error [-0.0023067]
+Accuracy [0.97227275] [0.97276121] gen_error [-0.00048846]
+Accuracy [0.96643937] [0.96824628] gen_error [-0.00180691]
+Accuracy [0.97280306] [0.97593284] gen_error [-0.00312978]
+Accuracy [0.97454548] [0.9745149] gen_error [3.05771828e-05]
+Accuracy [0.9727273] [0.97216415] gen_error [0.00056314]
+Accuracy [0.9752273] [0.9767164] gen_error [-0.0014891]
+Accuracy [0.97810608] [0.97902983] gen_error [-0.00092375]
+Accuracy [0.97810608] [0.97996271] gen_error [-0.00185663]
+Accuracy [0.97893941] [0.97835821] gen_error [0.0005812]
+Accuracy [0.98106062] [0.98223883] gen_error [-0.00117821]
+Accuracy [0.97772729] [0.97858208] gen_error [-0.00085479]
+Accuracy [0.97863638] [0.97936565] gen_error [-0.00072926]
+Accuracy [0.98212123] [0.98257464] gen_error [-0.00045341]
+Accuracy [0.98310608] [0.98347014] gen_error [-0.00036407]
+Accuracy [0.98515153] [0.98652983] gen_error [-0.0013783]
+Accuracy [0.98393941] [0.98444033] gen_error [-0.00050092]
+Accuracy [0.98424244] [0.98391789] gen_error [0.00032455]
+Accuracy [0.98643941] [0.98764926] gen_error [-0.00120986]
