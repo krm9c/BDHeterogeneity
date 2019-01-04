@@ -290,10 +290,8 @@ class learners():
             with tf.name_scope("Trainer"):
                 global_step = tf.Variable(0, trainable=False)
                 learning_rate =lr
-                dec = tf.train.exponential_decay(lr, global_step,
-                                            100000, 0.99, staircase=True)
-                Error_Loss =  tf.nn.softmax_cross_entropy_with_logits(logits = \
-                self.classifier['class'], labels = self.classifier['Target'], name='Cost')
+                dec = tf.train.exponential_decay(lr, global_step, 100000, 0.99, staircase=True)
+                Error_Loss =  tf.nn.softmax_cross_entropy_with_logits(logits = self.classifier['class'], labels = self.classifier['Target'], name='Cost')
 
                 # The final cost function
                 self.classifier["cost_NN"] = tf.reduce_mean(Error_Loss)
