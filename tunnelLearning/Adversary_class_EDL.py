@@ -148,7 +148,7 @@ class learners():
         for i in xrange(len(self.Layer_cost)):
             cost, weight, bias, fan_in, batch_size, layer_in, dlayer,\
                 backward = self.Layer_cost[i]
-
+            
             # cost_clamp, weight_clamp, bias_clamp = self.Layer_cost_Clamp[i]
             # self.classifier['real_cost'].append(    
             #     tf.nn.l2_loss(cost - cost_clamp))
